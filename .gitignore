@@ -1,1 +1,3 @@
 *.iml
+content/.sass-cache/
+content/css/*.map
