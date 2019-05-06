@@ -1,0 +1,39 @@
+@import "header.scss";
+@import "footer.scss";
+@import "flags.scss";
+@import "image-placeholder.scss";
+@import "geokret-move.scss";
+@import "geokret-move-tracking-code.scss";
+@import "icons.scss";
+@import "gallery.scss";
+/* Move down content because we have a fixed navbar that is 50px tall */
+.container {
+  // padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.top-buffer {
+  margin-top: 20px;
+}
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+.leaflet-container {
+  height: 400px;
+}
+
+#preview-image-plugin-overlay {
+  z-index: 9999;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
+}
