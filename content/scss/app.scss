@@ -6,6 +6,8 @@
 @import "geokret-move-tracking-code.scss";
 @import "icons.scss";
 @import "gallery.scss";
+@import "map-home.scss";
+@import "submenu.scss";
 /* Move down content because we have a fixed navbar that is 50px tall */
 .container {
   // padding-top: 50px;
@@ -32,8 +34,18 @@
 }
 
 a.anchor {
-    display: block;
-    position: relative;
-    top: -55px;
-    visibility: hidden;
+  display: block;
+  position: relative;
+  top: -55px;
+  visibility: hidden;
+}
+
+figcaption.caption-button {
+  p {
+    margin: 10px 5px 5px;
+  }
+}
+
+.user-anonymous {
+  color: #888;
 }
