@@ -327,6 +327,8 @@ div.gallery {
     border: 1px solid #eee;
     width: 100px;
     height: 100px; }
+  div.gallery figure img.is-avatar {
+    border-color: #2ab2c2; }
   div.gallery .overlay {
     position: absolute;
     color: white;
