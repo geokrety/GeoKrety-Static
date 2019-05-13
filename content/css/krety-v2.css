@@ -318,7 +318,7 @@ div.gallery {
     display: block;
     width: 110px;
     height: 110px;
-    padding: 5px 5px 5px 5px;
+    padding: 5px;
     display: flex;
     justify-content: center;
     align-items: center; }
@@ -402,6 +402,11 @@ ul.links {
 
 ul.links > li {
   margin-top: 5px; }
+
+div.statpic-chooser div.radio-inline {
+  margin: 10px; }
+div.statpic-chooser input[type="radio"] {
+  display: block; }
 
 /* Move down content because we have a fixed navbar that is 50px tall */
 .container {
