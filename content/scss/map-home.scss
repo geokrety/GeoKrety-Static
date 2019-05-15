@@ -17,6 +17,9 @@ div.map-home {
 
   .leaflet-container {
     height: 163px;
+}
+  .leaflet-container-200 {
+    height: 230px;
   }
 
   figure {
@@ -33,13 +36,9 @@ div.map-home {
     width: 100%;
     padding-left: 5px;
     padding-right: 5px;
-  }
+}
 
   figcaption > p {
-    display: block;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
     margin-bottom: 3px;
   }
 
