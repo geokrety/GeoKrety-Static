@@ -324,10 +324,14 @@ div.gallery {
     align-items: center; }
   div.gallery figure img {
     display: block;
+    max-width: 100px;
+    max-height: 100px; }
+  div.gallery figure .image-container {
     border: 1px solid #eee;
     width: 100px;
-    height: 100px; }
-  div.gallery figure img.is-avatar {
+    height: 100px;
+    overflow: hidden; }
+  div.gallery figure div.is-avatar {
     border-color: #2ab2c2; }
   div.gallery .overlay {
     position: absolute;
