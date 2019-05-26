@@ -205,8 +205,8 @@ input[type="radio"]:disabled + .box span:before {
   padding: 5px; }
 
 .box {
-  width: 150px;
-  height: 150px;
+  width: 115px;
+  height: 115px;
   background-color: lightgrey;
   will-change: transition;
   display: inline-block;
@@ -381,8 +381,6 @@ div.map-home {
   margin: 6px; }
   div.map-home .leaflet-container {
     height: 163px; }
-  div.map-home .leaflet-container-200 {
-    height: 230px; }
   div.map-home figure {
     width: 100%;
     height: 100%;
@@ -414,9 +412,9 @@ div.statpic-chooser input[type="radio"] {
 .container {
   padding-bottom: 20px; }
 
-.top-buffer {
-  margin-top: 20px; }
-
+@media (max-width: 991px) {
+  .top-buffer {
+    margin-top: 20px; } }
 /*
  * Top navigation
  * Hide default border to remove 1px line.
@@ -426,6 +424,9 @@ div.statpic-chooser input[type="radio"] {
 
 .leaflet-container {
   height: 400px; }
+
+.leaflet-container-200 {
+  height: 230px; }
 
 #preview-image-plugin-overlay {
   z-index: 9999; }
@@ -447,5 +448,8 @@ figcaption.caption-button p {
 
 .margin-20 {
   margin: 20px; }
+
+.coordinates-togglable, .map-togglable {
+  display: none; }
 
 /*# sourceMappingURL=krety-v2.css.map */
