@@ -11,50 +11,60 @@
 @import "statpic.scss";
 /* Move down content because we have a fixed navbar that is 50px tall */
 .container {
-  // padding-top: 50px;
-  padding-bottom: 20px;
+    // padding-top: 50px;
+    padding-bottom: 20px;
 }
-
-.top-buffer {
-  margin-top: 20px;
+// Space between row on mobile
+@media (max-width: 991px) {
+    .top-buffer {
+        margin-top: 20px;
+    }
 }
 /*
  * Top navigation
  * Hide default border to remove 1px line.
  */
 .navbar-fixed-top {
-  border: 0;
+    border: 0;
 }
 
 .leaflet-container {
-  height: 400px;
+    height: 400px;
+}
+
+.leaflet-container-200 {
+    height: 230px;
 }
 
 #preview-image-plugin-overlay {
-  z-index: 9999;
+    z-index: 9999;
 }
 
 a.anchor {
-  display: block;
-  position: relative;
-  top: -55px;
-  visibility: hidden;
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
 }
 
 figcaption.caption-button {
-  p {
-    margin: 10px 5px 5px;
-  }
+    p {
+        margin: 10px 5px 5px;
+    }
 }
 
 .user-anonymous {
-  color: #888;
+    color: #888;
 }
 
 .ellipsis {
-  text-overflow: ellipsis;
+    text-overflow: ellipsis;
 }
 
 .margin-20 {
-  margin: 20px;
+    margin: 20px;
+}
+
+.coordinates-togglable, .map-togglable {
+    display: none;
 }
