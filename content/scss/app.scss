@@ -9,6 +9,7 @@
 @import "map-home.scss";
 @import "submenu.scss";
 @import "statpic.scss";
+@import "credits.scss";
 /* Move down content because we have a fixed navbar that is 50px tall */
 .container {
     // padding-top: 50px;
@@ -36,15 +37,22 @@
     height: 230px;
 }
 
+.leaflet-container-small {
+  height: 112px;
+  background-color: eee;
+  border: 1px solid silver;
+  height: 163px;
+}
+
 #preview-image-plugin-overlay {
     z-index: 9999;
 }
 
 a.anchor {
-    display: block;
-    position: relative;
-    top: -55px;
-    visibility: hidden;
+  display: block;
+  position: relative;
+  top: -55px;
+  visibility: hidden;
 }
 
 figcaption.caption-button {

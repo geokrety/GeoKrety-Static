@@ -408,6 +408,23 @@ div.statpic-chooser div.radio-inline {
 div.statpic-chooser input[type="radio"] {
   display: block; }
 
+.dcreds {
+  padding: 10px; }
+
+.dcred {
+  margin: 5px;
+  padding: 5px;
+  float: left;
+  width: 250px;
+  height: 100px;
+  border: 1px solid lightgrey; }
+
+.dcredimg {
+  float: right; }
+
+.dcredname {
+  padding: 10px; }
+
 /* Move down content because we have a fixed navbar that is 50px tall */
 .container {
   padding-bottom: 20px; }
@@ -427,6 +444,12 @@ div.statpic-chooser input[type="radio"] {
 
 .leaflet-container-200 {
   height: 230px; }
+
+.leaflet-container-small {
+  height: 112px;
+  background-color: eee;
+  border: 1px solid silver;
+  height: 163px; }
 
 #preview-image-plugin-overlay {
   z-index: 9999; }
