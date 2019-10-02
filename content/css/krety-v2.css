@@ -499,4 +499,10 @@ figcaption.caption-button p {
 .coordinates-togglable, .map-togglable {
   display: none; }
 
+.navbar-inverse .navbar-nav > li > a.red {
+  color: red; }
+
+.bold {
+  font-weight: bold; }
+
 /*# sourceMappingURL=krety-v2.css.map */
