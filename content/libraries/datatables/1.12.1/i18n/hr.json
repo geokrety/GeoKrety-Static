@@ -1,164 +1,164 @@
 {
-    "emptyTable": "Nema podataka u tablici",
-    "info": "Prikazano _START_ do _END_ od _TOTAL_ rezultata",
-    "infoEmpty": "Prikazano 0 do 0 od 0 rezultata",
-    "infoFiltered": "(filtrirano iz _MAX_ ukupnih rezultata)",
-    "infoThousands": ",",
-    "lengthMenu": "Prikaži _MENU_ rezultata po stranici",
-    "loadingRecords": "Dohvaćam...",
-    "processing": "Obrađujem...",
-    "search": "Pretraži:",
-    "zeroRecords": "Ništa nije pronađeno",
-    "paginate": {
-        "first": "Prva",
-        "previous": "Nazad",
-        "next": "Naprijed",
-        "last": "Zadnja"
+  "aria": {
+    "sortAscending": ": aktiviraj za rastu\u0107i poredak",
+    "sortDescending": ": aktiviraj za padaju\u0107i poredak"
+  },
+  "autoFill": {
+    "cancel": "Poni\u0161ti"
+  },
+  "buttons": {
+    "collection": "Kolekcija",
+    "colvis": "Vidljivost stupca",
+    "colvisRestore": "Povrati vidljivost",
+    "copy": "Kopiraj",
+    "copyKeys": "Pritisni ctrl ili % + C da kopira\u0161 podatke iz tablice u me\u0111uspremnik.  Da odustane\u0161, pritisni ovu poruku ili pritisni ESC.",
+    "copySuccess": {
+      "1": "Prvi redak je kopiran u me\u0111uspremnik",
+      "_": "Kopirano je %ds redova u me\u0111uspremnik"
     },
-    "aria": {
-        "sortAscending": ": aktiviraj za rastući poredak",
-        "sortDescending": ": aktiviraj za padajući poredak"
+    "copyTitle": "Kopiraj u Me\u0111uspremnik",
+    "csv": "CSV",
+    "excel": "Excel",
+    "pageLength": {
+      "-1": "Prika\u017ei sve redove",
+      "_": "Prika\u017ei %d redova"
     },
-    "autoFill": {
-        "cancel": "Poništi"
+    "pdf": "PDF",
+    "print": "Isprintaj"
+  },
+  "datetime": {
+    "amPm": [
+      "AM",
+      "PM"
+    ],
+    "hours": "Sati",
+    "minutes": "Minute",
+    "next": "Slijede\u0107e",
+    "previous": "Prethodno",
+    "seconds": "Sekunde",
+    "unknown": "Nepoznat"
+  },
+  "editor": {
+    "close": "Zatvori",
+    "create": {
+      "button": "Novi",
+      "submit": "Dodaj",
+      "title": "Dodaj novi zapis"
     },
-    "buttons": {
-        "collection": "Kolekcija",
-        "colvis": "Vidljivost stupca",
-        "colvisRestore": "Povrati vidljivost",
-        "copy": "Kopiraj",
-        "copyKeys": "Pritisni ctrl ili % + C da kopiraš podatke iz tablice u međuspremnik.  Da odustaneš, pritisni ovu poruku ili pritisni ESC.",
-        "copySuccess": {
-            "_": "Kopirano je %ds redova u međuspremnik",
-            "1": "Prvi redak je kopiran u međuspremnik"
-        },
-        "copyTitle": "Kopiraj u Međuspremnik",
-        "csv": "CSV",
-        "excel": "Excel",
-        "pdf": "PDF",
-        "print": "Isprintaj",
-        "pageLength": {
-            "-1": "Prikaži sve redove",
-            "_": "Prikaži %d redova"
-        }
+    "edit": {
+      "button": "Uredi",
+      "submit": "A\u017euriraj",
+      "title": "Uredi zapis"
     },
-    "searchPanes": {
-        "collapse": [
-            "Pretra"
-        ],
-        "clearMessage": "Obriši sve",
-        "emptyPanes": "Nema okna za pretraživanje",
-        "loadMessage": "Učitavanje okna za pretraživanje...",
-        "title": "Filtera aktivno - %d"
+    "error": {
+      "system": "Dogodila se pogre\u0161ka (Vi\u0161e informacija)."
     },
-    "select": {
-        "cells": {
-            "_": "%d ćelija odabrano",
-            "1": "1 ćelija odabrana"
-        },
-        "columns": {
-            "_": "%d stupaca odabrano",
-            "1": "1 stupac odabran"
-        }
+    "multi": {
+      "info": "Da biste uredili i postavili sve stavke za ovaj ulaz na istu vrijednost, kliknite ili dodirnite ovdje, ina\u010de \u0107e zadr\u017eati svoje pojedina\u010dne vrijednosti.",
+      "noMulti": "Ovaj unos mo\u017ee biti ure\u0111en samostalno, ali ne kao dio grupe.",
+      "restore": "Poni\u0161ti promjene",
+      "title": "Vrijednosti"
     },
-    "searchBuilder": {
-        "add": "Dodaj uvjet",
-        "button": {
-            "0": "Graditelj pretraživanja",
-            "_": "Graditelj pretraživanja (%d)"
-        },
-        "clearAll": "Obriši sve",
-        "conditions": {
-            "date": {
-                "after": "Nakon",
-                "between": "Između",
-                "empty": "Prazno",
-                "equals": "Jednako",
-                "not": "Ne",
-                "notBetween": "Nije između",
-                "notEmpty": "Nije prazno"
-            },
-            "number": {
-                "between": "Između",
-                "empty": "Prazno",
-                "equals": "Jednako",
-                "gt": "Veće od",
-                "gte": "Veće ili jednako od",
-                "lt": "Manje od",
-                "lte": "Manje ili jednako od",
-                "not": "Ne",
-                "notBetween": "Nije između",
-                "notEmpty": "Nije prazno"
-            },
-            "string": {
-                "contains": "Sadrži",
-                "empty": "Prazno",
-                "endsWith": "Završava sa",
-                "equals": "Jednako",
-                "not": "Ne",
-                "notEmpty": "Nije prazno",
-                "startsWith": "Počinje sa"
-            },
-            "array": {
-                "equals": "Jednako je",
-                "empty": "Prazno",
-                "contains": "Sadrži",
-                "not": "Ne",
-                "notEmpty": "Nije prazno",
-                "without": "Bez"
-            }
-        },
-        "data": "Podatak",
-        "deleteTitle": "Obriši pravilo za filtriranje",
-        "logicAnd": "I",
-        "logicOr": "ILI",
-        "title": {
-            "0": "Graditelj pretraživanja",
-            "_": "Graditelj pretraživanja (%d)"
-        },
-        "value": "Vrijednost"
-    },
-    "datetime": {
-        "previous": "Prethodno",
-        "next": "Slijedeće",
-        "hours": "Sati",
-        "minutes": "Minute",
-        "seconds": "Sekunde",
-        "unknown": "Nepoznat",
-        "amPm": [
-            "AM",
-            "PM"
-        ]
-    },
-    "editor": {
-        "close": "Zatvori",
-        "create": {
-            "button": "Novi",
-            "title": "Dodaj novi zapis",
-            "submit": "Dodaj"
-        },
-        "edit": {
-            "button": "Uredi",
-            "title": "Uredi zapis",
-            "submit": "Ažuriraj"
-        },
-        "remove": {
-            "button": "Obriši",
-            "title": "Obriši",
-            "submit": "Obriši",
-            "confirm": {
-                "_": "Jeste li sigurni da želite obrisati %d redova?",
-                "1": "Jeste li sigurni da želite obrisati 1 redak?"
-            }
-        },
-        "error": {
-            "system": "Dogodila se pogreška (Više informacija)."
-        },
-        "multi": {
-            "title": "Vrijednosti",
-            "info": "Da biste uredili i postavili sve stavke za ovaj ulaz na istu vrijednost, kliknite ili dodirnite ovdje, inače će zadržati svoje pojedinačne vrijednosti.",
-            "restore": "Poništi promjene",
-            "noMulti": "Ovaj unos može biti uređen samostalno, ali ne kao dio grupe."
-        }
+    "remove": {
+      "button": "Obri\u0161i",
+      "confirm": {
+        "1": "Jeste li sigurni da \u017eelite obrisati 1 redak?",
+        "_": "Jeste li sigurni da \u017eelite obrisati %d redova?"
+      },
+      "submit": "Obri\u0161i",
+      "title": "Obri\u0161i"
     }
+  },
+  "emptyTable": "Nema podataka u tablici",
+  "info": "Prikazano _START_ do _END_ od _TOTAL_ rezultata",
+  "infoEmpty": "Prikazano 0 do 0 od 0 rezultata",
+  "infoFiltered": "(filtrirano iz _MAX_ ukupnih rezultata)",
+  "infoThousands": ",",
+  "lengthMenu": "Prika\u017ei _MENU_ rezultata po stranici",
+  "loadingRecords": "Dohva\u0107am...",
+  "paginate": {
+    "first": "Prva",
+    "last": "Zadnja",
+    "next": "Naprijed",
+    "previous": "Nazad"
+  },
+  "processing": "Obra\u0111ujem...",
+  "search": "Pretra\u017ei:",
+  "searchBuilder": {
+    "add": "Dodaj uvjet",
+    "button": {
+      "0": "Graditelj pretra\u017eivanja",
+      "_": "Graditelj pretra\u017eivanja (%d)"
+    },
+    "clearAll": "Obri\u0161i sve",
+    "conditions": {
+      "array": {
+        "contains": "Sadr\u017ei",
+        "empty": "Prazno",
+        "equals": "Jednako je",
+        "not": "Ne",
+        "notEmpty": "Nije prazno",
+        "without": "Bez"
+      },
+      "date": {
+        "after": "Nakon",
+        "between": "Izme\u0111u",
+        "empty": "Prazno",
+        "equals": "Jednako",
+        "not": "Ne",
+        "notBetween": "Nije izme\u0111u",
+        "notEmpty": "Nije prazno"
+      },
+      "number": {
+        "between": "Izme\u0111u",
+        "empty": "Prazno",
+        "equals": "Jednako",
+        "gt": "Ve\u0107e od",
+        "gte": "Ve\u0107e ili jednako od",
+        "lt": "Manje od",
+        "lte": "Manje ili jednako od",
+        "not": "Ne",
+        "notBetween": "Nije izme\u0111u",
+        "notEmpty": "Nije prazno"
+      },
+      "string": {
+        "contains": "Sadr\u017ei",
+        "empty": "Prazno",
+        "endsWith": "Zavr\u0161ava sa",
+        "equals": "Jednako",
+        "not": "Ne",
+        "notEmpty": "Nije prazno",
+        "startsWith": "Po\u010dinje sa"
+      }
+    },
+    "data": "Podatak",
+    "deleteTitle": "Obri\u0161i pravilo za filtriranje",
+    "logicAnd": "I",
+    "logicOr": "ILI",
+    "title": {
+      "0": "Graditelj pretra\u017eivanja",
+      "_": "Graditelj pretra\u017eivanja (%d)"
+    },
+    "value": "Vrijednost"
+  },
+  "searchPanes": {
+    "clearMessage": "Obri\u0161i sve",
+    "collapse": [
+      "Pretra"
+    ],
+    "emptyPanes": "Nema okna za pretra\u017eivanje",
+    "loadMessage": "U\u010ditavanje okna za pretra\u017eivanje...",
+    "title": "Filtera aktivno - %d"
+  },
+  "select": {
+    "cells": {
+      "1": "1 \u0107elija odabrana",
+      "_": "%d \u0107elija odabrano"
+    },
+    "columns": {
+      "1": "1 stupac odabran",
+      "_": "%d stupaca odabrano"
+    }
+  },
+  "zeroRecords": "Ni\u0161ta nije prona\u0111eno"
 }

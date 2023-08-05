@@ -1,78 +1,78 @@
 {
-    "emptyTable": "テーブルにデータがありません",
-    "info": " _TOTAL_ 件中 _START_ から _END_ まで表示",
-    "infoEmpty": " 0 件中 0 から 0 まで表示",
-    "infoFiltered": "（全 _MAX_ 件より抽出）",
-    "infoThousands": ",",
-    "lengthMenu": "_MENU_ 件表示",
-    "loadingRecords": "読み込み中...",
-    "processing": "処理中...",
-    "search": "検索:",
-    "zeroRecords": "一致するレコードがありません",
-    "paginate": {
-        "first": "先頭",
-        "last": "最終",
-        "next": "次",
-        "previous": "前"
+  "aria": {
+    "sortAscending": ": \u5217\u3092\u6607\u9806\u306b\u4e26\u3079\u66ff\u3048\u308b\u306b\u306f\u30a2\u30af\u30c6\u30a3\u30d6\u306b\u3059\u308b",
+    "sortDescending": ": \u5217\u3092\u964d\u9806\u306b\u4e26\u3079\u66ff\u3048\u308b\u306b\u306f\u30a2\u30af\u30c6\u30a3\u30d6\u306b\u3059\u308b"
+  },
+  "buttons": {
+    "colvis": "\u9805\u76ee\u306e\u8868\u793a/\u975e\u8868\u793a",
+    "csv": "CSV\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9"
+  },
+  "emptyTable": "\u30c6\u30fc\u30d6\u30eb\u306b\u30c7\u30fc\u30bf\u304c\u3042\u308a\u307e\u305b\u3093",
+  "info": " _TOTAL_ \u4ef6\u4e2d _START_ \u304b\u3089 _END_ \u307e\u3067\u8868\u793a",
+  "infoEmpty": " 0 \u4ef6\u4e2d 0 \u304b\u3089 0 \u307e\u3067\u8868\u793a",
+  "infoFiltered": "\uff08\u5168 _MAX_ \u4ef6\u3088\u308a\u62bd\u51fa\uff09",
+  "infoThousands": ",",
+  "lengthMenu": "_MENU_ \u4ef6\u8868\u793a",
+  "loadingRecords": "\u8aad\u307f\u8fbc\u307f\u4e2d...",
+  "paginate": {
+    "first": "\u5148\u982d",
+    "last": "\u6700\u7d42",
+    "next": "\u6b21",
+    "previous": "\u524d"
+  },
+  "processing": "\u51e6\u7406\u4e2d...",
+  "search": "\u691c\u7d22:",
+  "searchBuilder": {
+    "add": "\u6761\u4ef6\u3092\u8ffd\u52a0",
+    "button": {
+      "0": "\u30ab\u30b9\u30bf\u30e0\u30b5\u30fc\u30c1",
+      "_": "\u30ab\u30b9\u30bf\u30e0\u30b5\u30fc\u30c1 (%d)"
     },
-    "aria": {
-        "sortAscending": ": 列を昇順に並べ替えるにはアクティブにする",
-        "sortDescending": ": 列を降順に並べ替えるにはアクティブにする"
+    "clearAll": "\u3059\u3079\u3066\u306e\u6761\u4ef6\u3092\u30af\u30ea\u30a2",
+    "condition": "\u6761\u4ef6",
+    "conditions": {
+      "date": {
+        "after": "\u6b21\u306e\u65e5\u4ed8\u4ee5\u964d",
+        "before": "\u6b21\u306e\u65e5\u4ed8\u4ee5\u524d",
+        "between": "\u6b21\u306e\u671f\u9593\u306b\u542b\u307e\u308c\u308b",
+        "empty": "\u7a7a\u767d",
+        "equals": "\u6b21\u306e\u65e5\u4ed8\u3068\u7b49\u3057\u3044",
+        "not": "\u6b21\u306e\u65e5\u4ed8\u3068\u7b49\u3057\u304f\u306a\u3044",
+        "notBetween": "\u6b21\u306e\u671f\u9593\u306b\u542b\u307e\u308c\u306a\u3044",
+        "notEmpty": "\u7a7a\u767d\u3067\u306f\u306a\u3044"
+      },
+      "number": {
+        "between": "\u6b21\u306e\u5024\u306e\u9593\u306b\u542b\u307e\u308c\u308b",
+        "empty": "\u7a7a\u767d",
+        "equals": "\u6b21\u306e\u5024\u3068\u7b49\u3057\u3044",
+        "gt": "\u6b21\u306e\u5024\u3088\u308a\u3082\u5927\u304d\u3044",
+        "gte": "\u6b21\u306e\u5024\u4ee5\u4e0a",
+        "lt": "\u6b21\u306e\u5024\u672a\u6e80",
+        "lte": "\u6b21\u306e\u5024\u4ee5\u4e0b",
+        "not": "\u6b21\u306e\u5024\u3068\u7b49\u3057\u304f\u306a\u3044",
+        "notBetween": "\u6b21\u306e\u5024\u306e\u9593\u306b\u542b\u307e\u308c\u306a\u3044",
+        "notEmpty": "\u7a7a\u767d\u3067\u306f\u306a\u3044"
+      },
+      "string": {
+        "contains": "\u6b21\u306e\u6587\u5b57\u3092\u542b\u3080",
+        "empty": "\u7a7a\u767d",
+        "endsWith": "\u6b21\u306e\u6587\u5b57\u3067\u7d42\u308f\u308b",
+        "equals": "\u6b21\u306e\u6587\u5b57\u3068\u7b49\u3057\u3044",
+        "not": "\u6b21\u306e\u6587\u5b57\u3068\u7b49\u3057\u304f\u306a\u3044",
+        "notContains": "\u6b21\u306e\u6587\u5b57\u3092\u542b\u307e\u306a\u3044",
+        "notEmpty": "\u7a7a\u767d\u3067\u306f\u306a\u3044",
+        "notEnds": "\u6b21\u306e\u6587\u5b57\u3067\u7d42\u308f\u3089\u306a\u3044",
+        "notStarts": "\u6b21\u306e\u6587\u5b57\u3067\u59cb\u307e\u3089\u306a\u3044",
+        "startsWith": "\u6b21\u306e\u6587\u5b57\u304b\u3089\u59cb\u307e\u308b"
+      }
     },
-    "thousands": ",",
-    "buttons": {
-        "colvis": "項目の表示\/非表示",
-        "csv": "CSVをダウンロード"
+    "data": "\u9805\u76ee",
+    "title": {
+      "0": "\u30ab\u30b9\u30bf\u30e0\u30b5\u30fc\u30c1",
+      "_": "\u30ab\u30b9\u30bf\u30e0\u30b5\u30fc\u30c1 (%d)"
     },
-    "searchBuilder": {
-        "add": "条件を追加",
-        "button": {
-            "0": "カスタムサーチ",
-            "_": "カスタムサーチ (%d)"
-        },
-        "clearAll": "すべての条件をクリア",
-        "condition": "条件",
-        "conditions": {
-            "date": {
-                "after": "次の日付以降",
-                "before": "次の日付以前",
-                "between": "次の期間に含まれる",
-                "empty": "空白",
-                "equals": "次の日付と等しい",
-                "not": "次の日付と等しくない",
-                "notBetween": "次の期間に含まれない",
-                "notEmpty": "空白ではない"
-            },
-            "number": {
-                "between": "次の値の間に含まれる",
-                "empty": "空白",
-                "equals": "次の値と等しい",
-                "gt": "次の値よりも大きい",
-                "gte": "次の値以上",
-                "lt": "次の値未満",
-                "lte": "次の値以下",
-                "not": "次の値と等しくない",
-                "notBetween": "次の値の間に含まれない",
-                "notEmpty": "空白ではない"
-            },
-            "string": {
-                "contains": "次の文字を含む",
-                "empty": "空白",
-                "endsWith": "次の文字で終わる",
-                "equals": "次の文字と等しい",
-                "not": "次の文字と等しくない",
-                "notEmpty": "空白ではない",
-                "startsWith": "次の文字から始まる",
-                "notContains": "次の文字を含まない",
-                "notStarts": "次の文字で始まらない",
-                "notEnds": "次の文字で終わらない"
-            }
-        },
-        "data": "項目",
-        "title": {
-            "0": "カスタムサーチ",
-            "_": "カスタムサーチ (%d)"
-        },
-        "value": "値"
-    }
+    "value": "\u5024"
+  },
+  "thousands": ",",
+  "zeroRecords": "\u4e00\u81f4\u3059\u308b\u30ec\u30b3\u30fc\u30c9\u304c\u3042\u308a\u307e\u305b\u3093"
 }

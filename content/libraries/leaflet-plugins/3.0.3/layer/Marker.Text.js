@@ -36,7 +36,7 @@ L.Marker.Text = L.Marker.extend({
 			s.parentNode.removeChild(s);
 			this._icon.appendChild(s);
 		}
-		
+
 		i.parentNode.removeChild(i);
 		this._icon.appendChild(i);
 

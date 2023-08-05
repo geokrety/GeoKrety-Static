@@ -1,19 +1,19 @@
 {
-    "emptyTable": "Lentelėje nėra duomenų",
-    "info": "Rodomi įrašai nuo _START_ iki _END_ iš _TOTAL_ įrašų",
-    "infoEmpty": "Rodomi įrašai nuo 0 iki 0 iš 0",
-    "infoFiltered": "(atrinkta iš _MAX_ įrašų)",
-    "infoThousands": " ",
-    "lengthMenu": "Rodyti _MENU_ įrašus",
-    "loadingRecords": "Įkeliama...",
-    "processing": "Apdorojama...",
-    "search": "Ieškoti:",
-    "thousands": " ",
-    "zeroRecords": "Įrašų nerasta",
-    "paginate": {
-        "first": "Pirmas",
-        "previous": "Ankstesnis",
-        "next": "Tolimesnis",
-        "last": "Paskutinis"
-    }
+  "emptyTable": "Lentel\u0117je n\u0117ra duomen\u0173",
+  "info": "Rodomi \u012fra\u0161ai nuo _START_ iki _END_ i\u0161 _TOTAL_ \u012fra\u0161\u0173",
+  "infoEmpty": "Rodomi \u012fra\u0161ai nuo 0 iki 0 i\u0161 0",
+  "infoFiltered": "(atrinkta i\u0161 _MAX_ \u012fra\u0161\u0173)",
+  "infoThousands": " ",
+  "lengthMenu": "Rodyti _MENU_ \u012fra\u0161us",
+  "loadingRecords": "\u012ekeliama...",
+  "paginate": {
+    "first": "Pirmas",
+    "last": "Paskutinis",
+    "next": "Tolimesnis",
+    "previous": "Ankstesnis"
+  },
+  "processing": "Apdorojama...",
+  "search": "Ie\u0161koti:",
+  "thousands": " ",
+  "zeroRecords": "\u012era\u0161\u0173 nerasta"
 }

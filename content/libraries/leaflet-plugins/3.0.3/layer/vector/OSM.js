@@ -8,12 +8,12 @@ L.OSM = L.FeatureGroup.extend({
 		L.Util.setOptions(this, options);
 		this._url = url;
 		this._layers = {};
-		
+
 		if (url) {
 			this.addXML(url, options, this.options.async);
 		}
 	},
-	
+
 	loadXML: function (url, cb, options, async) {
 		if (async === undefined) async = this.options.async;
 		if (options === undefined) options = this.options;
@@ -82,7 +82,7 @@ L.OSM = L.FeatureGroup.extend({
 
 		if (!layers.length) return;
 		var layer = layers[0];
-		if (layers.length > 1) 
+		if (layers.length > 1)
 			layer = new L.FeatureGroup(layers);
 		if (!named) this.parse_name(xml, layer);
 		layer.focusPoint = ll;

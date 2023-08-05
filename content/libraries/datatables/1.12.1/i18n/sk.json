@@ -1,199 +1,199 @@
 {
-    "info": "Záznamy _START_ až _END_ z celkom _TOTAL_",
-    "infoEmpty": "Záznamy 0 až 0 z celkom 0 ",
-    "infoFiltered": "(vyfiltrované spomedzi _MAX_ záznamov)",
-    "infoThousands": " ",
-    "lengthMenu": "Zobraz _MENU_ záznamov",
-    "loadingRecords": "Načítavam...",
-    "processing": "Spracúvam...",
-    "search": "Hľadať:",
-    "zeroRecords": "Nenašli sa žiadne vyhovujúce záznamy",
-    "paginate": {
-        "first": "Prvá",
-        "last": "Posledná",
-        "next": "Nasledujúca",
-        "previous": "Predchádzajúca"
+  "aria": {
+    "sortAscending": ": aktivujte na zoradenie st\u013apca vzostupne",
+    "sortDescending": ": aktivujte na zoradenie st\u013apca zostupne"
+  },
+  "autoFill": {
+    "cancel": "Zru\u0161i\u0165",
+    "fill": "Vyplni\u0165 v\u0161etky bunky s <i>%d<i></i></i>",
+    "fillHorizontal": "Vyplni\u0165 bunky horizont\u00e1lne",
+    "fillVertical": "Vyplni\u0165 bunky vertik\u00e1lne"
+  },
+  "buttons": {
+    "collection": "Kolekcia <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"></span>",
+    "colvis": "Vidite\u013enos\u0165 st\u013apcov",
+    "colvisRestore": "Obnovi\u0165 vidite\u013enos\u0165",
+    "copy": "Kop\u00edrova\u0165",
+    "copyKeys": "Stla\u010dte CTRL alebo u2318 + C pre kop\u00edrovanie d\u00e1t tabu\u013eky do syst\u00e9movej schr\u00e1nky. Pre zru\u0161enie kliknite na t\u00fato spr\u00e1vu alebo stla\u010dte ESC.",
+    "copySuccess": {
+      "1": "Skop\u00edrovan\u00fd 1 riadok do schr\u00e1nky",
+      "_": "Skop\u00edrovan\u00fdch %d riadkov do schr\u00e1nky"
     },
-    "aria": {
-        "sortAscending": ": aktivujte na zoradenie stĺpca vzostupne",
-        "sortDescending": ": aktivujte na zoradenie stĺpca zostupne"
+    "copyTitle": "Kop\u00edrova\u0165 do schr\u00e1nky",
+    "csv": "CSV",
+    "excel": "Excel",
+    "pageLength": {
+      "-1": "Zobrazi\u0165 v\u0161etky riadky",
+      "_": "Zobrazi\u0165 %d riadkov"
     },
-    "autoFill": {
-        "cancel": "Zrušiť",
-        "fill": "Vyplniť všetky bunky s <i>%d<i><\/i><\/i>",
-        "fillHorizontal": "Vyplniť bunky horizontálne",
-        "fillVertical": "Vyplniť bunky vertikálne"
+    "pdf": "PDF",
+    "print": "Tla\u010di\u0165"
+  },
+  "datetime": {
+    "amPm": [
+      "am",
+      "pm"
+    ],
+    "hours": "Hodiny",
+    "minutes": "Min\u00faty",
+    "months": {
+      "0": "Janu\u00e1r",
+      "1": "Febur\u00e1r",
+      "10": "November",
+      "11": "December",
+      "2": "Marec",
+      "3": "Apr\u00edl",
+      "4": "M\u00e1j",
+      "5": "J\u00fan",
+      "6": "J\u00fal",
+      "7": "August",
+      "8": "September",
+      "9": "Okt\u00f3ber"
     },
-    "buttons": {
-        "collection": "Kolekcia <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"><\/span>",
-        "colvisRestore": "Obnoviť viditeľnosť",
-        "copy": "Kopírovať",
-        "copySuccess": {
-            "1": "Skopírovaný 1 riadok do schránky",
-            "_": "Skopírovaných %d riadkov do schránky"
-        },
-        "copyTitle": "Kopírovať do schránky",
-        "csv": "CSV",
-        "excel": "Excel",
-        "pageLength": {
-            "-1": "Zobraziť všetky riadky",
-            "_": "Zobraziť %d riadkov"
-        },
-        "pdf": "PDF",
-        "print": "Tlačiť",
-        "colvis": "Viditeľnosť stĺpcov",
-        "copyKeys": "Stlačte CTRL alebo u2318 + C pre kopírovanie dát tabuľky do systémovej schránky. Pre zrušenie kliknite na túto správu alebo stlačte ESC."
+    "next": "\u010eal\u0161\u00ed",
+    "previous": "Predch\u00e1dzaj\u00faci",
+    "seconds": "Sekundy",
+    "unknown": "Nezn\u00e1my",
+    "weekdays": [
+      "Nede\u013ea",
+      "Pondelok",
+      "Utorok",
+      "Streda",
+      "\u0160tvrtok",
+      "Piatok",
+      "Sobota"
+    ]
+  },
+  "decimal": ",",
+  "editor": {
+    "close": "Zavrie\u0165",
+    "create": {
+      "button": "Nov\u00fd",
+      "submit": "Vytvori\u0165",
+      "title": "Vytvori\u0165 nov\u00fd z\u00e1znam"
     },
-    "searchBuilder": {
-        "add": "Pridať Podmienku",
-        "clearAll": "Zmazať všetko",
-        "condition": "Podmienka",
-        "conditions": {
-            "date": {
-                "after": "Po",
-                "before": "Pred",
-                "between": "Medzi",
-                "empty": "Prázdne",
-                "equals": "Rovná sa",
-                "not": "Nie je",
-                "notBetween": "Nie je medzi",
-                "notEmpty": "Nie je prázdne"
-            },
-            "number": {
-                "between": "Medzi",
-                "empty": "Prázdne",
-                "equals": "Rovná sa",
-                "gt": "Väčšie ako",
-                "gte": "Väčšie alebo rovnaké ako",
-                "lt": "Menšie ako",
-                "lte": "Menšie alebo rovnaké ako",
-                "not": "Nie",
-                "notBetween": "Nie medzi",
-                "notEmpty": "Nie prázdne"
-            },
-            "string": {
-                "contains": "Obsahuje",
-                "empty": "Prázdne",
-                "endsWith": "Končí s",
-                "equals": "Rovná sa",
-                "not": "Nie je",
-                "notEmpty": "Nie je prázdne",
-                "startsWith": "Začína s"
-            },
-            "array": {
-                "equals": "Rovná sa",
-                "empty": "Prázdne",
-                "contains": "Obsahuje",
-                "not": "Nie je",
-                "notEmpty": "Nie je prázdne",
-                "without": "Bez"
-            }
-        },
-        "data": "Dáta",
-        "deleteTitle": "Vymazať filtrovacie pravidlo",
-        "logicAnd": "A",
-        "logicOr": "Alebo",
-        "value": "Hodnota",
-        "button": {
-            "0": "Rozšírený filter",
-            "_": "Rozšírený filter (%d)"
-        },
-        "leftTitle": "Podmienky odseku",
-        "rightTitle": "Podmienky v odseku",
-        "title": {
-            "0": "Rozšírený filter",
-            "_": "Rozšírený filter (%d)"
-        }
+    "edit": {
+      "button": "Editova\u0165",
+      "submit": "Aktualizova\u0165",
+      "title": "Editova\u0165 z\u00e1znam"
     },
-    "searchPanes": {
-        "clearMessage": "Vymazať všetko",
-        "collapse": {
-            "0": "Vyhľadávacie Panely",
-            "_": "Vyhľadávacie Panely (%d)"
-        },
-        "count": "{total}",
-        "countFiltered": "{shown} ({total})",
-        "emptyPanes": "Žiadne Vyhľadávacie Panely",
-        "loadMessage": "Načítavam Vyhľadávacie Panely",
-        "title": "Aktívnych Filtrov - %"
+    "error": {
+      "system": "Vyskytla sa syst\u00e9mov\u00e1 chyba."
     },
-    "select": {
-        "cells": {
-            "1": "1 zvolená bunka",
-            "_": "%d vybraných buniek"
-        },
-        "columns": {
-            "1": "1 vybraný stĺpec",
-            "_": "%d vybraných stĺpcov"
-        }
+    "multi": {
+      "info": "Zvolen\u00fd prvok obsahuje rozdielne hodnoty pre tento vstup. Na editovanie a nastavenie v\u0161etk\u00fdch prvkov pre tento vstup na rovnak\u00fa hodnotu, kliknite alebo klepnite tu, inak si zachovaj\u00fa individu\u00e1lne hodnoty.",
+      "noMulti": "Tento vstup m\u00f4\u017ee by\u0165 editovan\u00fd samostatne, ale nie ako s\u00fa\u010das\u0165 skupiny.",
+      "restore": "Vr\u00e1ti\u0165 sp\u00e4\u0165 zmeny",
+      "title": "Nieko\u013eko hodn\u00f4t"
     },
-    "thousands": " ",
-    "datetime": {
-        "next": "Ďalší",
-        "hours": "Hodiny",
-        "minutes": "Minúty",
-        "seconds": "Sekundy",
-        "unknown": "Neznámy",
-        "amPm": [
-            "am",
-            "pm"
-        ],
-        "previous": "Predchádzajúci",
-        "months": {
-            "0": "Január",
-            "1": "Feburár",
-            "10": "November",
-            "11": "December",
-            "2": "Marec",
-            "3": "Apríl",
-            "4": "Máj",
-            "5": "Jún",
-            "6": "Júl",
-            "7": "August",
-            "8": "September",
-            "9": "Október"
-        },
-        "weekdays": [
-            "Nedeľa",
-            "Pondelok",
-            "Utorok",
-            "Streda",
-            "Štvrtok",
-            "Piatok",
-            "Sobota"
-        ]
+    "remove": {
+      "button": "Vymaza\u0165",
+      "confirm": {
+        "1": "Ur\u010dite chcete vymaza\u0165 1 riadok?",
+        "_": "Ur\u010dite chcete vymaza\u0165 %d riadkov?"
+      },
+      "submit": "Vymaza\u0165",
+      "title": "Vymaza\u0165"
+    }
+  },
+  "emptyTable": "Nie s\u00fa k dispoz\u00edcii \u017eiadne d\u00e1ta.",
+  "info": "Z\u00e1znamy _START_ a\u017e _END_ z celkom _TOTAL_",
+  "infoEmpty": "Z\u00e1znamy 0 a\u017e 0 z celkom 0 ",
+  "infoFiltered": "(vyfiltrovan\u00e9 spomedzi _MAX_ z\u00e1znamov)",
+  "infoThousands": " ",
+  "lengthMenu": "Zobraz _MENU_ z\u00e1znamov",
+  "loadingRecords": "Na\u010d\u00edtavam...",
+  "paginate": {
+    "first": "Prv\u00e1",
+    "last": "Posledn\u00e1",
+    "next": "Nasleduj\u00faca",
+    "previous": "Predch\u00e1dzaj\u00faca"
+  },
+  "processing": "Sprac\u00favam...",
+  "search": "H\u013eada\u0165:",
+  "searchBuilder": {
+    "add": "Prida\u0165 Podmienku",
+    "button": {
+      "0": "Roz\u0161\u00edren\u00fd filter",
+      "_": "Roz\u0161\u00edren\u00fd filter (%d)"
     },
-    "editor": {
-        "close": "Zavrieť",
-        "create": {
-            "button": "Nový",
-            "title": "Vytvoriť nový záznam",
-            "submit": "Vytvoriť"
-        },
-        "edit": {
-            "button": "Editovať",
-            "title": "Editovať záznam",
-            "submit": "Aktualizovať"
-        },
-        "remove": {
-            "button": "Vymazať",
-            "title": "Vymazať",
-            "submit": "Vymazať",
-            "confirm": {
-                "_": "Určite chcete vymazať %d riadkov?",
-                "1": "Určite chcete vymazať 1 riadok?"
-            }
-        },
-        "multi": {
-            "title": "Niekoľko hodnôt",
-            "info": "Zvolený prvok obsahuje rozdielne hodnoty pre tento vstup. Na editovanie a nastavenie všetkých prvkov pre tento vstup na rovnakú hodnotu, kliknite alebo klepnite tu, inak si zachovajú individuálne hodnoty.",
-            "restore": "Vrátiť späť zmeny",
-            "noMulti": "Tento vstup môže byť editovaný samostatne, ale nie ako súčasť skupiny."
-        },
-        "error": {
-            "system": "Vyskytla sa systémová chyba."
-        }
+    "clearAll": "Zmaza\u0165 v\u0161etko",
+    "condition": "Podmienka",
+    "conditions": {
+      "array": {
+        "contains": "Obsahuje",
+        "empty": "Pr\u00e1zdne",
+        "equals": "Rovn\u00e1 sa",
+        "not": "Nie je",
+        "notEmpty": "Nie je pr\u00e1zdne",
+        "without": "Bez"
+      },
+      "date": {
+        "after": "Po",
+        "before": "Pred",
+        "between": "Medzi",
+        "empty": "Pr\u00e1zdne",
+        "equals": "Rovn\u00e1 sa",
+        "not": "Nie je",
+        "notBetween": "Nie je medzi",
+        "notEmpty": "Nie je pr\u00e1zdne"
+      },
+      "number": {
+        "between": "Medzi",
+        "empty": "Pr\u00e1zdne",
+        "equals": "Rovn\u00e1 sa",
+        "gt": "V\u00e4\u010d\u0161ie ako",
+        "gte": "V\u00e4\u010d\u0161ie alebo rovnak\u00e9 ako",
+        "lt": "Men\u0161ie ako",
+        "lte": "Men\u0161ie alebo rovnak\u00e9 ako",
+        "not": "Nie",
+        "notBetween": "Nie medzi",
+        "notEmpty": "Nie pr\u00e1zdne"
+      },
+      "string": {
+        "contains": "Obsahuje",
+        "empty": "Pr\u00e1zdne",
+        "endsWith": "Kon\u010d\u00ed s",
+        "equals": "Rovn\u00e1 sa",
+        "not": "Nie je",
+        "notEmpty": "Nie je pr\u00e1zdne",
+        "startsWith": "Za\u010d\u00edna s"
+      }
     },
-    "decimal": ",",
-    "emptyTable": "Nie sú k dispozícii žiadne dáta."
+    "data": "D\u00e1ta",
+    "deleteTitle": "Vymaza\u0165 filtrovacie pravidlo",
+    "leftTitle": "Podmienky odseku",
+    "logicAnd": "A",
+    "logicOr": "Alebo",
+    "rightTitle": "Podmienky v odseku",
+    "title": {
+      "0": "Roz\u0161\u00edren\u00fd filter",
+      "_": "Roz\u0161\u00edren\u00fd filter (%d)"
+    },
+    "value": "Hodnota"
+  },
+  "searchPanes": {
+    "clearMessage": "Vymaza\u0165 v\u0161etko",
+    "collapse": {
+      "0": "Vyh\u013ead\u00e1vacie Panely",
+      "_": "Vyh\u013ead\u00e1vacie Panely (%d)"
+    },
+    "count": "{total}",
+    "countFiltered": "{shown} ({total})",
+    "emptyPanes": "\u017diadne Vyh\u013ead\u00e1vacie Panely",
+    "loadMessage": "Na\u010d\u00edtavam Vyh\u013ead\u00e1vacie Panely",
+    "title": "Akt\u00edvnych Filtrov - %"
+  },
+  "select": {
+    "cells": {
+      "1": "1 zvolen\u00e1 bunka",
+      "_": "%d vybran\u00fdch buniek"
+    },
+    "columns": {
+      "1": "1 vybran\u00fd st\u013apec",
+      "_": "%d vybran\u00fdch st\u013apcov"
+    }
+  },
+  "thousands": " ",
+  "zeroRecords": "Nena\u0161li sa \u017eiadne vyhovuj\u00face z\u00e1znamy"
 }

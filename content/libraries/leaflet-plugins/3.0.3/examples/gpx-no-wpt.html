@@ -13,7 +13,7 @@
 		var track = new L.GPX("fells_loop.gpx", {
 			async: true,
 			display_wpt:false
-		}).on("loaded", function(e) { 
+		}).on("loaded", function(e) {
 			map.fitBounds(e.target.getBounds());
 		});
 		map.addLayer(track);

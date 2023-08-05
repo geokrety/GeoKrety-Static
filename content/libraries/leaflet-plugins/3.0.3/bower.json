@@ -1,13 +1,26 @@
 {
-  "name": "leaflet-plugins",
-  "version": "3.0.3",
-  "homepage": "https://github.com/shramov/leaflet-plugins/",
-  "license": "MIT",
   "authors": [
     "brunob <brunobergot@gmail.com>",
     "Pavel Shramov"
   ],
   "description": "Miscellaneous plugins for Leaflet library",
+  "devDependencies": {
+    "eslint": "2.3.0"
+  },
+  "homepage": "https://github.com/shramov/leaflet-plugins/",
+  "ignore": [
+    "build"
+  ],
+  "keywords": [
+    "leaflet",
+    "plugins",
+    "map",
+    "bing",
+    "yandex",
+    "kml",
+    "gpx"
+  ],
+  "license": "MIT",
   "main": [
     "control/Layers.Load.js",
     "control/Permalink.js",
@@ -27,19 +40,6 @@
     "layer/tile/Bing.js",
     "layer/tile/Yandex.js"
   ],
-  "devDependencies": {
-    "eslint": "2.3.0"
-  },
-  "keywords": [
-    "leaflet",
-    "plugins",
-    "map",
-    "bing",
-    "yandex",
-    "kml",
-    "gpx"
-  ],
-  "ignore": [
-    "build"
-  ]
+  "name": "leaflet-plugins",
+  "version": "3.0.3"
 }

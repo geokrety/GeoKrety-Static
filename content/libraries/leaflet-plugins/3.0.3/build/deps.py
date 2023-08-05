@@ -23,4 +23,3 @@ while work:
         continue
     printed.add(f)
     print f
-

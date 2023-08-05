@@ -1,130 +1,130 @@
 {
-    "emptyTable": "ไม่มีข้อมูลในตาราง",
-    "info": "แสดง _START_ ถึง _END_ จาก _TOTAL_ แถว",
-    "infoFiltered": "(กรองข้อมูล _MAX_ ทุกแถว)",
-    "infoThousands": ",",
-    "lengthMenu": "แสดง _MENU_ แถว",
-    "loadingRecords": "กำลังโหลดข้อมูล...",
-    "processing": "กำลังดำเนินการ...",
-    "zeroRecords": "ไม่พบข้อมูล",
-    "paginate": {
-        "first": "หน้าแรก",
-        "previous": "ก่อนหน้า",
-        "next": "ถัดไป",
-        "last": "หน้าสุดท้าย"
+  "aria": {
+    "sortAscending": ": \u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e01\u0e32\u0e23\u0e40\u0e23\u0e35\u0e22\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e08\u0e32\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e44\u0e1b\u0e21\u0e32\u0e01",
+    "sortDescending": ": \u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e01\u0e32\u0e23\u0e40\u0e23\u0e35\u0e22\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e08\u0e32\u0e01\u0e21\u0e32\u0e01\u0e44\u0e1b\u0e19\u0e49\u0e2d\u0e22"
+  },
+  "autoFill": {
+    "cancel": "\u0e22\u0e01\u0e40\u0e25\u0e34\u0e01",
+    "fill": "\u0e01\u0e23\u0e2d\u0e01\u0e17\u0e38\u0e01\u0e0a\u0e48\u0e2d\u0e07\u0e14\u0e49\u0e27\u0e22",
+    "fillHorizontal": "\u0e01\u0e23\u0e2d\u0e01\u0e15\u0e32\u0e21\u0e41\u0e19\u0e27\u0e19\u0e2d\u0e19",
+    "fillVertical": "\u0e01\u0e23\u0e2d\u0e01\u0e15\u0e32\u0e21\u0e41\u0e19\u0e27\u0e15\u0e31\u0e49\u0e07"
+  },
+  "buttons": {
+    "collection": "\u0e0a\u0e38\u0e14\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+    "colvis": "\u0e01\u0e32\u0e23\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19\u0e04\u0e2d\u0e25\u0e31\u0e21\u0e19\u0e4c",
+    "colvisRestore": "\u0e40\u0e23\u0e35\u0e22\u0e01\u0e04\u0e37\u0e19\u0e01\u0e32\u0e23\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19",
+    "copy": "\u0e04\u0e31\u0e14\u0e25\u0e2d\u0e01",
+    "copyKeys": "\u0e01\u0e14\u0e1b\u0e38\u0e48\u0e21 Ctrl \u0e2b\u0e23\u0e37\u0e2d Command + C \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e04\u0e31\u0e14\u0e25\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1a\u0e19\u0e15\u0e32\u0e23\u0e32\u0e07\u0e44\u0e1b\u0e22\u0e31\u0e07 Clipboard \u0e17\u0e35\u0e48\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13",
+    "copySuccess": {
+      "1": "\u0e04\u0e31\u0e14\u0e25\u0e2d\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e25\u0e49\u0e27 \u0e08\u0e33\u0e19\u0e27\u0e19 1 \u0e41\u0e16\u0e27",
+      "_": "\u0e04\u0e31\u0e14\u0e25\u0e2d\u0e01\u0e0a\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e25\u0e49\u0e27 \u0e08\u0e33\u0e19\u0e27\u0e19 %ds \u0e41\u0e16\u0e27"
     },
-    "aria": {
-        "sortAscending": ": เปิดใช้งานการเรียงข้อมูลจากน้อยไปมาก",
-        "sortDescending": ": เปิดใช้งานการเรียงข้อมูลจากมากไปน้อย"
+    "copyTitle": "\u0e04\u0e31\u0e14\u0e25\u0e2d\u0e01\u0e44\u0e1b\u0e22\u0e31\u0e07\u0e04\u0e25\u0e34\u0e1b\u0e1a\u0e2d\u0e23\u0e4c\u0e14",
+    "csv": "CSV",
+    "excel": "Excel",
+    "pageLength": {
+      "-1": "\u0e41\u0e2a\u0e14\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14",
+      "_": "\u0e41\u0e2a\u0e14\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 %d \u0e41\u0e16\u0e27"
     },
-    "autoFill": {
-        "cancel": "ยกเลิก",
-        "fill": "กรอกทุกช่องด้วย",
-        "fillHorizontal": "กรอกตามแนวนอน",
-        "fillVertical": "กรอกตามแนวตั้ง"
+    "pdf": "PDF",
+    "print": "\u0e2a\u0e31\u0e48\u0e07\u0e1e\u0e34\u0e21\u0e1e\u0e4c"
+  },
+  "datetime": {
+    "amPm": [
+      "\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e27\u0e31\u0e19",
+      "\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e04\u0e37\u0e19"
+    ],
+    "hours": "\u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07",
+    "minutes": "\u0e19\u0e32\u0e17\u0e35",
+    "months": {
+      "0": "\u0e21\u0e01\u0e23\u0e32\u0e04\u0e21",
+      "1": "\u0e01\u0e38\u0e21\u0e20\u0e32\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+      "10": "\u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19",
+      "11": "\u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21",
+      "2": "\u0e21\u0e35\u0e19\u0e32\u0e04\u0e21",
+      "3": "\u0e40\u0e21\u0e29\u0e32\u0e22\u0e19",
+      "4": "\u0e1e\u0e24\u0e29\u0e20\u0e32\u0e04\u0e21",
+      "5": "\u0e21\u0e34\u0e16\u0e38\u0e19\u0e32\u0e22\u0e19",
+      "6": "\u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21",
+      "7": "\u0e2a\u0e34\u0e07\u0e2b\u0e32\u0e04\u0e21",
+      "8": "\u0e01\u0e31\u0e19\u0e22\u0e32\u0e22\u0e19",
+      "9": "\u0e15\u0e38\u0e25\u0e32\u0e04\u0e21"
     },
-    "buttons": {
-        "collection": "ชุดข้อมูล",
-        "colvis": "การมองเห็นคอลัมน์",
-        "colvisRestore": "เรียกคืนการมองเห็น",
-        "copy": "คัดลอก",
-        "copyKeys": "กดปุ่ม Ctrl หรือ Command + C เพื่อคัดลอกข้อมูลบนตารางไปยัง Clipboard ที่เครื่องของคุณ",
-        "copySuccess": {
-            "_": "คัดลอกช้อมูลแล้ว จำนวน %ds แถว",
-            "1": "คัดลอกข้อมูลแล้ว จำนวน 1 แถว"
-        },
-        "copyTitle": "คัดลอกไปยังคลิปบอร์ด",
-        "csv": "CSV",
-        "excel": "Excel",
-        "pageLength": {
-            "_": "แสดงข้อมูล %d แถว",
-            "-1": "แสดงข้อมูลทั้งหมด"
-        },
-        "pdf": "PDF",
-        "print": "สั่งพิมพ์"
+    "next": "\u0e16\u0e31\u0e14\u0e44\u0e1b",
+    "previous": "\u0e01\u0e48\u0e2d\u0e19\u0e01\u0e19\u0e49\u0e32",
+    "seconds": "\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35",
+    "unknown": "\u0e44\u0e21\u0e48\u0e17\u0e23\u0e32\u0e1a",
+    "weekdays": [
+      "\u0e27\u0e31\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c",
+      "\u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "\u0e27\u0e31\u0e19\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23",
+      "\u0e27\u0e31\u0e19\u0e1e\u0e38\u0e18",
+      "\u0e27\u0e31\u0e19\u0e1e\u0e24\u0e2b\u0e31\u0e2a",
+      "\u0e27\u0e31\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c",
+      "\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c"
+    ]
+  },
+  "decimal": "\u0e08\u0e38\u0e14\u0e17\u0e28\u0e19\u0e34\u0e22\u0e21",
+  "editor": {
+    "close": "\u0e1b\u0e34\u0e14",
+    "create": {
+      "button": "\u0e2a\u0e23\u0e49\u0e32\u0e07",
+      "submit": "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+      "title": "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e43\u0e2b\u0e21\u0e48"
     },
-    "infoEmpty": "แสดงทั้งหมด 0 to 0 of 0 รายการ",
-    "search": "ค้นหา :",
-    "thousands": ",",
-    "datetime": {
-        "amPm": [
-            "เที่ยงวัน",
-            "เที่ยงคืน"
-        ],
-        "hours": "ชั่วโมง",
-        "minutes": "นาที",
-        "months": {
-            "0": "มกราคม",
-            "1": "กุมภาพันธ์",
-            "10": "พฤศจิกายน",
-            "11": "ธันวาคม",
-            "2": "มีนาคม",
-            "3": "เมษายน",
-            "4": "พฤษภาคม",
-            "5": "มิถุนายน",
-            "6": "กรกฎาคม",
-            "7": "สิงหาคม",
-            "8": "กันยายน",
-            "9": "ตุลาคม"
-        },
-        "next": "ถัดไป",
-        "previous": "ก่อนกน้า",
-        "seconds": "วินาที",
-        "unknown": "ไม่ทราบ",
-        "weekdays": [
-            "วันอาทิตย์",
-            "วันจันทร์",
-            "วันอังคาร",
-            "วันพุธ",
-            "วันพฤหัส",
-            "วันศุกร์",
-            "วันเสาร์"
-        ]
+    "edit": {
+      "button": "\u0e41\u0e01\u0e49\u0e44\u0e02",
+      "submit": "\u0e1a\u0e31\u0e19\u0e17\u0e36\u0e01",
+      "title": "\u0e41\u0e01\u0e49\u0e44\u0e02\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
     },
-    "decimal": "จุดทศนิยม",
-    "editor": {
-        "close": "ปิด",
-        "create": {
-            "button": "สร้าง",
-            "submit": "สร้างข้อมูล",
-            "title": "สร้างข้อมูลใหม่"
-        },
-        "edit": {
-            "button": "แก้ไข",
-            "submit": "บันทึก",
-            "title": "แก้ไขข้อมูล"
-        },
-        "error": {
-            "system": "เกิดข้อผิดพลาดของระบบ (&lt;a target=\"\\\" rel=\"nofollow\" href=\"\\\"&gt;ดูข้อมูลเพิ่มเติม)."
-        },
-        "remove": {
-            "button": "ลบ",
-            "submit": "ลบข้อมูล",
-            "title": "ลบข้อมูล",
-            "confirm": {
-                "_": "คุณแน่ใจที่จะลบข้อมูล %d รายการนี้ หรือไม่?",
-                "1": "คุณแน่ใจที่จะลบข้อมูลรายการนี้ หรือไม่?"
-            }
-        },
-        "multi": {
-            "restore": "ยกเลิกการแก้ไข"
-        }
+    "error": {
+      "system": "\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e02\u0e2d\u0e07\u0e23\u0e30\u0e1a\u0e1a (&lt;a target=\"\\\" rel=\"nofollow\" href=\"\\\"&gt;\u0e14\u0e39\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21)."
     },
-    "searchBuilder": {
-        "add": "เพิ่มเงื่อนไข",
-        "clearAll": "ยกเลิกทั้งหมด",
-        "condition": "เงื่อนไข",
-        "data": "ข้อมูล",
-        "deleteTitle": "ลบเงื่อนไขการกรอง"
+    "multi": {
+      "restore": "\u0e22\u0e01\u0e40\u0e25\u0e34\u0e01\u0e01\u0e32\u0e23\u0e41\u0e01\u0e49\u0e44\u0e02"
     },
-    "select": {
-        "cells": {
-            "1": "เลือก 1 cell",
-            "_": "เลือก %d cells"
-        },
-        "columns": {
-            "1": "เลือก 1 column",
-            "_": "เลือก %d columns"
-        }
+    "remove": {
+      "button": "\u0e25\u0e1a",
+      "confirm": {
+        "1": "\u0e04\u0e38\u0e13\u0e41\u0e19\u0e48\u0e43\u0e08\u0e17\u0e35\u0e48\u0e08\u0e30\u0e25\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e19\u0e35\u0e49 \u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?",
+        "_": "\u0e04\u0e38\u0e13\u0e41\u0e19\u0e48\u0e43\u0e08\u0e17\u0e35\u0e48\u0e08\u0e30\u0e25\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 %d \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e19\u0e35\u0e49 \u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?"
+      },
+      "submit": "\u0e25\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+      "title": "\u0e25\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
     }
+  },
+  "emptyTable": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e43\u0e19\u0e15\u0e32\u0e23\u0e32\u0e07",
+  "info": "\u0e41\u0e2a\u0e14\u0e07 _START_ \u0e16\u0e36\u0e07 _END_ \u0e08\u0e32\u0e01 _TOTAL_ \u0e41\u0e16\u0e27",
+  "infoEmpty": "\u0e41\u0e2a\u0e14\u0e07\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14 0 to 0 of 0 \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23",
+  "infoFiltered": "(\u0e01\u0e23\u0e2d\u0e07\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 _MAX_ \u0e17\u0e38\u0e01\u0e41\u0e16\u0e27)",
+  "infoThousands": ",",
+  "lengthMenu": "\u0e41\u0e2a\u0e14\u0e07 _MENU_ \u0e41\u0e16\u0e27",
+  "loadingRecords": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e42\u0e2b\u0e25\u0e14\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25...",
+  "paginate": {
+    "first": "\u0e2b\u0e19\u0e49\u0e32\u0e41\u0e23\u0e01",
+    "last": "\u0e2b\u0e19\u0e49\u0e32\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+    "next": "\u0e16\u0e31\u0e14\u0e44\u0e1b",
+    "previous": "\u0e01\u0e48\u0e2d\u0e19\u0e2b\u0e19\u0e49\u0e32"
+  },
+  "processing": "\u0e01\u0e33\u0e25\u0e31\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e32\u0e23...",
+  "search": "\u0e04\u0e49\u0e19\u0e2b\u0e32 :",
+  "searchBuilder": {
+    "add": "\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e07\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e02",
+    "clearAll": "\u0e22\u0e01\u0e40\u0e25\u0e34\u0e01\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14",
+    "condition": "\u0e40\u0e07\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e02",
+    "data": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
+    "deleteTitle": "\u0e25\u0e1a\u0e40\u0e07\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e02\u0e01\u0e32\u0e23\u0e01\u0e23\u0e2d\u0e07"
+  },
+  "select": {
+    "cells": {
+      "1": "\u0e40\u0e25\u0e37\u0e2d\u0e01 1 cell",
+      "_": "\u0e40\u0e25\u0e37\u0e2d\u0e01 %d cells"
+    },
+    "columns": {
+      "1": "\u0e40\u0e25\u0e37\u0e2d\u0e01 1 column",
+      "_": "\u0e40\u0e25\u0e37\u0e2d\u0e01 %d columns"
+    }
+  },
+  "thousands": ",",
+  "zeroRecords": "\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
 }

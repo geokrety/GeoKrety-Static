@@ -1,187 +1,187 @@
 {
-    "emptyTable": "ცხრილში არ არის მონაცემები",
-    "info": "ნაჩვენებია ჩანაწერები _START_–დან _END_–მდე, _TOTAL_ ჩანაწერიდან",
-    "infoEmpty": "ნაჩვენებია ჩანაწერები 0–დან 0–მდე, 0 ჩანაწერიდან",
-    "infoFiltered": "(გაფილტრული შედეგი _MAX_ ჩანაწერიდან)",
-    "lengthMenu": "აჩვენე _MENU_ ჩანაწერი",
-    "loadingRecords": "იტვირთება...",
-    "processing": "მუშავდება...",
-    "search": "ძიება:",
-    "zeroRecords": "არაფერი მოიძებნა",
-    "paginate": {
-        "first": "პირველი",
-        "last": "ბოლო",
-        "next": "შემდეგი",
-        "previous": "წინა"
+  "aria": {
+    "sortAscending": ": \u10e1\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d3\u10d0\u10da\u10d0\u10d2\u10d4\u10d1\u10d0 \u10d6\u10e0\u10d3\u10d8\u10e1 \u10db\u10d8\u10ee\u10d4\u10d3\u10d5\u10d8\u10d7",
+    "sortDescending": ": \u10e1\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d3\u10d0\u10da\u10d0\u10d2\u10d4\u10d1\u10d0 \u10d9\u10da\u10d4\u10d1\u10d8\u10e1 \u10db\u10d8\u10ee\u10d4\u10d3\u10d5\u10d8\u10d7"
+  },
+  "autoFill": {
+    "cancel": "\u10d2\u10d0\u10e3\u10e5\u10db\u10d4\u10d1\u10d0",
+    "fillHorizontal": "\u10e8\u10d4\u10d0\u10d5\u10e1\u10d4 \u10e1\u10d4\u10e5\u10ea\u10d8\u10d4\u10d1\u10d8 \u10f0\u10dd\u10e0\u10d8\u10d6\u10dd\u10dc\u10e2\u10d0\u10da\u10e3\u10e0\u10d0\u10d3",
+    "fillVertical": "\u10e8\u10d4\u10d0\u10d5\u10e1\u10d4 \u10e1\u10d4\u10e5\u10ea\u10d8\u10d4\u10d1\u10d8 \u10d5\u10d4\u10e0\u10e2\u10d8\u10d9\u10d0\u10da\u10e3\u10e0\u10d0\u10d3"
+  },
+  "buttons": {
+    "collection": "\u10d9\u10dd\u10da\u10d4\u10e5\u10ea\u10d8\u10d0",
+    "colvis": "\u10e1\u10d5\u10d4\u10e2\u10d8\u10e1 \u10ee\u10d8\u10da\u10d5\u10d0\u10d3\u10dd\u10d1\u10d0",
+    "colvisRestore": "\u10d0\u10e6\u10d0\u10d3\u10d2\u10d8\u10dc\u10d4 \u10ee\u10d8\u10da\u10d5\u10d0\u10d3\u10dd\u10d1\u10d0",
+    "copy": "\u10d9\u10dd\u10de\u10d8\u10e0\u10d4\u10d1\u10d0",
+    "csv": "CSV",
+    "excel": "Excel",
+    "pageLength": {
+      "-1": "\u10db\u10d0\u10e9\u10d5\u10d4\u10dc\u10d4 \u10e7\u10d5\u10d4\u10da\u10d0 \u10e0\u10d8\u10d2\u10d8",
+      "_": "\u10db\u10d0\u10e9\u10d5\u10d4\u10dc\u10d4 %d \u10e0\u10d8\u10d2\u10d8"
     },
-    "aria": {
-        "sortAscending": ": სვეტის დალაგება ზრდის მიხედვით",
-        "sortDescending": ": სვეტის დალაგება კლების მიხედვით"
+    "pdf": "PDF",
+    "print": "\u10d0\u10db\u10dd\u10d1\u10d4\u10ed\u10d3\u10d5\u10d0"
+  },
+  "datetime": {
+    "amPm": [
+      "AM",
+      "PM"
+    ],
+    "hours": "\u10e1\u10d0\u10d0\u10d7\u10d8",
+    "minutes": "\u10ec\u10e3\u10d7\u10d8",
+    "months": {
+      "0": "\u10d8\u10d0\u10dc\u10d5\u10d0\u10e0\u10d8",
+      "1": "\u10d7\u10d4\u10d1\u10d4\u10e0\u10d5\u10d0\u10da\u10d8",
+      "10": "\u10dc\u10dd\u10d4\u10db\u10d1\u10d4\u10e0\u10d8",
+      "11": "\u10d3\u10d4\u10d9\u10d4\u10db\u10d1\u10d4\u10e0\u10d8",
+      "2": "\u10db\u10d0\u10e0\u10e2\u10d8",
+      "3": "\u10d0\u10de\u10e0\u10d8\u10da\u10d8",
+      "4": "\u10db\u10d0\u10d8\u10e1\u10d8",
+      "5": "\u10d8\u10d5\u10dc\u10d8\u10e1\u10d8",
+      "6": "\u10d8\u10d5\u10da\u10d8\u10e1\u10d8",
+      "7": "\u10d0\u10d2\u10d5\u10d8\u10e1\u10e2\u10dd",
+      "8": "\u10e1\u10d4\u10e5\u10e2\u10d4\u10db\u10d1\u10d4\u10e0\u10d8",
+      "9": "\u10dd\u10e5\u10e2\u10dd\u10db\u10d1\u10d4\u10e0\u10d8"
     },
-    "autoFill": {
-        "cancel": "გაუქმება",
-        "fillHorizontal": "შეავსე სექციები ჰორიზონტალურად",
-        "fillVertical": "შეავსე სექციები ვერტიკალურად"
+    "next": "\u10e8\u10d4\u10db\u10d3\u10d4\u10d2\u10d8",
+    "previous": "\u10ec\u10d8\u10dc\u10d0",
+    "seconds": "\u10ec\u10d0\u10db\u10d8",
+    "unknown": "\u10e3\u10ea\u10dc\u10dd\u10d1\u10d8",
+    "weekdays": [
+      "\u10d9\u10d5\u10d8",
+      "\u10dd\u10e0\u10e8",
+      "\u10e1\u10d0\u10db",
+      "\u10dd\u10d7\u10ee",
+      "\u10ee\u10e3\u10d7",
+      "\u10de\u10d0\u10e0",
+      "\u10e8\u10d0\u10d1"
+    ]
+  },
+  "decimal": ".",
+  "editor": {
+    "close": "\u10d2\u10d0\u10db\u10dd\u10e0\u10d7\u10d5\u10d0",
+    "create": {
+      "button": "\u10d0\u10ee\u10d0\u10da\u10d8",
+      "submit": "\u10e8\u10d4\u10e5\u10db\u10dc\u10d0",
+      "title": "\u10e8\u10d4\u10e5\u10db\u10d4\u10dc\u10d8 \u10d0\u10ee\u10d0\u10da\u10d8 \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d8"
     },
-    "buttons": {
-        "collection": "კოლექცია",
-        "colvis": "სვეტის ხილვადობა",
-        "colvisRestore": "აღადგინე ხილვადობა",
-        "copy": "კოპირება",
-        "csv": "CSV",
-        "excel": "Excel",
-        "pdf": "PDF",
-        "print": "ამობეჭდვა",
-        "pageLength": {
-            "_": "მაჩვენე %d რიგი",
-            "-1": "მაჩვენე ყველა რიგი"
-        }
+    "edit": {
+      "button": "\u10e0\u10d4\u10d3\u10d0\u10e5\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0",
+      "submit": "\u10d2\u10d0\u10dc\u10d0\u10ee\u10da\u10d4\u10d1\u10d0",
+      "title": "\u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d8\u10e1 \u10e0\u10d4\u10d3\u10d0\u10e5\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0"
     },
-    "editor": {
-        "close": "გამორთვა",
-        "create": {
-            "button": "ახალი",
-            "submit": "შექმნა",
-            "title": "შექმენი ახალი ჩანაწერი"
-        },
-        "edit": {
-            "button": "რედაქტირება",
-            "submit": "განახლება",
-            "title": "ჩანაწერის რედაქტირება"
-        },
-        "remove": {
-            "button": "წაშლა",
-            "submit": "წაშლა",
-            "title": "წაშლა",
-            "confirm": {
-                "_": "ნამდვილად გსურთ %d რიგის წაშლა?",
-                "1": "ნამდვილად გსურთ 1 რიგის წაშლა?"
-            }
-        },
-        "multi": {
-            "noMulti": "ეს ველი შეიძლება დარედაქტირდეს ინდივიდუალურად, მაგრამ არა როგორც ჯგუფი.",
-            "restore": "ცვლილებების დაბრუნება",
-            "title": "რამდენიმე ღირებულება"
-        }
+    "multi": {
+      "noMulti": "\u10d4\u10e1 \u10d5\u10d4\u10da\u10d8 \u10e8\u10d4\u10d8\u10eb\u10da\u10d4\u10d1\u10d0 \u10d3\u10d0\u10e0\u10d4\u10d3\u10d0\u10e5\u10e2\u10d8\u10e0\u10d3\u10d4\u10e1 \u10d8\u10dc\u10d3\u10d8\u10d5\u10d8\u10d3\u10e3\u10d0\u10da\u10e3\u10e0\u10d0\u10d3, \u10db\u10d0\u10d2\u10e0\u10d0\u10db \u10d0\u10e0\u10d0 \u10e0\u10dd\u10d2\u10dd\u10e0\u10ea \u10ef\u10d2\u10e3\u10e4\u10d8.",
+      "restore": "\u10ea\u10d5\u10da\u10d8\u10da\u10d4\u10d1\u10d4\u10d1\u10d8\u10e1 \u10d3\u10d0\u10d1\u10e0\u10e3\u10dc\u10d4\u10d1\u10d0",
+      "title": "\u10e0\u10d0\u10db\u10d3\u10d4\u10dc\u10d8\u10db\u10d4 \u10e6\u10d8\u10e0\u10d4\u10d1\u10e3\u10da\u10d4\u10d1\u10d0"
     },
-    "searchPlaceholder": "ძიება...",
-    "datetime": {
-        "hours": "საათი",
-        "minutes": "წუთი",
-        "months": {
-            "0": "იანვარი",
-            "1": "თებერვალი",
-            "10": "ნოემბერი",
-            "11": "დეკემბერი",
-            "2": "მარტი",
-            "3": "აპრილი",
-            "4": "მაისი",
-            "5": "ივნისი",
-            "6": "ივლისი",
-            "7": "აგვისტო",
-            "8": "სექტემბერი",
-            "9": "ოქტომბერი"
-        },
-        "next": "შემდეგი",
-        "previous": "წინა",
-        "seconds": "წამი",
-        "weekdays": [
-            "კვი",
-            "ორშ",
-            "სამ",
-            "ოთხ",
-            "ხუთ",
-            "პარ",
-            "შაბ"
-        ],
-        "amPm": [
-            "AM",
-            "PM"
-        ],
-        "unknown": "უცნობი"
+    "remove": {
+      "button": "\u10ec\u10d0\u10e8\u10da\u10d0",
+      "confirm": {
+        "1": "\u10dc\u10d0\u10db\u10d3\u10d5\u10d8\u10da\u10d0\u10d3 \u10d2\u10e1\u10e3\u10e0\u10d7 1 \u10e0\u10d8\u10d2\u10d8\u10e1 \u10ec\u10d0\u10e8\u10da\u10d0?",
+        "_": "\u10dc\u10d0\u10db\u10d3\u10d5\u10d8\u10da\u10d0\u10d3 \u10d2\u10e1\u10e3\u10e0\u10d7 %d \u10e0\u10d8\u10d2\u10d8\u10e1 \u10ec\u10d0\u10e8\u10da\u10d0?"
+      },
+      "submit": "\u10ec\u10d0\u10e8\u10da\u10d0",
+      "title": "\u10ec\u10d0\u10e8\u10da\u10d0"
+    }
+  },
+  "emptyTable": "\u10ea\u10ee\u10e0\u10d8\u10da\u10e8\u10d8 \u10d0\u10e0 \u10d0\u10e0\u10d8\u10e1 \u10db\u10dd\u10dc\u10d0\u10ea\u10d4\u10db\u10d4\u10d1\u10d8",
+  "info": "\u10dc\u10d0\u10e9\u10d5\u10d4\u10dc\u10d4\u10d1\u10d8\u10d0 \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d4\u10d1\u10d8 _START_\u2013\u10d3\u10d0\u10dc _END_\u2013\u10db\u10d3\u10d4, _TOTAL_ \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d8\u10d3\u10d0\u10dc",
+  "infoEmpty": "\u10dc\u10d0\u10e9\u10d5\u10d4\u10dc\u10d4\u10d1\u10d8\u10d0 \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d4\u10d1\u10d8 0\u2013\u10d3\u10d0\u10dc 0\u2013\u10db\u10d3\u10d4, 0 \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d8\u10d3\u10d0\u10dc",
+  "infoFiltered": "(\u10d2\u10d0\u10e4\u10d8\u10da\u10e2\u10e0\u10e3\u10da\u10d8 \u10e8\u10d4\u10d3\u10d4\u10d2\u10d8 _MAX_ \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d8\u10d3\u10d0\u10dc)",
+  "infoThousands": ",",
+  "lengthMenu": "\u10d0\u10e9\u10d5\u10d4\u10dc\u10d4 _MENU_ \u10e9\u10d0\u10dc\u10d0\u10ec\u10d4\u10e0\u10d8",
+  "loadingRecords": "\u10d8\u10e2\u10d5\u10d8\u10e0\u10d7\u10d4\u10d1\u10d0...",
+  "paginate": {
+    "first": "\u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d8",
+    "last": "\u10d1\u10dd\u10da\u10dd",
+    "next": "\u10e8\u10d4\u10db\u10d3\u10d4\u10d2\u10d8",
+    "previous": "\u10ec\u10d8\u10dc\u10d0"
+  },
+  "processing": "\u10db\u10e3\u10e8\u10d0\u10d5\u10d3\u10d4\u10d1\u10d0...",
+  "search": "\u10eb\u10d8\u10d4\u10d1\u10d0:",
+  "searchBuilder": {
+    "add": "\u10db\u10d3\u10d2\u10dd\u10db\u10d0\u10e0\u10d4\u10dd\u10d1\u10d8\u10e1 \u10d3\u10d0\u10db\u10d0\u10e2\u10d4\u10d1\u10d0",
+    "button": {
+      "0": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10d9\u10dd\u10dc\u10e1\u10e2\u10e0\u10e3\u10e5\u10e2\u10dd\u10e0\u10d8",
+      "_": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10d9\u10dd\u10dc\u10e1\u10e2\u10e0\u10e3\u10e5\u10e2\u10dd\u10e0\u10d8 (%d)"
     },
-    "infoThousands": ",",
-    "searchBuilder": {
-        "add": "მდგომარეობის დამატება",
-        "clearAll": "გასუფთავება",
-        "condition": "მდგომარეობა",
-        "conditions": {
-            "array": {
-                "contains": "შეიცავს",
-                "empty": "ცარიელი",
-                "equals": "უდრის",
-                "not": "არა",
-                "notEmpty": "არაა ცარიელი",
-                "without": "გარეშე"
-            },
-            "date": {
-                "after": "შემდეგ",
-                "before": "შემდეგ",
-                "between": "შორის",
-                "empty": "ცარიელი",
-                "equals": "უდრის",
-                "not": "არა",
-                "notEmpty": "არაა ცარიელი",
-                "notBetween": "არა შორის"
-            },
-            "number": {
-                "between": "შორის",
-                "empty": "ცარიელი",
-                "equals": "უდრის",
-                "gt": "მეტია ვიდრე",
-                "lt": "ნაკლები ვიდრე",
-                "not": "არა",
-                "notEmpty": "არაა ცარიელი",
-                "gte": "მეტი ვიდრე ტოლია",
-                "lte": "ნაკლები ვიდრე ტოლია",
-                "notBetween": "არა შორის"
-            },
-            "string": {
-                "contains": "შეიცავს",
-                "empty": "ცარიელი",
-                "endsWith": "სრულდება",
-                "equals": "უდრის",
-                "not": "არა",
-                "notEmpty": "არაა ცარიელი",
-                "startsWith": "იწყება"
-            }
-        },
-        "data": "მონაცემები",
-        "logicAnd": "და",
-        "logicOr": "ან",
-        "value": "ღირებულება",
-        "button": {
-            "_": "ძიების კონსტრუქტორი (%d)",
-            "0": "ძიების კონსტრუქტორი"
-        },
-        "rightTitle": "მოთხოვნის კრიტერია",
-        "title": {
-            "_": "ძიების კონსტრუქტორი (%d)",
-            "0": "ძიების კონსტრუქტორი"
-        }
+    "clearAll": "\u10d2\u10d0\u10e1\u10e3\u10e4\u10d7\u10d0\u10d5\u10d4\u10d1\u10d0",
+    "condition": "\u10db\u10d3\u10d2\u10dd\u10db\u10d0\u10e0\u10d4\u10dd\u10d1\u10d0",
+    "conditions": {
+      "array": {
+        "contains": "\u10e8\u10d4\u10d8\u10ea\u10d0\u10d5\u10e1",
+        "empty": "\u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8",
+        "equals": "\u10e3\u10d3\u10e0\u10d8\u10e1",
+        "not": "\u10d0\u10e0\u10d0",
+        "notEmpty": "\u10d0\u10e0\u10d0\u10d0 \u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8",
+        "without": "\u10d2\u10d0\u10e0\u10d4\u10e8\u10d4"
+      },
+      "date": {
+        "after": "\u10e8\u10d4\u10db\u10d3\u10d4\u10d2",
+        "before": "\u10e8\u10d4\u10db\u10d3\u10d4\u10d2",
+        "between": "\u10e8\u10dd\u10e0\u10d8\u10e1",
+        "empty": "\u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8",
+        "equals": "\u10e3\u10d3\u10e0\u10d8\u10e1",
+        "not": "\u10d0\u10e0\u10d0",
+        "notBetween": "\u10d0\u10e0\u10d0 \u10e8\u10dd\u10e0\u10d8\u10e1",
+        "notEmpty": "\u10d0\u10e0\u10d0\u10d0 \u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8"
+      },
+      "number": {
+        "between": "\u10e8\u10dd\u10e0\u10d8\u10e1",
+        "empty": "\u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8",
+        "equals": "\u10e3\u10d3\u10e0\u10d8\u10e1",
+        "gt": "\u10db\u10d4\u10e2\u10d8\u10d0 \u10d5\u10d8\u10d3\u10e0\u10d4",
+        "gte": "\u10db\u10d4\u10e2\u10d8 \u10d5\u10d8\u10d3\u10e0\u10d4 \u10e2\u10dd\u10da\u10d8\u10d0",
+        "lt": "\u10dc\u10d0\u10d9\u10da\u10d4\u10d1\u10d8 \u10d5\u10d8\u10d3\u10e0\u10d4",
+        "lte": "\u10dc\u10d0\u10d9\u10da\u10d4\u10d1\u10d8 \u10d5\u10d8\u10d3\u10e0\u10d4 \u10e2\u10dd\u10da\u10d8\u10d0",
+        "not": "\u10d0\u10e0\u10d0",
+        "notBetween": "\u10d0\u10e0\u10d0 \u10e8\u10dd\u10e0\u10d8\u10e1",
+        "notEmpty": "\u10d0\u10e0\u10d0\u10d0 \u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8"
+      },
+      "string": {
+        "contains": "\u10e8\u10d4\u10d8\u10ea\u10d0\u10d5\u10e1",
+        "empty": "\u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8",
+        "endsWith": "\u10e1\u10e0\u10e3\u10da\u10d3\u10d4\u10d1\u10d0",
+        "equals": "\u10e3\u10d3\u10e0\u10d8\u10e1",
+        "not": "\u10d0\u10e0\u10d0",
+        "notEmpty": "\u10d0\u10e0\u10d0\u10d0 \u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8",
+        "startsWith": "\u10d8\u10ec\u10e7\u10d4\u10d1\u10d0"
+      }
     },
-    "searchPanes": {
-        "clearMessage": "გასუფთავება",
-        "title": "აქტიური ფილტრები - %d",
-        "collapse": {
-            "_": "ძიების პანელი (%d)",
-            "0": "ძიების პანელი"
-        },
-        "count": "{total}",
-        "countFiltered": "{shown} ({total})",
-        "emptyPanes": "ძიების პანელი ცარიელია",
-        "loadMessage": "იტვირთება ძიების პანელი..."
+    "data": "\u10db\u10dd\u10dc\u10d0\u10ea\u10d4\u10db\u10d4\u10d1\u10d8",
+    "logicAnd": "\u10d3\u10d0",
+    "logicOr": "\u10d0\u10dc",
+    "rightTitle": "\u10db\u10dd\u10d7\u10ee\u10dd\u10d5\u10dc\u10d8\u10e1 \u10d9\u10e0\u10d8\u10e2\u10d4\u10e0\u10d8\u10d0",
+    "title": {
+      "0": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10d9\u10dd\u10dc\u10e1\u10e2\u10e0\u10e3\u10e5\u10e2\u10dd\u10e0\u10d8",
+      "_": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10d9\u10dd\u10dc\u10e1\u10e2\u10e0\u10e3\u10e5\u10e2\u10dd\u10e0\u10d8 (%d)"
     },
-    "select": {
-        "cells": {
-            "_": "მონიშნულია %d უჯრა",
-            "1": "მონიშნულია 1 უჯრა"
-        },
-        "columns": {
-            "_": "მონიშნულია %d სვეტი",
-            "1": "მონიშნულია 1 სვეტი"
-        }
+    "value": "\u10e6\u10d8\u10e0\u10d4\u10d1\u10e3\u10da\u10d4\u10d1\u10d0"
+  },
+  "searchPanes": {
+    "clearMessage": "\u10d2\u10d0\u10e1\u10e3\u10e4\u10d7\u10d0\u10d5\u10d4\u10d1\u10d0",
+    "collapse": {
+      "0": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10de\u10d0\u10dc\u10d4\u10da\u10d8",
+      "_": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10de\u10d0\u10dc\u10d4\u10da\u10d8 (%d)"
     },
-    "decimal": ".",
-    "thousands": ","
+    "count": "{total}",
+    "countFiltered": "{shown} ({total})",
+    "emptyPanes": "\u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10de\u10d0\u10dc\u10d4\u10da\u10d8 \u10ea\u10d0\u10e0\u10d8\u10d4\u10da\u10d8\u10d0",
+    "loadMessage": "\u10d8\u10e2\u10d5\u10d8\u10e0\u10d7\u10d4\u10d1\u10d0 \u10eb\u10d8\u10d4\u10d1\u10d8\u10e1 \u10de\u10d0\u10dc\u10d4\u10da\u10d8...",
+    "title": "\u10d0\u10e5\u10e2\u10d8\u10e3\u10e0\u10d8 \u10e4\u10d8\u10da\u10e2\u10e0\u10d4\u10d1\u10d8 - %d"
+  },
+  "searchPlaceholder": "\u10eb\u10d8\u10d4\u10d1\u10d0...",
+  "select": {
+    "cells": {
+      "1": "\u10db\u10dd\u10dc\u10d8\u10e8\u10dc\u10e3\u10da\u10d8\u10d0 1 \u10e3\u10ef\u10e0\u10d0",
+      "_": "\u10db\u10dd\u10dc\u10d8\u10e8\u10dc\u10e3\u10da\u10d8\u10d0 %d \u10e3\u10ef\u10e0\u10d0"
+    },
+    "columns": {
+      "1": "\u10db\u10dd\u10dc\u10d8\u10e8\u10dc\u10e3\u10da\u10d8\u10d0 1 \u10e1\u10d5\u10d4\u10e2\u10d8",
+      "_": "\u10db\u10dd\u10dc\u10d8\u10e8\u10dc\u10e3\u10da\u10d8\u10d0 %d \u10e1\u10d5\u10d4\u10e2\u10d8"
+    }
+  },
+  "thousands": ",",
+  "zeroRecords": "\u10d0\u10e0\u10d0\u10e4\u10d4\u10e0\u10d8 \u10db\u10dd\u10d8\u10eb\u10d4\u10d1\u10dc\u10d0"
 }

@@ -1,22 +1,22 @@
 {
-    "emptyTable": "పట్టికలో డేటా లేదు.",
-    "info": "మొత్తం _TOTAL_ ఎంట్రీలులో _START_ నుండి _END_ వరకు చూపిస్తున్నాం",
-    "infoEmpty": "చూపిస్తున్నాం 0 నుండి 0 వరకు 0 ఎంట్రీలు లో",
-    "infoFiltered": "( _MAX_ ఎంట్రీలులో నుండి వడపోయాబడినవి)",
-    "infoThousands": ",",
-    "lengthMenu": " _MENU_ ఎంట్రీలు చూపించు",
-    "loadingRecords": "లోడ్ అవుతుంది ...",
-    "processing": "ప్రాసెస్ చేయబడుతుంది...",
-    "search": "వెతుకు:",
-    "zeroRecords": "మ్యాచింగ్ రికార్డులు లేవు",
-    "paginate": {
-        "first": "మొదటి",
-        "last": "చివరి",
-        "next": "తర్వాత",
-        "previous": "మునుపటి"
-    },
-    "aria": {
-        "sortAscending": ": నిలువరుసను ఆరోహణ క్రమం అమర్చండి",
-        "sortDescending": ": నిలువరుసను అవరోహణ క్రమం అమర్చండి"
-    }
+  "aria": {
+    "sortAscending": ": \u0c28\u0c3f\u0c32\u0c41\u0c35\u0c30\u0c41\u0c38\u0c28\u0c41 \u0c06\u0c30\u0c4b\u0c39\u0c23 \u0c15\u0c4d\u0c30\u0c2e\u0c02 \u0c05\u0c2e\u0c30\u0c4d\u0c1a\u0c02\u0c21\u0c3f",
+    "sortDescending": ": \u0c28\u0c3f\u0c32\u0c41\u0c35\u0c30\u0c41\u0c38\u0c28\u0c41 \u0c05\u0c35\u0c30\u0c4b\u0c39\u0c23 \u0c15\u0c4d\u0c30\u0c2e\u0c02 \u0c05\u0c2e\u0c30\u0c4d\u0c1a\u0c02\u0c21\u0c3f"
+  },
+  "emptyTable": "\u0c2a\u0c1f\u0c4d\u0c1f\u0c3f\u0c15\u0c32\u0c4b \u0c21\u0c47\u0c1f\u0c3e \u0c32\u0c47\u0c26\u0c41.",
+  "info": "\u0c2e\u0c4a\u0c24\u0c4d\u0c24\u0c02 _TOTAL_ \u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c40\u0c32\u0c41\u0c32\u0c4b _START_ \u0c28\u0c41\u0c02\u0c21\u0c3f _END_ \u0c35\u0c30\u0c15\u0c41 \u0c1a\u0c42\u0c2a\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c02",
+  "infoEmpty": "\u0c1a\u0c42\u0c2a\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c02 0 \u0c28\u0c41\u0c02\u0c21\u0c3f 0 \u0c35\u0c30\u0c15\u0c41 0 \u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c40\u0c32\u0c41 \u0c32\u0c4b",
+  "infoFiltered": "( _MAX_ \u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c40\u0c32\u0c41\u0c32\u0c4b \u0c28\u0c41\u0c02\u0c21\u0c3f \u0c35\u0c21\u0c2a\u0c4b\u0c2f\u0c3e\u0c2c\u0c21\u0c3f\u0c28\u0c35\u0c3f)",
+  "infoThousands": ",",
+  "lengthMenu": " _MENU_ \u0c0e\u0c02\u0c1f\u0c4d\u0c30\u0c40\u0c32\u0c41 \u0c1a\u0c42\u0c2a\u0c3f\u0c02\u0c1a\u0c41",
+  "loadingRecords": "\u0c32\u0c4b\u0c21\u0c4d \u0c05\u0c35\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f ...",
+  "paginate": {
+    "first": "\u0c2e\u0c4a\u0c26\u0c1f\u0c3f",
+    "last": "\u0c1a\u0c3f\u0c35\u0c30\u0c3f",
+    "next": "\u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24",
+    "previous": "\u0c2e\u0c41\u0c28\u0c41\u0c2a\u0c1f\u0c3f"
+  },
+  "processing": "\u0c2a\u0c4d\u0c30\u0c3e\u0c38\u0c46\u0c38\u0c4d \u0c1a\u0c47\u0c2f\u0c2c\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f...",
+  "search": "\u0c35\u0c46\u0c24\u0c41\u0c15\u0c41:",
+  "zeroRecords": "\u0c2e\u0c4d\u0c2f\u0c3e\u0c1a\u0c3f\u0c02\u0c17\u0c4d \u0c30\u0c3f\u0c15\u0c3e\u0c30\u0c4d\u0c21\u0c41\u0c32\u0c41 \u0c32\u0c47\u0c35\u0c41"
 }

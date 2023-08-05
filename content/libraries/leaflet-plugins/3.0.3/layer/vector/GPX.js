@@ -3,12 +3,12 @@ L.GPX = L.FeatureGroup.extend({
 		L.Util.setOptions(this, options);
 		this._gpx = gpx;
 		this._layers = {};
-		
+
 		if (gpx) {
 			this.addGPX(gpx, options, this.options.async);
 		}
 	},
-	
+
 	loadXML: function (url, cb, options, async) {
 		if (async === undefined) async = this.options.async;
 		if (options === undefined) options = this.options;
@@ -31,7 +31,7 @@ L.GPX = L.FeatureGroup.extend({
 		else
 			return (l/1000).toFixed(1) + ' km';
 	},
-	
+
 	_polylineLen: function (line)//line is a L.Polyline()
 	{
 		var ll = line._latlngs;
@@ -85,7 +85,7 @@ L.GPX = L.FeatureGroup.extend({
 
 		if (!layers.length) return;
 		var layer = layers[0];
-		if (layers.length > 1) 
+		if (layers.length > 1)
 			layer = new L.FeatureGroup(layers);
 		if (!named) this.parse_name(xml, layer);
 		return layer;
@@ -110,7 +110,7 @@ L.GPX = L.FeatureGroup.extend({
 
 		if (name) txt += '<h2>' + name + '</h2>' + descr;
 		if (len) txt += '<p>' + this._humanLen(len) + '</p>';
-		if (link) txt += '<p><a target="_blank" href="'+link+'">[...]</a></p>'; 
+		if (link) txt += '<p><a target="_blank" href="'+link+'">[...]</a></p>';
 
 		if (layer && layer._popup === undefined) layer.bindPopup(txt);
 		return txt;

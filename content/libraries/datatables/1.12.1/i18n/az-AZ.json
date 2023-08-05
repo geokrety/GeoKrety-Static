@@ -1,181 +1,181 @@
 {
-    "emptyTable": "Cədvəldə heç bir məlumat yoxdur",
-    "infoEmpty": "Nəticə Yoxdur",
-    "infoFiltered": "( _MAX_ Nəticə İçindən Tapılanlar)",
-    "loadingRecords": "Yüklənir...",
-    "processing": "Gözləyin...",
-    "search": "Axtarış:",
-    "zeroRecords": "Nəticə Tapılmadı.",
-    "paginate": {
-        "first": "İlk",
-        "last": "Axırıncı",
-        "previous": "Öncəki",
-        "next": "Sonrakı"
+  "aria": {
+    "sortAscending": ": s\u00fctunu artma s\u0131ras\u0131 \u00fcz\u0259r\u0259 aktiv etm\u0259k",
+    "sortDescending": ": s\u00fctunu azalma s\u0131ras\u0131 \u00fcz\u0259r\u0259 aktiv etm\u0259k"
+  },
+  "autoFill": {
+    "cancel": "L\u0259\u011fv et",
+    "fill": "B\u00fct\u00fcn h\u00fccr\u0259l\u0259ri <i>%d</i> ile doldur",
+    "fillHorizontal": "H\u00fccr\u0259l\u0259ri \u00fcfiqi olaraq doldur",
+    "fillVertical": "H\u00fccr\u0259l\u0259ri \u015faquli olara1 doldur"
+  },
+  "buttons": {
+    "collection": "Kolleksiya <span class=\"\\\"></span>",
+    "colvis": "S\u00fctun bax\u0131\u015f\u0131",
+    "colvisRestore": "Bax\u0131\u015f\u0131 \u0259vv\u0259lki v\u0259ziyy\u0259tin\u0259 g\u0259tir",
+    "copy": "Kopyala",
+    "copyKeys": "C\u0259dv\u0259ld\u0259ki qeydi kopyalamaq \u00fc\u00e7\u00fcn CTRL v\u0259 ya u2318 + C d\u00fcym\u0259l\u0259rin\u0259 bas\u0131n. L\u0259\u011fv etm\u0259k \u00fc\u00e7\u00fcn bu mesaj\u0131 vurun v\u0259 ya ESC d\u00fcym\u0259sini vurun.",
+    "copySuccess": {
+      "1": "1 s\u0259tir panoya kopyaland\u0131",
+      "_": "%ds s\u0259tir panoya kopyaland\u0131"
     },
-    "aria": {
-        "sortDescending": ": sütunu azalma sırası üzərə aktiv etmək",
-        "sortAscending": ": sütunu artma sırası üzərə aktiv etmək"
+    "copyTitle": "Panoya kopyala",
+    "csv": "CSV",
+    "excel": "Excel",
+    "pageLength": {
+      "-1": "B\u00fct\u00fcn s\u0259tirlari g\u00f6st\u0259r",
+      "_": "%d s\u0259tir g\u00f6st\u0259r"
     },
-    "autoFill": {
-        "fill": "Bütün hücrələri <i>%d<\/i> ile doldur",
-        "fillHorizontal": "Hücrələri üfiqi olaraq doldur",
-        "fillVertical": "Hücrələri şaquli olara1 doldur",
-        "cancel": "Ləğv et"
+    "pdf": "PDF",
+    "print": "\u00c7ap Et"
+  },
+  "datetime": {
+    "amPm": [
+      "am",
+      "pm"
+    ],
+    "hours": "Saat",
+    "minutes": "D\u0259qiq\u0259",
+    "next": "N\u00f6vb\u0259ti",
+    "previous": "\u00d6nc\u0259ki",
+    "seconds": "Saniy\u0259",
+    "unknown": "Nam\u0259lum"
+  },
+  "decimal": ",",
+  "editor": {
+    "close": "Ba\u011fla",
+    "create": {
+      "button": "T\u0259z\u0259",
+      "submit": "Qeyd Et",
+      "title": "Yeni qeyd yarat"
     },
-    "buttons": {
-        "collection": "Kolleksiya <span class=\"\\\"><\/span>",
-        "colvis": "Sütun baxışı",
-        "colvisRestore": "Baxışı əvvəlki vəziyyətinə gətir",
-        "copy": "Kopyala",
-        "copyKeys": "Cədvəldəki qeydi kopyalamaq üçün CTRL və ya u2318 + C düymələrinə basın. Ləğv etmək üçün bu mesajı vurun və ya ESC düyməsini vurun.",
-        "copySuccess": {
-            "1": "1 sətir panoya kopyalandı",
-            "_": "%ds sətir panoya kopyalandı"
-        },
-        "copyTitle": "Panoya kopyala",
-        "csv": "CSV",
-        "excel": "Excel",
-        "pageLength": {
-            "-1": "Bütün sətirlari göstər",
-            "_": "%d sətir göstər"
-        },
-        "pdf": "PDF",
-        "print": "Çap Et"
+    "edit": {
+      "button": "Redakt\u0259 Et",
+      "submit": "Yenil\u0259yin",
+      "title": "Qeydi Redakt\u0259 Et"
     },
-    "decimal": ",",
-    "info": "_TOTAL_ Nəticədən _START_ - _END_ Arası Nəticələr",
-    "infoThousands": ".",
-    "searchBuilder": {
-        "add": "Koşul Ekle",
-        "button": {
-            "0": "Axtarış Yaradıcı",
-            "_": "Axtarış Yaradıcı (%d)"
-        },
-        "clearAll": "Filtrləri Təmizlə",
-        "condition": "Şərt",
-        "conditions": {
-            "date": {
-                "after": "Növbəti",
-                "before": "Öncəki",
-                "between": "Arasında",
-                "empty": "Boş",
-                "equals": "Bərabərdir",
-                "not": "Deyildir",
-                "notBetween": "Xaricində",
-                "notEmpty": "Dolu"
-            },
-            "number": {
-                "between": "Arasında",
-                "empty": "Boş",
-                "equals": "Bərabərdir",
-                "gt": "Böyükdür",
-                "gte": "Böyük bərabərdir",
-                "lt": "Kiçikdir",
-                "lte": "Kiçik bərabərdir",
-                "not": "Deyildir",
-                "notBetween": "Xaricində",
-                "notEmpty": "Dolu"
-            },
-            "string": {
-                "contains": "Tərkibində",
-                "empty": "Boş",
-                "endsWith": "İlə bitər",
-                "equals": "Bərabərdir",
-                "not": "Deyildir",
-                "notEmpty": "Dolu",
-                "startsWith": "İlə başlayar"
-            },
-            "array": {
-                "equals": "Bərabərdir",
-                "empty": "Boş",
-                "contains": "Tərkibində",
-                "not": "Deyildir",
-                "notEmpty": "Dolu",
-                "without": "Xaric"
-            }
-        },
-        "data": "Qeyd",
-        "deleteTitle": "Filtrləmə qaydasını silin",
-        "leftTitle": "Meyarı xaricə çıxarmaq",
-        "logicAnd": "və",
-        "logicOr": "vəya",
-        "rightTitle": "Meyarı içəri al",
-        "title": {
-            "0": "Axtarış Yaradıcı",
-            "_": "Axtarış Yaradıcı (%d)"
-        },
-        "value": "Değer"
+    "error": {
+      "system": "Sistem x\u0259tas\u0131 ba\u015f verdi (\u018ftrafl\u0131 M\u0259lumat)"
     },
-    "searchPanes": {
-        "clearMessage": "Hamısını Təmizlə",
-        "collapse": {
-            "0": "Axtarış Bölməsi",
-            "_": "Axtarış Bölməsi (%d)"
-        },
-        "count": "{total}",
-        "countFiltered": "{shown}\/{total}",
-        "emptyPanes": "Axtarış Bölməsi yoxdur",
-        "loadMessage": "Axtarış Bölməsi yüklənir ...",
-        "title": "Aktiv filtrlər - %d"
+    "multi": {
+      "info": "Se\u00e7ilmi\u015f qeydl\u0259r bu sah\u0259d\u0259 f\u0259rqli d\u0259y\u0259rl\u0259r ehtiva edir. B\u00fct\u00fcn se\u00e7ilmi\u015f qeydl\u0259r \u00fc\u00e7\u00fcn bu sah\u0259y\u0259 eyni d\u0259y\u0259ri t\u0259yin etm\u0259k \u00fc\u00e7\u00fcn buraya vurun; \u0259ks halda h\u0259r qeyd \u00f6z d\u0259y\u0259rini saxlayacaqd\u0131r.",
+      "noMulti": "Bu sah\u0259 qrup \u015f\u0259klind\u0259 deyil, ayr\u0131-ayr\u0131l\u0131qda t\u0259\u015fkil edil\u0259 bil\u0259r.",
+      "restore": "D\u0259yi\u015fiklikl\u0259ri geri qaytar\u0131n",
+      "title": "\u00c7ox d\u0259y\u0259r"
     },
-    "select": {
-        "cells": {
-            "1": "1 hücrə seçildi",
-            "_": "%d hücrə seçildi"
-        },
-        "columns": {
-            "1": "1 sütun seçildi",
-            "_": "%d sütun seçildi"
-        },
-        "rows": {
-            "1": "1 qeyd seçildi",
-            "_": "%d qeyd seçildi"
-        }
+    "remove": {
+      "button": "Sil",
+      "confirm": {
+        "1": "Bu qeydi silm\u0259k ist\u0259diyiniz\u0259 \u0259minsiniz?",
+        "_": "%d \u0259d\u0259d qeydi silm\u0259k ist\u0259diyiniz\u0259 \u0259minsiniz?"
+      },
+      "submit": "Sil",
+      "title": "Qeydl\u0259ri sil"
+    }
+  },
+  "emptyTable": "C\u0259dv\u0259ld\u0259 he\u00e7 bir m\u0259lumat yoxdur",
+  "info": "_TOTAL_ N\u0259tic\u0259d\u0259n _START_ - _END_ Aras\u0131 N\u0259tic\u0259l\u0259r",
+  "infoEmpty": "N\u0259tic\u0259 Yoxdur",
+  "infoFiltered": "( _MAX_ N\u0259tic\u0259 \u0130\u00e7ind\u0259n Tap\u0131lanlar)",
+  "infoThousands": ".",
+  "lengthMenu": "S\u0259hif\u0259d\u0259 _MENU_ n\u0259tic\u0259 g\u00f6st\u0259r",
+  "loadingRecords": "Y\u00fckl\u0259nir...",
+  "paginate": {
+    "first": "\u0130lk",
+    "last": "Ax\u0131r\u0131nc\u0131",
+    "next": "Sonrak\u0131",
+    "previous": "\u00d6nc\u0259ki"
+  },
+  "processing": "G\u00f6zl\u0259yin...",
+  "search": "Axtar\u0131\u015f:",
+  "searchBuilder": {
+    "add": "Ko\u015ful Ekle",
+    "button": {
+      "0": "Axtar\u0131\u015f Yarad\u0131c\u0131",
+      "_": "Axtar\u0131\u015f Yarad\u0131c\u0131 (%d)"
     },
-    "thousands": ".",
-    "datetime": {
-        "previous": "Öncəki",
-        "next": "Növbəti",
-        "hours": "Saat",
-        "minutes": "Dəqiqə",
-        "seconds": "Saniyə",
-        "unknown": "Naməlum",
-        "amPm": [
-            "am",
-            "pm"
-        ]
+    "clearAll": "Filtrl\u0259ri T\u0259mizl\u0259",
+    "condition": "\u015e\u0259rt",
+    "conditions": {
+      "array": {
+        "contains": "T\u0259rkibind\u0259",
+        "empty": "Bo\u015f",
+        "equals": "B\u0259rab\u0259rdir",
+        "not": "Deyildir",
+        "notEmpty": "Dolu",
+        "without": "Xaric"
+      },
+      "date": {
+        "after": "N\u00f6vb\u0259ti",
+        "before": "\u00d6nc\u0259ki",
+        "between": "Aras\u0131nda",
+        "empty": "Bo\u015f",
+        "equals": "B\u0259rab\u0259rdir",
+        "not": "Deyildir",
+        "notBetween": "Xaricind\u0259",
+        "notEmpty": "Dolu"
+      },
+      "number": {
+        "between": "Aras\u0131nda",
+        "empty": "Bo\u015f",
+        "equals": "B\u0259rab\u0259rdir",
+        "gt": "B\u00f6y\u00fckd\u00fcr",
+        "gte": "B\u00f6y\u00fck b\u0259rab\u0259rdir",
+        "lt": "Ki\u00e7ikdir",
+        "lte": "Ki\u00e7ik b\u0259rab\u0259rdir",
+        "not": "Deyildir",
+        "notBetween": "Xaricind\u0259",
+        "notEmpty": "Dolu"
+      },
+      "string": {
+        "contains": "T\u0259rkibind\u0259",
+        "empty": "Bo\u015f",
+        "endsWith": "\u0130l\u0259 bit\u0259r",
+        "equals": "B\u0259rab\u0259rdir",
+        "not": "Deyildir",
+        "notEmpty": "Dolu",
+        "startsWith": "\u0130l\u0259 ba\u015flayar"
+      }
     },
-    "editor": {
-        "close": "Bağla",
-        "create": {
-            "button": "Təzə",
-            "title": "Yeni qeyd yarat",
-            "submit": "Qeyd Et"
-        },
-        "edit": {
-            "button": "Redaktə Et",
-            "title": "Qeydi Redaktə Et",
-            "submit": "Yeniləyin"
-        },
-        "remove": {
-            "button": "Sil",
-            "title": "Qeydləri sil",
-            "submit": "Sil",
-            "confirm": {
-                "_": "%d ədəd qeydi silmək istədiyinizə əminsiniz?",
-                "1": "Bu qeydi silmək istədiyinizə əminsiniz?"
-            }
-        },
-        "error": {
-            "system": "Sistem xətası baş verdi (Ətraflı Məlumat)"
-        },
-        "multi": {
-            "title": "Çox dəyər",
-            "info": "Seçilmiş qeydlər bu sahədə fərqli dəyərlər ehtiva edir. Bütün seçilmiş qeydlər üçün bu sahəyə eyni dəyəri təyin etmək üçün buraya vurun; əks halda hər qeyd öz dəyərini saxlayacaqdır.",
-            "restore": "Dəyişiklikləri geri qaytarın",
-            "noMulti": "Bu sahə qrup şəklində deyil, ayrı-ayrılıqda təşkil edilə bilər."
-        }
+    "data": "Qeyd",
+    "deleteTitle": "Filtrl\u0259m\u0259 qaydas\u0131n\u0131 silin",
+    "leftTitle": "Meyar\u0131 xaric\u0259 \u00e7\u0131xarmaq",
+    "logicAnd": "v\u0259",
+    "logicOr": "v\u0259ya",
+    "rightTitle": "Meyar\u0131 i\u00e7\u0259ri al",
+    "title": {
+      "0": "Axtar\u0131\u015f Yarad\u0131c\u0131",
+      "_": "Axtar\u0131\u015f Yarad\u0131c\u0131 (%d)"
     },
-    "lengthMenu": "Səhifədə _MENU_ nəticə göstər",
-    "searchPlaceholder": "Nəyi axtarırsınız?"
+    "value": "De\u011fer"
+  },
+  "searchPanes": {
+    "clearMessage": "Ham\u0131s\u0131n\u0131 T\u0259mizl\u0259",
+    "collapse": {
+      "0": "Axtar\u0131\u015f B\u00f6lm\u0259si",
+      "_": "Axtar\u0131\u015f B\u00f6lm\u0259si (%d)"
+    },
+    "count": "{total}",
+    "countFiltered": "{shown}/{total}",
+    "emptyPanes": "Axtar\u0131\u015f B\u00f6lm\u0259si yoxdur",
+    "loadMessage": "Axtar\u0131\u015f B\u00f6lm\u0259si y\u00fckl\u0259nir ...",
+    "title": "Aktiv filtrl\u0259r - %d"
+  },
+  "searchPlaceholder": "N\u0259yi axtar\u0131rs\u0131n\u0131z?",
+  "select": {
+    "cells": {
+      "1": "1 h\u00fccr\u0259 se\u00e7ildi",
+      "_": "%d h\u00fccr\u0259 se\u00e7ildi"
+    },
+    "columns": {
+      "1": "1 s\u00fctun se\u00e7ildi",
+      "_": "%d s\u00fctun se\u00e7ildi"
+    },
+    "rows": {
+      "1": "1 qeyd se\u00e7ildi",
+      "_": "%d qeyd se\u00e7ildi"
+    }
+  },
+  "thousands": ".",
+  "zeroRecords": "N\u0259tic\u0259 Tap\u0131lmad\u0131."
 }

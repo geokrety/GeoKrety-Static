@@ -1,22 +1,22 @@
 {
-    "emptyTable": "ಕೋಷ್ಟಕದಲ್ಲಿ ಯಾವುದೇ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ",
-    "info": "ಒಟ್ಟು _TOTAL_ ಎಂಟ್ರಿಗಳಲ್ಲಿ _START_ ರಿಂದ _END_ ವರೆಗು ತೋರಿಸಲಾಗುತ್ತಿದೆ",
-    "infoEmpty": "ಒಟ್ಟು 0 ಎಂಟ್ರಿಗಳಲ್ಲಿ 0 ರಿಂದ 0 ವರೆಗು ತೋರಿಸಲಾಗುತ್ತಿದೆ",
-    "infoFiltered": "(ಒಟ್ಟು _MAX_ ಎಂಟ್ರಿ ಗಳಿಂದ ಫಿಲ್ಟರ್ ಮಾಡಲಾಗಿದೆ)",
-    "infoThousands": ",",
-    "lengthMenu": "_MENU_ ಎಂಟ್ರಿಗಳು ತೋರಿಸು",
-    "loadingRecords": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
-    "processing": "ಸಂಸ್ಕರಿಸಲಾಗುತ್ತಿದೆ...",
-    "search": "ಹುಡುಕಿ:",
-    "zeroRecords": "ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ದಾಖಲೆಗಳು ಇಲ್ಲ",
-    "paginate": {
-        "first": "ಪ್ರಥಮ",
-        "last": "ಅಂತಿಮ",
-        "next": "ಮುಂದಿನದು",
-        "previous": "ಹಿಂದಿನದು"
-    },
-    "aria": {
-        "sortAscending": ": ಕಾಲಂ ಅನ್ನು ಆರೋಹಣವಾಗಿ ವಿಂಗಡಿಸಲು ಸಕ್ರಿಯಗೊಳಿಸಿ",
-        "sortDescending": ": ಕಾಲಂ ಅನ್ನು ಅವರೋಹಣವಾಗಿ ವಿಂಗಡಿಸಲು ಸಕ್ರಿಯಗೊಳಿಸಿ"
-    }
+  "aria": {
+    "sortAscending": ": \u0c95\u0cbe\u0cb2\u0c82 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0c86\u0cb0\u0ccb\u0cb9\u0ca3\u0cb5\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cc1 \u0cb8\u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0c97\u0cca\u0cb3\u0cbf\u0cb8\u0cbf",
+    "sortDescending": ": \u0c95\u0cbe\u0cb2\u0c82 \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb5\u0cb0\u0ccb\u0cb9\u0ca3\u0cb5\u0cbe\u0c97\u0cbf \u0cb5\u0cbf\u0c82\u0c97\u0ca1\u0cbf\u0cb8\u0cb2\u0cc1 \u0cb8\u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0c97\u0cca\u0cb3\u0cbf\u0cb8\u0cbf"
+  },
+  "emptyTable": "\u0c95\u0ccb\u0cb7\u0ccd\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0ca1\u0cc7\u0c9f\u0cbe \u0cb2\u0cad\u0ccd\u0caf\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2",
+  "info": "\u0c92\u0c9f\u0ccd\u0c9f\u0cc1 _TOTAL_ \u0c8e\u0c82\u0c9f\u0ccd\u0cb0\u0cbf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf _START_ \u0cb0\u0cbf\u0c82\u0ca6 _END_ \u0cb5\u0cb0\u0cc6\u0c97\u0cc1 \u0ca4\u0ccb\u0cb0\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca6\u0cc6",
+  "infoEmpty": "\u0c92\u0c9f\u0ccd\u0c9f\u0cc1 0 \u0c8e\u0c82\u0c9f\u0ccd\u0cb0\u0cbf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf 0 \u0cb0\u0cbf\u0c82\u0ca6 0 \u0cb5\u0cb0\u0cc6\u0c97\u0cc1 \u0ca4\u0ccb\u0cb0\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca6\u0cc6",
+  "infoFiltered": "(\u0c92\u0c9f\u0ccd\u0c9f\u0cc1 _MAX_ \u0c8e\u0c82\u0c9f\u0ccd\u0cb0\u0cbf \u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cab\u0cbf\u0cb2\u0ccd\u0c9f\u0cb0\u0ccd \u0cae\u0cbe\u0ca1\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6)",
+  "infoThousands": ",",
+  "lengthMenu": "_MENU_ \u0c8e\u0c82\u0c9f\u0ccd\u0cb0\u0cbf\u0c97\u0cb3\u0cc1 \u0ca4\u0ccb\u0cb0\u0cbf\u0cb8\u0cc1",
+  "loadingRecords": "\u0cb2\u0ccb\u0ca1\u0ccd \u0c86\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca6\u0cc6...",
+  "paginate": {
+    "first": "\u0caa\u0ccd\u0cb0\u0ca5\u0cae",
+    "last": "\u0c85\u0c82\u0ca4\u0cbf\u0cae",
+    "next": "\u0cae\u0cc1\u0c82\u0ca6\u0cbf\u0ca8\u0ca6\u0cc1",
+    "previous": "\u0cb9\u0cbf\u0c82\u0ca6\u0cbf\u0ca8\u0ca6\u0cc1"
+  },
+  "processing": "\u0cb8\u0c82\u0cb8\u0ccd\u0c95\u0cb0\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca6\u0cc6...",
+  "search": "\u0cb9\u0cc1\u0ca1\u0cc1\u0c95\u0cbf:",
+  "zeroRecords": "\u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0cb9\u0cca\u0c82\u0ca6\u0cbe\u0ca3\u0cbf\u0c95\u0cc6\u0caf \u0ca6\u0cbe\u0c96\u0cb2\u0cc6\u0c97\u0cb3\u0cc1 \u0c87\u0cb2\u0ccd\u0cb2"
 }

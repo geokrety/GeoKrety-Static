@@ -68,4 +68,3 @@ L.Control.Layers.include({
 		}
 	}
 });
-

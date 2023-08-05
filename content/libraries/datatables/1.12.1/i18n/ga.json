@@ -1,15 +1,15 @@
 {
-    "processing": "Próiseáil...",
-    "lengthMenu": "Taispeáin iontrálacha _MENU_",
-    "zeroRecords": "Gan aon taifead meaitseáil aimsithe",
-    "info": "_START_ Showing a _END_ na n-iontrálacha  _TOTAL_",
-    "infoEmpty": "Showing 0-0 na n-iontrálacha  0",
-    "infoFiltered": "(scagtha ó _MAX_ iontrálacha iomlán)",
-    "search": "Cuardaigh:",
-    "paginate": {
-        "first": "An Chéad",
-        "previous": "Roimhe Seo",
-        "next": "Ar Aghaidh",
-        "last": "Last"
-    }
+  "info": "_START_ Showing a _END_ na n-iontr\u00e1lacha  _TOTAL_",
+  "infoEmpty": "Showing 0-0 na n-iontr\u00e1lacha  0",
+  "infoFiltered": "(scagtha \u00f3 _MAX_ iontr\u00e1lacha ioml\u00e1n)",
+  "lengthMenu": "Taispe\u00e1in iontr\u00e1lacha _MENU_",
+  "paginate": {
+    "first": "An Ch\u00e9ad",
+    "last": "Last",
+    "next": "Ar Aghaidh",
+    "previous": "Roimhe Seo"
+  },
+  "processing": "Pr\u00f3ise\u00e1il...",
+  "search": "Cuardaigh:",
+  "zeroRecords": "Gan aon taifead meaitse\u00e1il aimsithe"
 }

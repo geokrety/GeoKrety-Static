@@ -1,202 +1,202 @@
 {
-    "processing": "מעבד...",
-    "lengthMenu": "הצג _MENU_ פריטים",
-    "zeroRecords": "לא נמצאו רשומות מתאימות",
-    "emptyTable": "לא נמצאו רשומות מתאימות",
-    "info": "_START_ עד _END_ מתוך _TOTAL_ רשומות",
-    "infoEmpty": "0 עד 0 מתוך 0 רשומות",
-    "infoFiltered": "(מסונן מסך _MAX_  רשומות)",
-    "search": "חפש:",
-    "paginate": {
-        "first": "ראשון",
-        "previous": "קודם",
-        "next": "הבא",
-        "last": "אחרון"
+  "aria": {
+    "sortAscending": "\u05de\u05d9\u05d5\u05df \u05d1\u05e1\u05d3\u05e8 \u05e2\u05d5\u05dc\u05d4",
+    "sortDescending": "\u05de\u05d9\u05d5\u05df \u05d1\u05e1\u05d3\u05e8 \u05d9\u05d5\u05e8\u05d3"
+  },
+  "autoFill": {
+    "cancel": "\u05d1\u05d9\u05d8\u05d5\u05dc",
+    "fill": "\u05de\u05dc\u05d0 \u05d0\u05ea \u05db\u05dc \u05d4\u05ea\u05d0\u05d9\u05dd \u05e2\u05dd  <i>%d<i></i></i>",
+    "fillHorizontal": "\u05de\u05dc\u05d0 \u05ea\u05d0\u05d9\u05dd \u05de\u05d0\u05d5\u05d6\u05df",
+    "fillVertical": "\u05de\u05dc\u05d0 \u05ea\u05d0\u05d9\u05dd \u05de\u05d0\u05d5\u05e0\u05da"
+  },
+  "buttons": {
+    "collection": "\u05e7\u05d5\u05dc\u05e7\u05e6\u05d9\u05d4",
+    "colvis": "\u05e0\u05e8\u05d0\u05d5\u05ea \u05e2\u05de\u05d5\u05d3\u05d5\u05ea",
+    "colvisRestore": "\u05e9\u05d7\u05d6\u05d5\u05e8 \u05e0\u05e8\u05d0\u05d5\u05ea",
+    "copy": "\u05d4\u05e2\u05ea\u05e7",
+    "copyKeys": "\u05dc\u05d7\u05e5 ctrl \u05d0\u05d5 u2318 + C \u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d4\u05e2\u05ea\u05d9\u05e7 \u05d0\u05ea \u05ea\u05d5\u05db\u05df \u05d4\u05d8\u05d1\u05dc\u05d4.",
+    "copySuccess": {
+      "1": "\u05e8\u05e9\u05d5\u05de\u05d4 1 \u05d4\u05d5\u05e2\u05ea\u05e7\u05d4",
+      "_": "%ds \u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05d4\u05d5\u05e2\u05ea\u05e7\u05d5"
     },
-    "searchPanes": {
-        "clearMessage": "איפוס מסננים",
-        "collapse": {
-            "0": "מסנני חיפוש",
-            "_": "מסנני חיפוש (%d)"
-        },
-        "count": "ספירה",
-        "emptyPanes": "אין מסנני חיפוש",
-        "loadMessage": "מסנני חיפוש בטעינה",
-        "title": "מסננים פעילים - %d"
+    "copyTitle": "\u05d4\u05e2\u05ea\u05e7\u05ea \u05ea\u05d5\u05db\u05df",
+    "csv": "CSV",
+    "excel": "Excel",
+    "pageLength": {
+      "-1": "\u05d4\u05e6\u05d2 \u05d0\u05ea \u05db\u05dc \u05d4\u05e8\u05e9\u05d5\u05de\u05d5\u05ea",
+      "_": "\u05d4\u05e6\u05d2 %d \u05e8\u05e9\u05d5\u05de\u05d5\u05ea"
     },
-    "aria": {
-        "sortAscending": "מיון בסדר עולה",
-        "sortDescending": "מיון בסדר יורד"
+    "pdf": "PDF",
+    "print": "\u05d4\u05d3\u05e4\u05e1"
+  },
+  "datetime": {
+    "amPm": [
+      "\u05dc\u05e4\u05e0\u05d4\"\u05e6",
+      "\u05d0\u05d7\u05d4\"\u05e6"
+    ],
+    "hours": "\u05e9\u05e2\u05d4",
+    "minutes": "\u05d3\u05e7\u05d4",
+    "months": {
+      "0": "\u05d9\u05e0\u05d5\u05d0\u05e8",
+      "1": "\u05e4\u05d1\u05e8\u05d5\u05d0\u05e8",
+      "10": "\u05e0\u05d5\u05d1\u05de\u05d1\u05e8",
+      "11": "\u05d3\u05e6\u05de\u05d1\u05e8",
+      "2": "\u05de\u05e8\u05e5",
+      "3": "\u05d0\u05e4\u05e8\u05d9\u05dc",
+      "4": "\u05de\u05d0\u05d9",
+      "5": "\u05d9\u05d5\u05e0\u05d9",
+      "6": "\u05d9\u05d5\u05dc\u05d9",
+      "7": "\u05d0\u05d5\u05d2\u05d5\u05e1\u05d8",
+      "8": "\u05e1\u05e4\u05d8\u05de\u05d1\u05e8",
+      "9": "\u05d0\u05d5\u05e7\u05d8\u05d5\u05d1\u05e8"
     },
-    "autoFill": {
-        "cancel": "ביטול",
-        "fill": "מלא את כל התאים עם  <i>%d<i><\/i><\/i>",
-        "fillHorizontal": "מלא תאים מאוזן",
-        "fillVertical": "מלא תאים מאונך"
+    "next": "\u05d4\u05d1\u05d0",
+    "previous": "\u05d4\u05e7\u05d5\u05d3\u05dd",
+    "seconds": "\u05e9\u05e0\u05d9\u05d4",
+    "unknown": "-",
+    "weekdays": [
+      "\u05d0",
+      "\u05d1",
+      "\u05d2",
+      "\u05d3",
+      "\u05d4",
+      "\u05d5",
+      "\u05e9"
+    ]
+  },
+  "decimal": "\u05e2\u05e9\u05e8\u05d5\u05e0\u05d9",
+  "editor": {
+    "close": "\u05e1\u05d2\u05d5\u05e8",
+    "create": {
+      "button": "\u05d7\u05d3\u05e9",
+      "submit": "\u05e6\u05d5\u05e8",
+      "title": "\u05e6\u05d5\u05e8 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d7\u05d3\u05e9\u05d4"
     },
-    "buttons": {
-        "collection": "קולקציה",
-        "colvis": "נראות עמודות",
-        "colvisRestore": "שחזור נראות",
-        "copy": "העתק",
-        "copySuccess": {
-            "1": "רשומה 1 הועתקה",
-            "_": "%ds רשומות הועתקו"
-        },
-        "copyTitle": "העתקת תוכן",
-        "csv": "CSV",
-        "excel": "Excel",
-        "pageLength": {
-            "-1": "הצג את כל הרשומות",
-            "_": "הצג %d רשומות"
-        },
-        "pdf": "PDF",
-        "print": "הדפס",
-        "copyKeys": "לחץ ctrl או u2318 + C על מנת להעתיק את תוכן הטבלה."
+    "edit": {
+      "button": "\u05e2\u05e8\u05d5\u05da",
+      "submit": "\u05e2\u05d3\u05db\u05df",
+      "title": "\u05e2\u05e8\u05d9\u05db\u05ea \u05e8\u05e9\u05d5\u05de\u05d4"
     },
-    "thousands": ",",
-    "datetime": {
-        "previous": "הקודם",
-        "next": "הבא",
-        "hours": "שעה",
-        "minutes": "דקה",
-        "seconds": "שניה",
-        "unknown": "-",
-        "amPm": [
-            "לפנה\"צ",
-            "אחה\"צ"
-        ],
-        "months": {
-            "0": "ינואר",
-            "1": "פברואר",
-            "10": "נובמבר",
-            "11": "דצמבר",
-            "2": "מרץ",
-            "3": "אפריל",
-            "4": "מאי",
-            "5": "יוני",
-            "6": "יולי",
-            "7": "אוגוסט",
-            "8": "ספטמבר",
-            "9": "אוקטובר"
-        },
-        "weekdays": [
-            "א",
-            "ב",
-            "ג",
-            "ד",
-            "ה",
-            "ו",
-            "ש"
-        ]
+    "error": {
+      "system": "\u05d0\u05d9\u05e8\u05e2\u05d4 \u05e9\u05d2\u05d9\u05d0\u05ea \u05de\u05e2\u05e8\u05db\u05ea (\u05e4\u05e8\u05d8\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd)."
     },
-    "editor": {
-        "close": "סגור",
-        "create": {
-            "button": "חדש",
-            "title": "צור רשומה חדשה",
-            "submit": "צור"
-        },
-        "edit": {
-            "button": "ערוך",
-            "title": "עריכת רשומה",
-            "submit": "עדכן"
-        },
-        "remove": {
-            "button": "מחק",
-            "title": "מחיקה",
-            "submit": "מחק",
-            "confirm": {
-                "_": "האם אתה בטוח שברצונך למחוק %d רשומות?",
-                "1": "האם אתה בטוח שברצונך למחוק רשומה אחת?"
-            }
-        },
-        "error": {
-            "system": "אירעה שגיאת מערכת (פרטים נוספים)."
-        },
-        "multi": {
-            "title": "מגוון ערכים שונים",
-            "info": "הרשומות שנבחרו מכילים מישע שונה עבור שדה זה. על מנת להגדיר את ששדה זה בכל הרשומות יכיל ערך זהה, לחץ כאן. אחרת הם יישארו עם אותו ערך שהתקבל",
-            "restore": "בטל שינוי",
-            "noMulti": "שדה זה יכול ליות מוגדר בנפרד אך לא כקבוצה"
-        }
+    "multi": {
+      "info": "\u05d4\u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05e9\u05e0\u05d1\u05d7\u05e8\u05d5 \u05de\u05db\u05d9\u05dc\u05d9\u05dd \u05de\u05d9\u05e9\u05e2 \u05e9\u05d5\u05e0\u05d4 \u05e2\u05d1\u05d5\u05e8 \u05e9\u05d3\u05d4 \u05d6\u05d4. \u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05d0\u05ea \u05e9\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05d1\u05db\u05dc \u05d4\u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05d9\u05db\u05d9\u05dc \u05e2\u05e8\u05da \u05d6\u05d4\u05d4, \u05dc\u05d7\u05e5 \u05db\u05d0\u05df. \u05d0\u05d7\u05e8\u05ea \u05d4\u05dd \u05d9\u05d9\u05e9\u05d0\u05e8\u05d5 \u05e2\u05dd \u05d0\u05d5\u05ea\u05d5 \u05e2\u05e8\u05da \u05e9\u05d4\u05ea\u05e7\u05d1\u05dc",
+      "noMulti": "\u05e9\u05d3\u05d4 \u05d6\u05d4 \u05d9\u05db\u05d5\u05dc \u05dc\u05d9\u05d5\u05ea \u05de\u05d5\u05d2\u05d3\u05e8 \u05d1\u05e0\u05e4\u05e8\u05d3 \u05d0\u05da \u05dc\u05d0 \u05db\u05e7\u05d1\u05d5\u05e6\u05d4",
+      "restore": "\u05d1\u05d8\u05dc \u05e9\u05d9\u05e0\u05d5\u05d9",
+      "title": "\u05de\u05d2\u05d5\u05d5\u05df \u05e2\u05e8\u05db\u05d9\u05dd \u05e9\u05d5\u05e0\u05d9\u05dd"
     },
-    "decimal": "עשרוני",
-    "loadingRecords": "טוען...",
-    "searchBuilder": {
-        "add": "הוסף תנאי",
-        "button": {
-            "0": "בניית חיפוש",
-            "_": "בניית חיפוש (%d)"
-        },
-        "clearAll": "נקה הכל",
-        "condition": "תנאי",
-        "conditions": {
-            "date": {
-                "after": "אחרי",
-                "before": "לפני",
-                "between": "בין",
-                "empty": "ריק",
-                "equals": "שווה ל",
-                "not": "לא",
-                "notBetween": "לא בין",
-                "notEmpty": "לא ריק"
-            },
-            "number": {
-                "between": "בין",
-                "empty": "ריק",
-                "equals": "שווה ל",
-                "gt": "גדול מ",
-                "gte": "גדול או שווה ל",
-                "lt": "קטן מ",
-                "lte": "קטן או שווה ל",
-                "not": "לא",
-                "notBetween": "לא בין",
-                "notEmpty": "לא ריק"
-            },
-            "string": {
-                "contains": "מכיל",
-                "empty": "ריק",
-                "endsWith": "נגמר ב",
-                "equals": "שווה ל",
-                "not": "לא",
-                "notEmpty": "לא ריק",
-                "startsWith": "מתחיל ב",
-                "notContains": "לא מכיל",
-                "notEnds": "לא מסתיים ב",
-                "notStarts": "לא מתחיל ב"
-            },
-            "array": {
-                "equals": "שווה",
-                "empty": "ריק",
-                "contains": "מכיל",
-                "not": "לא",
-                "notEmpty": "לא ריק",
-                "without": "ללא"
-            }
-        },
-        "data": "תוכן",
-        "deleteTitle": "מחיקת חוק סינון",
-        "logicAnd": "וגם",
-        "logicOr": "או",
-        "title": {
-            "0": "בניית חיפוש",
-            "_": "בניית חיפוש (%d)"
-        },
-        "value": "ערך"
-    },
-    "select": {
-        "cells": {
-            "1": "תא אחד נבחר",
-            "_": "%d תאים נבחרו"
-        },
-        "columns": {
-            "1": "עמודה אחת נבחרה",
-            "_": "%d עמודות נבחרו"
-        },
-        "rows": {
-            "1": "שורה אחת נבחרה",
-            "_": "%d שורות נבחרו"
-        }
+    "remove": {
+      "button": "\u05de\u05d7\u05e7",
+      "confirm": {
+        "1": "\u05d4\u05d0\u05dd \u05d0\u05ea\u05d4 \u05d1\u05d8\u05d5\u05d7 \u05e9\u05d1\u05e8\u05e6\u05d5\u05e0\u05da \u05dc\u05de\u05d7\u05d5\u05e7 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d0\u05d7\u05ea?",
+        "_": "\u05d4\u05d0\u05dd \u05d0\u05ea\u05d4 \u05d1\u05d8\u05d5\u05d7 \u05e9\u05d1\u05e8\u05e6\u05d5\u05e0\u05da \u05dc\u05de\u05d7\u05d5\u05e7 %d \u05e8\u05e9\u05d5\u05de\u05d5\u05ea?"
+      },
+      "submit": "\u05de\u05d7\u05e7",
+      "title": "\u05de\u05d7\u05d9\u05e7\u05d4"
     }
+  },
+  "emptyTable": "\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0\u05d5 \u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05de\u05ea\u05d0\u05d9\u05de\u05d5\u05ea",
+  "info": "_START_ \u05e2\u05d3 _END_ \u05de\u05ea\u05d5\u05da _TOTAL_ \u05e8\u05e9\u05d5\u05de\u05d5\u05ea",
+  "infoEmpty": "0 \u05e2\u05d3 0 \u05de\u05ea\u05d5\u05da 0 \u05e8\u05e9\u05d5\u05de\u05d5\u05ea",
+  "infoFiltered": "(\u05de\u05e1\u05d5\u05e0\u05df \u05de\u05e1\u05da _MAX_  \u05e8\u05e9\u05d5\u05de\u05d5\u05ea)",
+  "lengthMenu": "\u05d4\u05e6\u05d2 _MENU_ \u05e4\u05e8\u05d9\u05d8\u05d9\u05dd",
+  "loadingRecords": "\u05d8\u05d5\u05e2\u05df...",
+  "paginate": {
+    "first": "\u05e8\u05d0\u05e9\u05d5\u05df",
+    "last": "\u05d0\u05d7\u05e8\u05d5\u05df",
+    "next": "\u05d4\u05d1\u05d0",
+    "previous": "\u05e7\u05d5\u05d3\u05dd"
+  },
+  "processing": "\u05de\u05e2\u05d1\u05d3...",
+  "search": "\u05d7\u05e4\u05e9:",
+  "searchBuilder": {
+    "add": "\u05d4\u05d5\u05e1\u05e3 \u05ea\u05e0\u05d0\u05d9",
+    "button": {
+      "0": "\u05d1\u05e0\u05d9\u05d9\u05ea \u05d7\u05d9\u05e4\u05d5\u05e9",
+      "_": "\u05d1\u05e0\u05d9\u05d9\u05ea \u05d7\u05d9\u05e4\u05d5\u05e9 (%d)"
+    },
+    "clearAll": "\u05e0\u05e7\u05d4 \u05d4\u05db\u05dc",
+    "condition": "\u05ea\u05e0\u05d0\u05d9",
+    "conditions": {
+      "array": {
+        "contains": "\u05de\u05db\u05d9\u05dc",
+        "empty": "\u05e8\u05d9\u05e7",
+        "equals": "\u05e9\u05d5\u05d5\u05d4",
+        "not": "\u05dc\u05d0",
+        "notEmpty": "\u05dc\u05d0 \u05e8\u05d9\u05e7",
+        "without": "\u05dc\u05dc\u05d0"
+      },
+      "date": {
+        "after": "\u05d0\u05d7\u05e8\u05d9",
+        "before": "\u05dc\u05e4\u05e0\u05d9",
+        "between": "\u05d1\u05d9\u05df",
+        "empty": "\u05e8\u05d9\u05e7",
+        "equals": "\u05e9\u05d5\u05d5\u05d4 \u05dc",
+        "not": "\u05dc\u05d0",
+        "notBetween": "\u05dc\u05d0 \u05d1\u05d9\u05df",
+        "notEmpty": "\u05dc\u05d0 \u05e8\u05d9\u05e7"
+      },
+      "number": {
+        "between": "\u05d1\u05d9\u05df",
+        "empty": "\u05e8\u05d9\u05e7",
+        "equals": "\u05e9\u05d5\u05d5\u05d4 \u05dc",
+        "gt": "\u05d2\u05d3\u05d5\u05dc \u05de",
+        "gte": "\u05d2\u05d3\u05d5\u05dc \u05d0\u05d5 \u05e9\u05d5\u05d5\u05d4 \u05dc",
+        "lt": "\u05e7\u05d8\u05df \u05de",
+        "lte": "\u05e7\u05d8\u05df \u05d0\u05d5 \u05e9\u05d5\u05d5\u05d4 \u05dc",
+        "not": "\u05dc\u05d0",
+        "notBetween": "\u05dc\u05d0 \u05d1\u05d9\u05df",
+        "notEmpty": "\u05dc\u05d0 \u05e8\u05d9\u05e7"
+      },
+      "string": {
+        "contains": "\u05de\u05db\u05d9\u05dc",
+        "empty": "\u05e8\u05d9\u05e7",
+        "endsWith": "\u05e0\u05d2\u05de\u05e8 \u05d1",
+        "equals": "\u05e9\u05d5\u05d5\u05d4 \u05dc",
+        "not": "\u05dc\u05d0",
+        "notContains": "\u05dc\u05d0 \u05de\u05db\u05d9\u05dc",
+        "notEmpty": "\u05dc\u05d0 \u05e8\u05d9\u05e7",
+        "notEnds": "\u05dc\u05d0 \u05de\u05e1\u05ea\u05d9\u05d9\u05dd \u05d1",
+        "notStarts": "\u05dc\u05d0 \u05de\u05ea\u05d7\u05d9\u05dc \u05d1",
+        "startsWith": "\u05de\u05ea\u05d7\u05d9\u05dc \u05d1"
+      }
+    },
+    "data": "\u05ea\u05d5\u05db\u05df",
+    "deleteTitle": "\u05de\u05d7\u05d9\u05e7\u05ea \u05d7\u05d5\u05e7 \u05e1\u05d9\u05e0\u05d5\u05df",
+    "logicAnd": "\u05d5\u05d2\u05dd",
+    "logicOr": "\u05d0\u05d5",
+    "title": {
+      "0": "\u05d1\u05e0\u05d9\u05d9\u05ea \u05d7\u05d9\u05e4\u05d5\u05e9",
+      "_": "\u05d1\u05e0\u05d9\u05d9\u05ea \u05d7\u05d9\u05e4\u05d5\u05e9 (%d)"
+    },
+    "value": "\u05e2\u05e8\u05da"
+  },
+  "searchPanes": {
+    "clearMessage": "\u05d0\u05d9\u05e4\u05d5\u05e1 \u05de\u05e1\u05e0\u05e0\u05d9\u05dd",
+    "collapse": {
+      "0": "\u05de\u05e1\u05e0\u05e0\u05d9 \u05d7\u05d9\u05e4\u05d5\u05e9",
+      "_": "\u05de\u05e1\u05e0\u05e0\u05d9 \u05d7\u05d9\u05e4\u05d5\u05e9 (%d)"
+    },
+    "count": "\u05e1\u05e4\u05d9\u05e8\u05d4",
+    "emptyPanes": "\u05d0\u05d9\u05df \u05de\u05e1\u05e0\u05e0\u05d9 \u05d7\u05d9\u05e4\u05d5\u05e9",
+    "loadMessage": "\u05de\u05e1\u05e0\u05e0\u05d9 \u05d7\u05d9\u05e4\u05d5\u05e9 \u05d1\u05d8\u05e2\u05d9\u05e0\u05d4",
+    "title": "\u05de\u05e1\u05e0\u05e0\u05d9\u05dd \u05e4\u05e2\u05d9\u05dc\u05d9\u05dd - %d"
+  },
+  "select": {
+    "cells": {
+      "1": "\u05ea\u05d0 \u05d0\u05d7\u05d3 \u05e0\u05d1\u05d7\u05e8",
+      "_": "%d \u05ea\u05d0\u05d9\u05dd \u05e0\u05d1\u05d7\u05e8\u05d5"
+    },
+    "columns": {
+      "1": "\u05e2\u05de\u05d5\u05d3\u05d4 \u05d0\u05d7\u05ea \u05e0\u05d1\u05d7\u05e8\u05d4",
+      "_": "%d \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e0\u05d1\u05d7\u05e8\u05d5"
+    },
+    "rows": {
+      "1": "\u05e9\u05d5\u05e8\u05d4 \u05d0\u05d7\u05ea \u05e0\u05d1\u05d7\u05e8\u05d4",
+      "_": "%d \u05e9\u05d5\u05e8\u05d5\u05ea \u05e0\u05d1\u05d7\u05e8\u05d5"
+    }
+  },
+  "thousands": ",",
+  "zeroRecords": "\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0\u05d5 \u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05de\u05ea\u05d0\u05d9\u05de\u05d5\u05ea"
 }

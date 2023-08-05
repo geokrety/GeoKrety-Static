@@ -22,7 +22,7 @@ L.Yandex = L.Layer.extend({
 		publicMap: 'publicMap',
 		publicMapInHybridView: 'publicMapHybrid'
 	},
-	
+
 	_getPossibleMapType: function (mapType) {
 		var result = 'yandex#map';
 		if (typeof mapType !== 'string') {
@@ -39,7 +39,7 @@ L.Yandex = L.Layer.extend({
 		}
 		return result;
 	},
-	
+
 	// Possible types: yandex#map, yandex#satellite, yandex#hybrid, yandex#publicMap, yandex#publicMapHybrid
 	// Or their short names: map, satellite, hybrid, publicMap, publicMapHybrid
 	initialize: function (type, options) {
@@ -148,7 +148,7 @@ L.Yandex = L.Layer.extend({
 
 		this._yandex = map;
 		this._update(true);
-		
+
 		//Reporting that map-object was initialized
 		this.fire('MapObjectInitialized', {mapObject: map});
 	},
