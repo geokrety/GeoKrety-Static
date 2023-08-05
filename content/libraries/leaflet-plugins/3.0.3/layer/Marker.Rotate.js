@@ -1,5 +1,5 @@
 /*
- * Based on comments by @runanet and @coomsie
+ * Based on comments by @runanet and @coomsie 
  * https://github.com/CloudMade/Leaflet/issues/386
  *
  * Wrapping function is needed to preserve L.Marker.update function

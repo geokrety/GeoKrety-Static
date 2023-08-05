@@ -1,82 +1,82 @@
 {
-  "aria": {
-    "sortAscending": ": virkja til a\u00f0 ra\u00f0a d\u00e1lki \u00ed h\u00e6kkandi r\u00f6\u00f0",
-    "sortDescending": ": virkja til a\u00f0 ra\u00f0a d\u00e1lki l\u00e6kkandi \u00ed r\u00f6\u00f0"
-  },
-  "autoFill": {
-    "cancel": "H\u00e6tta vi\u00f0",
-    "fill": "Setja \u00f6ll sv\u00e6\u00f0i me\u00f0 <i>%d</i>",
-    "fillHorizontal": "Setja \u00f6ll sv\u00e6\u00f0i l\u00e1r\u00e9tt",
-    "fillVertical": "Setja \u00f6ll sv\u00e6\u00f0i l\u00f3\u00f0r\u00e9tt"
-  },
-  "buttons": {
-    "colvis": "S\u00fdnileiki d\u00e1lka",
-    "colvisRestore": "Endurstilla s\u00fdnileika",
-    "copy": "Afrita",
-    "copyKeys": "Smelltu \u00e1 ctrl or u2318 + C til a\u00f0 afrita t\u00f6fluna \u00ed klippibor\u00f0i\u00f0.<br /><br />Smelltu h\u00e9r e\u00f0a \u00e1  exape til a\u00f0 h\u00e6tta vi\u00f0.",
-    "copySuccess": {
-      "1": "Afrita\u00f0i 1 l\u00ednu yfir \u00ed klippibor\u00f0i\u00f0",
-      "_": "Afrita\u00f0i %d l\u00ednur yfir \u00ed klippibor\u00f0i\u00f0"
+    "emptyTable": "Engin gögn eru í þessari töflu",
+    "info": "Sýni _START_ til _END_ af _TOTAL_ færslum",
+    "infoEmpty": "Sýni 0 til 0 af 0 færslum",
+    "infoFiltered": "(síað út frá _MAX_ færslum)",
+    "infoThousands": ".",
+    "lengthMenu": "Sýna _MENU_ færslur",
+    "loadingRecords": "Hleð...",
+    "processing": "Úrvinnsla...",
+    "search": "Leita:",
+    "zeroRecords": "Engar færslur fundust",
+    "paginate": {
+        "first": "Fyrsta",
+        "last": "Síðasta",
+        "next": "Næsta",
+        "previous": "Fyrri"
     },
-    "copyTitle": "Afrita \u00ed klippibor\u00f0",
-    "csv": "CSV",
-    "excel": "Escel",
-    "pageLength": {
-      "-1": "S\u00fdna allar l\u00ednur",
-      "_": "S\u00fdna %d l\u00ednur"
+    "aria": {
+        "sortAscending": ": virkja til að raða dálki í hækkandi röð",
+        "sortDescending": ": virkja til að raða dálki lækkandi í röð"
     },
-    "pdf": "PDF",
-    "print": "Prenta"
-  },
-  "datetime": {
-    "amPm": [
-      "eh",
-      "fh"
-    ],
-    "hours": "Klst. ",
-    "minutes": "M\u00edn\u00fata",
-    "next": "N\u00e6sta",
-    "previous": "Fyrri",
-    "seconds": "Sek\u00fanda",
-    "unknown": "-"
-  },
-  "decimal": ",",
-  "editor": {
-    "close": "Loka",
-    "create": {
-      "button": "N\u00fdskr\u00e1",
-      "submit": "Vista",
-      "title": "Skr\u00e1 n\u00fdja f\u00e6rslu"
+    "autoFill": {
+        "cancel": "Hætta við",
+        "fill": "Setja öll svæði með <i>%d<\/i>",
+        "fillHorizontal": "Setja öll svæði lárétt",
+        "fillVertical": "Setja öll svæði lóðrétt"
     },
-    "edit": {
-      "button": "Rita",
-      "submit": "Vista",
-      "title": "Breyta f\u00e6rslu"
+    "buttons": {
+        "colvis": "Sýnileiki dálka",
+        "colvisRestore": "Endurstilla sýnileika",
+        "copy": "Afrita",
+        "copyKeys": "Smelltu á ctrl or u2318 + C til að afrita töfluna í klippiborðið.<br \/><br \/>Smelltu hér eða á  exape til að hætta við.",
+        "copySuccess": {
+            "_": "Afritaði %d línur yfir í klippiborðið",
+            "1": "Afritaði 1 línu yfir í klippiborðið"
+        },
+        "copyTitle": "Afrita í klippiborð",
+        "csv": "CSV",
+        "excel": "Escel",
+        "pageLength": {
+            "_": "Sýna %d línur",
+            "-1": "Sýna allar línur"
+        },
+        "pdf": "PDF",
+        "print": "Prenta"
     },
-    "multi": {
-      "title": "M\u00f6rg gildi"
+    "datetime": {
+        "amPm": [
+            "eh",
+            "fh"
+        ],
+        "hours": "Klst. ",
+        "minutes": "Mínúta",
+        "next": "Næsta",
+        "previous": "Fyrri",
+        "seconds": "Sekúnda",
+        "unknown": "-"
     },
-    "remove": {
-      "button": "Ey\u00f0a",
-      "submit": "Ey\u00f0a",
-      "title": "Ey\u00f0a"
-    }
-  },
-  "emptyTable": "Engin g\u00f6gn eru \u00ed \u00feessari t\u00f6flu",
-  "info": "S\u00fdni _START_ til _END_ af _TOTAL_ f\u00e6rslum",
-  "infoEmpty": "S\u00fdni 0 til 0 af 0 f\u00e6rslum",
-  "infoFiltered": "(s\u00eda\u00f0 \u00fat fr\u00e1 _MAX_ f\u00e6rslum)",
-  "infoThousands": ".",
-  "lengthMenu": "S\u00fdna _MENU_ f\u00e6rslur",
-  "loadingRecords": "Hle\u00f0...",
-  "paginate": {
-    "first": "Fyrsta",
-    "last": "S\u00ed\u00f0asta",
-    "next": "N\u00e6sta",
-    "previous": "Fyrri"
-  },
-  "processing": "\u00darvinnsla...",
-  "search": "Leita:",
-  "thousands": ".",
-  "zeroRecords": "Engar f\u00e6rslur fundust"
+    "decimal": ",",
+    "editor": {
+        "close": "Loka",
+        "create": {
+            "button": "Nýskrá",
+            "submit": "Vista",
+            "title": "Skrá nýja færslu"
+        },
+        "edit": {
+            "button": "Rita",
+            "submit": "Vista",
+            "title": "Breyta færslu"
+        },
+        "multi": {
+            "title": "Mörg gildi"
+        },
+        "remove": {
+            "button": "Eyða",
+            "submit": "Eyða",
+            "title": "Eyða"
+        }
+    },
+    "thousands": "."
 }

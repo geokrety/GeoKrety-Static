@@ -1,177 +1,177 @@
 {
-  "aria": {
-    "sortAscending": ": \u4ee5\u5347\u5e8f\u6392\u5217\u6b64\u5217",
-    "sortDescending": ": \u4ee5\u964d\u5e8f\u6392\u5217\u6b64\u5217"
-  },
-  "autoFill": {
-    "cancel": "\u53d6\u6d88",
-    "fill": "\u7528 <i>%d</i> \u586b\u5145\u6240\u6709\u5355\u5143\u683c",
-    "fillHorizontal": "\u6c34\u5e73\u586b\u5145\u5355\u5143\u683c",
-    "fillVertical": "\u5782\u76f4\u586b\u5145\u5355\u5143\u683c"
-  },
-  "buttons": {
-    "collection": "\u96c6\u5408 <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"></span>",
-    "colvis": "\u5217\u53ef\u89c1\u6027",
-    "colvisRestore": "\u6062\u590d\u5217\u53ef\u89c1\u6027",
-    "copy": "\u590d\u5236",
-    "copyKeys": "\u6309 ctrl \u6216\u8005 u2318 + C \u5c06\u8868\u6570\u636e\u590d\u5236\u5230\u526a\u8d34\u677f\u3002<br /><br />\u8981\u53d6\u6d88\uff0c\u8bf7\u5355\u51fb\u6b64\u6d88\u606f\u6216\u6309Escape\u952e\u3002",
-    "copySuccess": {
-      "1": "\u5df2\u5c06 1 \u884c\u590d\u5236\u5230\u526a\u8d34\u677f",
-      "_": "\u5df2\u5c06 %d \u884c\u590d\u5236\u5230\u526a\u8d34\u677f"
+    "processing": "处理中...",
+    "lengthMenu": "显示 _MENU_ 项结果",
+    "zeroRecords": "没有匹配结果",
+    "info": "显示第 _START_ 至 _END_ 项结果，共 _TOTAL_ 项",
+    "infoEmpty": "显示第 0 至 0 项结果，共 0 项",
+    "infoFiltered": "(由 _MAX_ 项结果过滤)",
+    "search": "搜索:",
+    "emptyTable": "表中数据为空",
+    "paginate": {
+        "first": "首页",
+        "previous": "上页",
+        "next": "下页",
+        "last": "末页"
     },
-    "copyTitle": "\u590d\u5236\u5230\u526a\u8d34\u677f",
-    "csv": "CSV",
-    "excel": "Excel",
-    "pageLength": {
-      "-1": "\u663e\u793a\u6240\u6709\u884c",
-      "_": "\u663e\u793a %d \u884c"
+    "aria": {
+        "sortAscending": ": 以升序排列此列",
+        "sortDescending": ": 以降序排列此列"
     },
-    "pdf": "PDF",
-    "print": "\u6253\u5370"
-  },
-  "datetime": {
-    "amPm": [
-      "\u4e0a\u5348",
-      "\u4e0b\u5348"
-    ],
-    "minutes": "\u5206",
-    "months": {
-      "0": "1\u6708",
-      "1": "2\u6708",
-      "10": "11\u6708",
-      "11": "12\u6708",
-      "2": "3\u6708",
-      "3": "4\u6708",
-      "4": "5\u6708",
-      "5": "6\u6708",
-      "6": "7\u6708",
-      "7": "8\u6708",
-      "8": "9\u6708",
-      "9": "10\u6708"
+    "autoFill": {
+        "cancel": "取消",
+        "fill": "用 <i>%d<\/i> 填充所有单元格",
+        "fillHorizontal": "水平填充单元格",
+        "fillVertical": "垂直填充单元格"
     },
-    "seconds": "\u79d2",
-    "unknown": "\u672a\u77e5",
-    "weekdays": [
-      "\u5468\u65e5",
-      "\u5468\u4e00",
-      "\u5468\u4e8c",
-      "\u5468\u4e09",
-      "\u5468\u56db",
-      "\u5468\u4e94",
-      "\u5468\u516d"
-    ]
-  },
-  "decimal": "\u7528\u4e8e\u6807\u8bb0\u5c0f\u6570\u4f4d\u7684\u5b57\u7b26",
-  "editor": {
-    "close": "\u5173\u95ed",
-    "create": {
-      "button": "\u65b0\u5efa",
-      "submit": "\u521b\u5efa",
-      "title": "\u65b0\u5efa\u8bb0\u5f55"
+    "buttons": {
+        "collection": "集合 <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"><\/span>",
+        "colvis": "列可见性",
+        "colvisRestore": "恢复列可见性",
+        "copy": "复制",
+        "copyKeys": "按 ctrl 或者 u2318 + C 将表数据复制到剪贴板。<br \/><br \/>要取消，请单击此消息或按Escape键。",
+        "copyTitle": "复制到剪贴板",
+        "csv": "CSV",
+        "excel": "Excel",
+        "pdf": "PDF",
+        "copySuccess": {
+            "1": "已将 1 行复制到剪贴板",
+            "_": "已将 %d 行复制到剪贴板"
+        },
+        "pageLength": {
+            "-1": "显示所有行",
+            "_": "显示 %d 行"
+        },
+        "print": "打印"
     },
-    "edit": {
-      "button": "\u7f16\u8f91",
-      "submit": "\u66f4\u65b0",
-      "title": "\u7f16\u8f91\u8bb0\u5f55"
+    "searchBuilder": {
+        "add": "添加搜索条件",
+        "button": {
+            "0": "搜索生成器",
+            "_": "搜索生成器 (%d)"
+        },
+        "clearAll": "全部清除",
+        "condition": "条件",
+        "data": "数据",
+        "deleteTitle": "删除过滤规则",
+        "leftTitle": "Outdent 条件",
+        "logicAnd": "And",
+        "logicOr": "Or",
+        "rightTitle": "Indent 条件",
+        "title": {
+            "0": "搜索生成器",
+            "_": "搜索生成器 (%d)"
+        },
+        "value": "值",
+        "conditions": {
+            "date": {
+                "notBetween": "日期条件查询为notBetween条件名称：不介于2个日期之间",
+                "notEmpty": "日期条件查询为notEmpty条件名称：日期不为空",
+                "after": "大于",
+                "before": "小于",
+                "between": "之间",
+                "empty": "空",
+                "equals": "等于",
+                "not": "不等于"
+            },
+            "string": {
+                "contains": "文本包含",
+                "empty": "文本为空",
+                "endsWith": "文本以某某结尾",
+                "equals": "文本等于",
+                "not": "文本不等于",
+                "notEmpty": "文本不为空",
+                "startsWith": "文本从某某开始"
+            }
+        }
     },
-    "multi": {
-      "info": "\u6240\u9009\u9879\u76ee\u5305\u542b\u4e0d\u540c\u7684\u8f93\u5165\u503c\u3002\u8981\u7f16\u8f91\u6b64\u8f93\u5165\u7684\u6240\u6709\u9879\u76ee\uff0c\u5e76\u5c06\u5176\u8bbe\u7f6e\u4e3a\u76f8\u540c\u7684\u503c\uff0c\u8bf7\u5355\u51fb\u6216\u70b9\u51fb\u6b64\u5904\uff0c\u5426\u5219\u5b83\u4eec\u5c06\u4fdd\u7559\u5404\u81ea\u7684\u539f\u503c\u3002",
-      "noMulti": "\u6b64\u8f93\u5165\u53ef\u4ee5\u5355\u72ec\u7f16\u8f91\uff0c\u4f46\u4e0d\u80fd\u4f5c\u4e3a\u7ec4\u7684\u4e00\u90e8\u5206\u8fdb\u884c\u7f16\u8f91\u3002",
-      "restore": "\u64a4\u9500\u66f4\u6539",
-      "title": "\u591a\u4e2a\u503c"
+    "searchPanes": {
+        "collapse": {
+            "0": "搜索栏",
+            "_": "搜索栏（%d）"
+        },
+        "title": "应用的过滤器 - %d",
+        "clearMessage": "全部清除",
+        "count": "计数",
+        "countFiltered": "过滤计数",
+        "emptyPanes": "没有搜索栏",
+        "loadMessage": "正在加载搜索栏"
     },
-    "remove": {
-      "button": "\u5220\u9664",
-      "confirm": {
-        "1": "\u786e\u5b9a\u5220\u9664\u6b64\u884c\u5417\uff1f",
-        "_": "\u786e\u5b9a\u5220\u9664 %d \u884c\u5417\uff1f"
-      },
-      "submit": "\u5220\u9664",
-      "title": "\u5220\u9664\u8bb0\u5f55"
+    "select": {
+        "cells": {
+            "1": "选择了1个单元格",
+            "_": "选择了%d个单元格"
+        },
+        "columns": {
+            "1": "选择了1列",
+            "_": "选择了%d列"
+        },
+        "rows": {
+            "1": "被选中一行的说明",
+            "_": "被选中多行的说明"
+        }
+    },
+    "decimal": "用于标记小数位的字符",
+    "loadingRecords": "数据加载提示信息，例如：数据加载中...",
+    "infoThousands": ",",
+    "thousands": ",",
+    "datetime": {
+        "amPm": [
+            "上午",
+            "下午"
+        ],
+        "minutes": "分",
+        "months": {
+            "0": "1月",
+            "1": "2月",
+            "10": "11月",
+            "11": "12月",
+            "2": "3月",
+            "3": "4月",
+            "4": "5月",
+            "5": "6月",
+            "6": "7月",
+            "7": "8月",
+            "8": "9月",
+            "9": "10月"
+        },
+        "seconds": "秒",
+        "unknown": "未知",
+        "weekdays": [
+            "周日",
+            "周一",
+            "周二",
+            "周三",
+            "周四",
+            "周五",
+            "周六"
+        ]
+    },
+    "editor": {
+        "close": "关闭",
+        "create": {
+            "button": "新建",
+            "submit": "创建",
+            "title": "新建记录"
+        },
+        "edit": {
+            "button": "编辑",
+            "submit": "更新",
+            "title": "编辑记录"
+        },
+        "multi": {
+            "info": "所选项目包含不同的输入值。要编辑此输入的所有项目，并将其设置为相同的值，请单击或点击此处，否则它们将保留各自的原值。",
+            "noMulti": "此输入可以单独编辑，但不能作为组的一部分进行编辑。",
+            "restore": "撤销更改",
+            "title": "多个值"
+        },
+        "remove": {
+            "button": "删除",
+            "confirm": {
+                "_": "确定删除 %d 行吗？",
+                "1": "确定删除此行吗？"
+            },
+            "submit": "删除",
+            "title": "删除记录"
+        }
     }
-  },
-  "emptyTable": "\u8868\u4e2d\u6570\u636e\u4e3a\u7a7a",
-  "info": "\u663e\u793a\u7b2c _START_ \u81f3 _END_ \u9879\u7ed3\u679c\uff0c\u5171 _TOTAL_ \u9879",
-  "infoEmpty": "\u663e\u793a\u7b2c 0 \u81f3 0 \u9879\u7ed3\u679c\uff0c\u5171 0 \u9879",
-  "infoFiltered": "(\u7531 _MAX_ \u9879\u7ed3\u679c\u8fc7\u6ee4)",
-  "infoThousands": ",",
-  "lengthMenu": "\u663e\u793a _MENU_ \u9879\u7ed3\u679c",
-  "loadingRecords": "\u6570\u636e\u52a0\u8f7d\u63d0\u793a\u4fe1\u606f\uff0c\u4f8b\u5982\uff1a\u6570\u636e\u52a0\u8f7d\u4e2d...",
-  "paginate": {
-    "first": "\u9996\u9875",
-    "last": "\u672b\u9875",
-    "next": "\u4e0b\u9875",
-    "previous": "\u4e0a\u9875"
-  },
-  "processing": "\u5904\u7406\u4e2d...",
-  "search": "\u641c\u7d22:",
-  "searchBuilder": {
-    "add": "\u6dfb\u52a0\u641c\u7d22\u6761\u4ef6",
-    "button": {
-      "0": "\u641c\u7d22\u751f\u6210\u5668",
-      "_": "\u641c\u7d22\u751f\u6210\u5668 (%d)"
-    },
-    "clearAll": "\u5168\u90e8\u6e05\u9664",
-    "condition": "\u6761\u4ef6",
-    "conditions": {
-      "date": {
-        "after": "\u5927\u4e8e",
-        "before": "\u5c0f\u4e8e",
-        "between": "\u4e4b\u95f4",
-        "empty": "\u7a7a",
-        "equals": "\u7b49\u4e8e",
-        "not": "\u4e0d\u7b49\u4e8e",
-        "notBetween": "\u65e5\u671f\u6761\u4ef6\u67e5\u8be2\u4e3anotBetween\u6761\u4ef6\u540d\u79f0\uff1a\u4e0d\u4ecb\u4e8e2\u4e2a\u65e5\u671f\u4e4b\u95f4",
-        "notEmpty": "\u65e5\u671f\u6761\u4ef6\u67e5\u8be2\u4e3anotEmpty\u6761\u4ef6\u540d\u79f0\uff1a\u65e5\u671f\u4e0d\u4e3a\u7a7a"
-      },
-      "string": {
-        "contains": "\u6587\u672c\u5305\u542b",
-        "empty": "\u6587\u672c\u4e3a\u7a7a",
-        "endsWith": "\u6587\u672c\u4ee5\u67d0\u67d0\u7ed3\u5c3e",
-        "equals": "\u6587\u672c\u7b49\u4e8e",
-        "not": "\u6587\u672c\u4e0d\u7b49\u4e8e",
-        "notEmpty": "\u6587\u672c\u4e0d\u4e3a\u7a7a",
-        "startsWith": "\u6587\u672c\u4ece\u67d0\u67d0\u5f00\u59cb"
-      }
-    },
-    "data": "\u6570\u636e",
-    "deleteTitle": "\u5220\u9664\u8fc7\u6ee4\u89c4\u5219",
-    "leftTitle": "Outdent \u6761\u4ef6",
-    "logicAnd": "And",
-    "logicOr": "Or",
-    "rightTitle": "Indent \u6761\u4ef6",
-    "title": {
-      "0": "\u641c\u7d22\u751f\u6210\u5668",
-      "_": "\u641c\u7d22\u751f\u6210\u5668 (%d)"
-    },
-    "value": "\u503c"
-  },
-  "searchPanes": {
-    "clearMessage": "\u5168\u90e8\u6e05\u9664",
-    "collapse": {
-      "0": "\u641c\u7d22\u680f",
-      "_": "\u641c\u7d22\u680f\uff08%d\uff09"
-    },
-    "count": "\u8ba1\u6570",
-    "countFiltered": "\u8fc7\u6ee4\u8ba1\u6570",
-    "emptyPanes": "\u6ca1\u6709\u641c\u7d22\u680f",
-    "loadMessage": "\u6b63\u5728\u52a0\u8f7d\u641c\u7d22\u680f",
-    "title": "\u5e94\u7528\u7684\u8fc7\u6ee4\u5668 - %d"
-  },
-  "select": {
-    "cells": {
-      "1": "\u9009\u62e9\u4e861\u4e2a\u5355\u5143\u683c",
-      "_": "\u9009\u62e9\u4e86%d\u4e2a\u5355\u5143\u683c"
-    },
-    "columns": {
-      "1": "\u9009\u62e9\u4e861\u5217",
-      "_": "\u9009\u62e9\u4e86%d\u5217"
-    },
-    "rows": {
-      "1": "\u88ab\u9009\u4e2d\u4e00\u884c\u7684\u8bf4\u660e",
-      "_": "\u88ab\u9009\u4e2d\u591a\u884c\u7684\u8bf4\u660e"
-    }
-  },
-  "thousands": ",",
-  "zeroRecords": "\u6ca1\u6709\u5339\u914d\u7ed3\u679c"
 }

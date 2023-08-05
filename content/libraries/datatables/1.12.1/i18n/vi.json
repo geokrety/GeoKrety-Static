@@ -1,225 +1,225 @@
 {
-  "aria": {
-    "sortAscending": ": S\u1eafp x\u1ebfp th\u1ee9 t\u1ef1 t\u0103ng d\u1ea7n",
-    "sortDescending": ": S\u1eafp x\u1ebfp th\u1ee9 t\u1ef1 gi\u1ea3m d\u1ea7n"
-  },
-  "autoFill": {
-    "cancel": "H\u1ee7y",
-    "fill": "\u0110i\u1ec1n t\u1ea5t c\u1ea3 \u00f4 v\u1edbi <i>%d</i>",
-    "fillHorizontal": "\u0110i\u1ec1n theo h\u00e0ng ngang",
-    "fillVertical": "\u0110i\u1ec1n theo h\u00e0ng d\u1ecdc"
-  },
-  "buttons": {
-    "collection": "Ch\u1ecdn l\u1ecdc <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"></span>",
-    "colvis": "Hi\u1ec3n th\u1ecb theo c\u1ed9t",
-    "colvisRestore": "Kh\u00f4i ph\u1ee5c hi\u1ec3n th\u1ecb",
-    "copy": "Sao ch\u00e9p",
-    "copyKeys": "Nh\u1ea5n Ctrl ho\u1eb7c u2318 + C \u0111\u1ec3 sao ch\u00e9p b\u1ea3ng d\u1eef li\u1ec7u v\u00e0o clipboard.<br /><br />\u0110\u1ec3 h\u1ee7y, click v\u00e0o th\u00f4ng b\u00e1o n\u00e0y ho\u1eb7c nh\u1ea5n ESC",
-    "copySuccess": {
-      "1": "\u0110\u00e3 sao ch\u00e9p 1 d\u00f2ng d\u1eef li\u1ec7u v\u00e0o clipboard",
-      "_": "\u0110\u00e3 sao ch\u00e9p %d d\u00f2ng v\u00e0o clipboard"
+    "processing": "Đang xử lý...",
+    "aria": {
+        "sortAscending": ": Sắp xếp thứ tự tăng dần",
+        "sortDescending": ": Sắp xếp thứ tự giảm dần"
     },
-    "copyTitle": "Sao ch\u00e9p v\u00e0o clipboard",
-    "createState": "T\u1ea1o tr\u1ea1ng th\u00e1i",
-    "csv": "CSV",
-    "excel": "Excel",
-    "pageLength": {
-      "-1": "Xem t\u1ea5t c\u1ea3 c\u00e1c d\u00f2ng",
-      "_": "Hi\u1ec3n th\u1ecb %d d\u00f2ng"
+    "autoFill": {
+        "cancel": "Hủy",
+        "fill": "Điền tất cả ô với <i>%d<\/i>",
+        "fillHorizontal": "Điền theo hàng ngang",
+        "fillVertical": "Điền theo hàng dọc"
     },
-    "pdf": "PDF",
-    "print": "In \u1ea5n",
-    "removeAllStates": "X\u00f3a h\u1ebft tr\u1ea1ng th\u00e1i",
-    "removeState": "X\u00f3a",
-    "renameState": "\u0110\u1ed5i t\u00ean",
-    "savedStates": "Tr\u1ea1ng th\u00e1i \u0111\u00e3 l\u01b0u",
-    "stateRestore": "Tr\u1ea1ng th\u00e1i %d",
-    "updateState": "C\u1eadp nh\u1eadt"
-  },
-  "datetime": {
-    "amPm": [
-      "am",
-      "pm"
-    ],
-    "hours": "Gi\u1edd",
-    "minutes": "Ph\u00fat",
-    "next": "Sau",
-    "previous": "Tr\u01b0\u1edbc",
-    "seconds": "Gi\u00e2y",
-    "unknown": "-",
-    "weekdays": [
-      "Ch\u1ee7 nh\u1eadt"
-    ]
-  },
-  "decimal": ",",
-  "editor": {
-    "close": "\u0110\u00f3ng",
-    "create": {
-      "button": "Th\u00eam",
-      "submit": "Th\u00eam",
-      "title": "Th\u00eam m\u1ee5c m\u1edbi"
+    "buttons": {
+        "collection": "Chọn lọc <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"><\/span>",
+        "colvis": "Hiển thị theo cột",
+        "colvisRestore": "Khôi phục hiển thị",
+        "copy": "Sao chép",
+        "copyKeys": "Nhấn Ctrl hoặc u2318 + C để sao chép bảng dữ liệu vào clipboard.<br \/><br \/>Để hủy, click vào thông báo này hoặc nhấn ESC",
+        "copySuccess": {
+            "1": "Đã sao chép 1 dòng dữ liệu vào clipboard",
+            "_": "Đã sao chép %d dòng vào clipboard"
+        },
+        "copyTitle": "Sao chép vào clipboard",
+        "pageLength": {
+            "-1": "Xem tất cả các dòng",
+            "_": "Hiển thị %d dòng"
+        },
+        "print": "In ấn",
+        "createState": "Tạo trạng thái",
+        "csv": "CSV",
+        "excel": "Excel",
+        "pdf": "PDF",
+        "removeAllStates": "Xóa hết trạng thái",
+        "removeState": "Xóa",
+        "renameState": "Đổi tên",
+        "savedStates": "Trạng thái đã lưu",
+        "stateRestore": "Trạng thái %d",
+        "updateState": "Cập nhật"
     },
-    "edit": {
-      "button": "S\u1eeda",
-      "submit": "C\u1eadp nh\u1eadt",
-      "title": "S\u1eeda m\u1ee5c"
+    "infoThousands": "`",
+    "select": {
+        "cells": {
+            "1": "1 ô đang được chọn",
+            "_": "%d ô đang được chọn"
+        },
+        "columns": {
+            "1": "1 cột đang được chọn",
+            "_": "%d cột đang được được chọn"
+        },
+        "rows": {
+            "1": "1 dòng đang được chọn",
+            "_": "%d dòng đang được chọn"
+        }
     },
-    "error": {
-      "system": "\u0110\u00e3 x\u1ea3y ra l\u1ed7i h\u1ec7 th\u1ed1ng (&lt;a target=\"\\\" rel=\"nofollow\" href=\"\\\"&gt;Th\u00eam th\u00f4ng tin&lt;/a&gt;)."
+    "thousands": "`",
+    "searchBuilder": {
+        "title": {
+            "_": "Thiết lập tìm kiếm (%d)",
+            "0": "Thiết lập tìm kiếm"
+        },
+        "button": {
+            "0": "Thiết lập tìm kiếm",
+            "_": "Thiết lập tìm kiếm (%d)"
+        },
+        "value": "Giá trị",
+        "clearAll": "Xóa hết",
+        "condition": "Điều kiện",
+        "conditions": {
+            "date": {
+                "after": "Sau",
+                "before": "Trước",
+                "between": "Nằm giữa",
+                "empty": "Rỗng",
+                "equals": "Bằng với",
+                "not": "Không phải",
+                "notBetween": "Không nằm giữa",
+                "notEmpty": "Không rỗng"
+            },
+            "number": {
+                "between": "Nằm giữa",
+                "empty": "Rỗng",
+                "equals": "Bằng với",
+                "gt": "Lớn hơn",
+                "gte": "Lớn hơn hoặc bằng",
+                "lt": "Nhỏ hơn",
+                "lte": "Nhỏ hơn hoặc bằng",
+                "not": "Không phải",
+                "notBetween": "Không nằm giữa",
+                "notEmpty": "Không rỗng"
+            },
+            "string": {
+                "contains": "Chứa",
+                "empty": "Rỗng",
+                "endsWith": "Kết thúc bằng",
+                "equals": "Bằng",
+                "not": "Không phải",
+                "notEmpty": "Không rỗng",
+                "startsWith": "Bắt đầu với",
+                "notContains": "Không chứa",
+                "notEnds": "Không kết thúc với",
+                "notStarts": "Không bắt đầu với"
+            },
+            "array": {
+                "equals": "Bằng",
+                "empty": "Trống",
+                "contains": "Chứa",
+                "not": "Không",
+                "notEmpty": "Không được rỗng",
+                "without": "không chứa"
+            }
+        },
+        "logicAnd": "Và",
+        "logicOr": "Hoặc",
+        "add": "Thêm điều kiện",
+        "data": "Dữ liệu",
+        "deleteTitle": "Xóa quy tắc lọc",
+        "leftTitle": "Giảm thụt lề",
+        "rightTitle": "Tăng thụt lề"
     },
-    "multi": {
-      "info": "C\u00e1c m\u1ee5c \u0111\u00e3 ch\u1ecdn ch\u1ee9a c\u00e1c gi\u00e1 tr\u1ecb kh\u00e1c nhau cho \u0111\u1ea7u v\u00e0o n\u00e0y. \u0110\u1ec3 ch\u1ec9nh s\u1eeda v\u00e0 \u0111\u1eb7t t\u1ea5t c\u1ea3 c\u00e1c m\u1ee5c cho \u0111\u1ea7u v\u00e0o n\u00e0y th\u00e0nh c\u00f9ng m\u1ed9t gi\u00e1 tr\u1ecb, h\u00e3y nh\u1ea5p ho\u1eb7c nh\u1ea5n v\u00e0o \u0111\u00e2y, n\u1ebfu kh\u00f4ng ch\u00fang s\u1ebd gi\u1eef l\u1ea1i c\u00e1c gi\u00e1 tr\u1ecb ri\u00eang l\u1ebb c\u1ee7a ch\u00fang.",
-      "noMulti": "\u0110\u1ea7u v\u00e0o n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ec9nh s\u1eeda ri\u00eang l\u1ebb, nh\u01b0ng kh\u00f4ng ph\u1ea3i l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a m\u1ed9t nh\u00f3m.",
-      "restore": "Ho\u00e0n t\u00e1c thay \u0111\u1ed5i",
-      "title": "Nhi\u1ec1u gi\u00e1 tr\u1ecb"
+    "searchPanes": {
+        "countFiltered": "{shown} ({total})",
+        "emptyPanes": "Không có phần tìm kiếm",
+        "clearMessage": "Xóa hết",
+        "loadMessage": "Đang load phần tìm kiếm",
+        "collapse": {
+            "0": "Phần tìm kiếm",
+            "_": "Phần tìm kiếm (%d)"
+        },
+        "title": "Bộ lọc đang hoạt động - %d",
+        "count": "{total}",
+        "collapseMessage": "Thu gọn tất cả",
+        "showMessage": "Hiện tất cả"
     },
-    "remove": {
-      "button": "X\u00f3a",
-      "confirm": {
-        "1": "B\u1ea1n c\u00f3 ch\u1eafc ch\u1eafn mu\u1ed1n x\u00f3a 1 h\u00e0ng kh\u00f4ng?",
-        "_": "B\u1ea1n c\u00f3 ch\u1eafc ch\u1eafn mu\u1ed1n x\u00f3a %d h\u00e0ng kh\u00f4ng?"
-      },
-      "submit": "X\u00f3a",
-      "title": "X\u00f3a"
+    "datetime": {
+        "hours": "Giờ",
+        "minutes": "Phút",
+        "next": "Sau",
+        "previous": "Trước",
+        "seconds": "Giây",
+        "amPm": [
+            "am",
+            "pm"
+        ],
+        "unknown": "-",
+        "weekdays": [
+            "Chủ nhật"
+        ]
+    },
+    "emptyTable": "Không có dữ liệu",
+    "info": "Hiển thị _START_ tới _END_ của _TOTAL_ dữ liệu",
+    "infoEmpty": "Hiển thị 0 tới 0 của 0 dữ liệu",
+    "lengthMenu": "Hiển thị _MENU_ dữ liệu",
+    "loadingRecords": "Đang tải...",
+    "paginate": {
+        "first": "Đầu tiên",
+        "last": "Cuối cùng",
+        "next": "Sau",
+        "previous": "Trước"
+    },
+    "search": "Tìm kiếm:",
+    "zeroRecords": "Không tìm thấy kết quả",
+    "decimal": ",",
+    "editor": {
+        "close": "Đóng",
+        "create": {
+            "button": "Thêm",
+            "submit": "Thêm",
+            "title": "Thêm mục mới"
+        },
+        "edit": {
+            "button": "Sửa",
+            "submit": "Cập nhật",
+            "title": "Sửa mục"
+        },
+        "error": {
+            "system": "Đã xảy ra lỗi hệ thống (&lt;a target=\"\\\" rel=\"nofollow\" href=\"\\\"&gt;Thêm thông tin&lt;\/a&gt;)."
+        },
+        "multi": {
+            "info": "Các mục đã chọn chứa các giá trị khác nhau cho đầu vào này. Để chỉnh sửa và đặt tất cả các mục cho đầu vào này thành cùng một giá trị, hãy nhấp hoặc nhấn vào đây, nếu không chúng sẽ giữ lại các giá trị riêng lẻ của chúng.",
+            "noMulti": "Đầu vào này có thể được chỉnh sửa riêng lẻ, nhưng không phải là một phần của một nhóm.",
+            "restore": "Hoàn tác thay đổi",
+            "title": "Nhiều giá trị"
+        },
+        "remove": {
+            "button": "Xóa",
+            "confirm": {
+                "_": "Bạn có chắc chắn muốn xóa %d hàng không?",
+                "1": "Bạn có chắc chắn muốn xóa 1 hàng không?"
+            },
+            "submit": "Xóa",
+            "title": "Xóa"
+        }
+    },
+    "infoFiltered": "(được lọc từ _MAX_ dữ liệu)",
+    "searchPlaceholder": "Nhập tìm kiếm...",
+    "stateRestore": {
+        "creationModal": {
+            "button": "Thêm",
+            "columns": {
+                "search": "Tìm kiếm cột",
+                "visible": "Khả năng hiển thị cột"
+            },
+            "name": "Tên:",
+            "order": "Sắp xếp",
+            "paging": "Phân trang",
+            "scroller": "Cuộn vị trí",
+            "search": "Tìm kiếm",
+            "searchBuilder": "Trình tạo tìm kiếm",
+            "select": "Chọn",
+            "title": "Thêm trạng thái",
+            "toggleLabel": "Bao gồm:"
+        },
+        "duplicateError": "Trạng thái có tên này đã tồn tại.",
+        "emptyError": "Tên không được để trống.",
+        "emptyStates": "Không có trạng thái đã lưu",
+        "removeConfirm": "Bạn có chắc chắn muốn xóa %s không?",
+        "removeError": "Không xóa được trạng thái.",
+        "removeJoiner": "và",
+        "removeSubmit": "Xóa",
+        "removeTitle": "Xóa trạng thái",
+        "renameButton": "Đổi tên",
+        "renameLabel": "Tên mới cho %s:",
+        "renameTitle": "Đổi tên trạng thái"
     }
-  },
-  "emptyTable": "Kh\u00f4ng c\u00f3 d\u1eef li\u1ec7u",
-  "info": "Hi\u1ec3n th\u1ecb _START_ t\u1edbi _END_ c\u1ee7a _TOTAL_ d\u1eef li\u1ec7u",
-  "infoEmpty": "Hi\u1ec3n th\u1ecb 0 t\u1edbi 0 c\u1ee7a 0 d\u1eef li\u1ec7u",
-  "infoFiltered": "(\u0111\u01b0\u1ee3c l\u1ecdc t\u1eeb _MAX_ d\u1eef li\u1ec7u)",
-  "infoThousands": "`",
-  "lengthMenu": "Hi\u1ec3n th\u1ecb _MENU_ d\u1eef li\u1ec7u",
-  "loadingRecords": "\u0110ang t\u1ea3i...",
-  "paginate": {
-    "first": "\u0110\u1ea7u ti\u00ean",
-    "last": "Cu\u1ed1i c\u00f9ng",
-    "next": "Sau",
-    "previous": "Tr\u01b0\u1edbc"
-  },
-  "processing": "\u0110ang x\u1eed l\u00fd...",
-  "search": "T\u00ecm ki\u1ebfm:",
-  "searchBuilder": {
-    "add": "Th\u00eam \u0111i\u1ec1u ki\u1ec7n",
-    "button": {
-      "0": "Thi\u1ebft l\u1eadp t\u00ecm ki\u1ebfm",
-      "_": "Thi\u1ebft l\u1eadp t\u00ecm ki\u1ebfm (%d)"
-    },
-    "clearAll": "X\u00f3a h\u1ebft",
-    "condition": "\u0110i\u1ec1u ki\u1ec7n",
-    "conditions": {
-      "array": {
-        "contains": "Ch\u1ee9a",
-        "empty": "Tr\u1ed1ng",
-        "equals": "B\u1eb1ng",
-        "not": "Kh\u00f4ng",
-        "notEmpty": "Kh\u00f4ng \u0111\u01b0\u1ee3c r\u1ed7ng",
-        "without": "kh\u00f4ng ch\u1ee9a"
-      },
-      "date": {
-        "after": "Sau",
-        "before": "Tr\u01b0\u1edbc",
-        "between": "N\u1eb1m gi\u1eefa",
-        "empty": "R\u1ed7ng",
-        "equals": "B\u1eb1ng v\u1edbi",
-        "not": "Kh\u00f4ng ph\u1ea3i",
-        "notBetween": "Kh\u00f4ng n\u1eb1m gi\u1eefa",
-        "notEmpty": "Kh\u00f4ng r\u1ed7ng"
-      },
-      "number": {
-        "between": "N\u1eb1m gi\u1eefa",
-        "empty": "R\u1ed7ng",
-        "equals": "B\u1eb1ng v\u1edbi",
-        "gt": "L\u1edbn h\u01a1n",
-        "gte": "L\u1edbn h\u01a1n ho\u1eb7c b\u1eb1ng",
-        "lt": "Nh\u1ecf h\u01a1n",
-        "lte": "Nh\u1ecf h\u01a1n ho\u1eb7c b\u1eb1ng",
-        "not": "Kh\u00f4ng ph\u1ea3i",
-        "notBetween": "Kh\u00f4ng n\u1eb1m gi\u1eefa",
-        "notEmpty": "Kh\u00f4ng r\u1ed7ng"
-      },
-      "string": {
-        "contains": "Ch\u1ee9a",
-        "empty": "R\u1ed7ng",
-        "endsWith": "K\u1ebft th\u00fac b\u1eb1ng",
-        "equals": "B\u1eb1ng",
-        "not": "Kh\u00f4ng ph\u1ea3i",
-        "notContains": "Kh\u00f4ng ch\u1ee9a",
-        "notEmpty": "Kh\u00f4ng r\u1ed7ng",
-        "notEnds": "Kh\u00f4ng k\u1ebft th\u00fac v\u1edbi",
-        "notStarts": "Kh\u00f4ng b\u1eaft \u0111\u1ea7u v\u1edbi",
-        "startsWith": "B\u1eaft \u0111\u1ea7u v\u1edbi"
-      }
-    },
-    "data": "D\u1eef li\u1ec7u",
-    "deleteTitle": "X\u00f3a quy t\u1eafc l\u1ecdc",
-    "leftTitle": "Gi\u1ea3m th\u1ee5t l\u1ec1",
-    "logicAnd": "V\u00e0",
-    "logicOr": "Ho\u1eb7c",
-    "rightTitle": "T\u0103ng th\u1ee5t l\u1ec1",
-    "title": {
-      "0": "Thi\u1ebft l\u1eadp t\u00ecm ki\u1ebfm",
-      "_": "Thi\u1ebft l\u1eadp t\u00ecm ki\u1ebfm (%d)"
-    },
-    "value": "Gi\u00e1 tr\u1ecb"
-  },
-  "searchPanes": {
-    "clearMessage": "X\u00f3a h\u1ebft",
-    "collapse": {
-      "0": "Ph\u1ea7n t\u00ecm ki\u1ebfm",
-      "_": "Ph\u1ea7n t\u00ecm ki\u1ebfm (%d)"
-    },
-    "collapseMessage": "Thu g\u1ecdn t\u1ea5t c\u1ea3",
-    "count": "{total}",
-    "countFiltered": "{shown} ({total})",
-    "emptyPanes": "Kh\u00f4ng c\u00f3 ph\u1ea7n t\u00ecm ki\u1ebfm",
-    "loadMessage": "\u0110ang load ph\u1ea7n t\u00ecm ki\u1ebfm",
-    "showMessage": "Hi\u1ec7n t\u1ea5t c\u1ea3",
-    "title": "B\u1ed9 l\u1ecdc \u0111ang ho\u1ea1t \u0111\u1ed9ng - %d"
-  },
-  "searchPlaceholder": "Nh\u1eadp t\u00ecm ki\u1ebfm...",
-  "select": {
-    "cells": {
-      "1": "1 \u00f4 \u0111ang \u0111\u01b0\u1ee3c ch\u1ecdn",
-      "_": "%d \u00f4 \u0111ang \u0111\u01b0\u1ee3c ch\u1ecdn"
-    },
-    "columns": {
-      "1": "1 c\u1ed9t \u0111ang \u0111\u01b0\u1ee3c ch\u1ecdn",
-      "_": "%d c\u1ed9t \u0111ang \u0111\u01b0\u1ee3c \u0111\u01b0\u1ee3c ch\u1ecdn"
-    },
-    "rows": {
-      "1": "1 d\u00f2ng \u0111ang \u0111\u01b0\u1ee3c ch\u1ecdn",
-      "_": "%d d\u00f2ng \u0111ang \u0111\u01b0\u1ee3c ch\u1ecdn"
-    }
-  },
-  "stateRestore": {
-    "creationModal": {
-      "button": "Th\u00eam",
-      "columns": {
-        "search": "T\u00ecm ki\u1ebfm c\u1ed9t",
-        "visible": "Kh\u1ea3 n\u0103ng hi\u1ec3n th\u1ecb c\u1ed9t"
-      },
-      "name": "T\u00ean:",
-      "order": "S\u1eafp x\u1ebfp",
-      "paging": "Ph\u00e2n trang",
-      "scroller": "Cu\u1ed9n v\u1ecb tr\u00ed",
-      "search": "T\u00ecm ki\u1ebfm",
-      "searchBuilder": "Tr\u00ecnh t\u1ea1o t\u00ecm ki\u1ebfm",
-      "select": "Ch\u1ecdn",
-      "title": "Th\u00eam tr\u1ea1ng th\u00e1i",
-      "toggleLabel": "Bao g\u1ed3m:"
-    },
-    "duplicateError": "Tr\u1ea1ng th\u00e1i c\u00f3 t\u00ean n\u00e0y \u0111\u00e3 t\u1ed3n t\u1ea1i.",
-    "emptyError": "T\u00ean kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1ec3 tr\u1ed1ng.",
-    "emptyStates": "Kh\u00f4ng c\u00f3 tr\u1ea1ng th\u00e1i \u0111\u00e3 l\u01b0u",
-    "removeConfirm": "B\u1ea1n c\u00f3 ch\u1eafc ch\u1eafn mu\u1ed1n x\u00f3a %s kh\u00f4ng?",
-    "removeError": "Kh\u00f4ng x\u00f3a \u0111\u01b0\u1ee3c tr\u1ea1ng th\u00e1i.",
-    "removeJoiner": "v\u00e0",
-    "removeSubmit": "X\u00f3a",
-    "removeTitle": "X\u00f3a tr\u1ea1ng th\u00e1i",
-    "renameButton": "\u0110\u1ed5i t\u00ean",
-    "renameLabel": "T\u00ean m\u1edbi cho %s:",
-    "renameTitle": "\u0110\u1ed5i t\u00ean tr\u1ea1ng th\u00e1i"
-  },
-  "thousands": "`",
-  "zeroRecords": "Kh\u00f4ng t\u00ecm th\u1ea5y k\u1ebft qu\u1ea3"
 }

@@ -1,22 +1,22 @@
 {
-  "aria": {
-    "sortAscending": ": \u0dad\u0dd3\u0dbb\u0dd4\u0dc0 \u0d86\u0dbb\u0ddd\u0dc4\u0db1\u0dc0 \u0dad\u0ddd\u0dbb\u0db1\u0dca\u0db1",
-    "sortDescending": ": \u0dad\u0dd3\u0dbb\u0dd4\u0dc0 \u0d85\u0dc0\u0dbb\u0ddd\u0dc4\u0db1\u0dc0 \u0dad\u0ddd\u0dbb\u0db1\u0dca\u0db1"
-  },
-  "emptyTable": "\u0dc0\u0d9c\u0dd4\u0dc0\u0dda \u0daf\u0dad\u0dca\u0dad \u0d9a\u0dd2\u0dc3\u0dd2\u0dc0\u0d9a\u0dca \u0db1\u0ddc\u0db8\u0dd0\u0dad",
-  "info": "_TOTAL_ \u0db1\u0dca _START_ \u0dc3\u0dd2\u0da7 _END_ \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
-  "infoEmpty": "0 \u0db1\u0dca 0 \u0dc3\u0dd2\u0da7 0 \u0daf\u0d9a\u0dca\u0dc0\u0dcf",
-  "infoFiltered": "(_MAX_ \u0db1\u0dca \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dad\u0dca )",
-  "infoThousands": ",",
-  "lengthMenu": "_MENU_ \u0d9a\u0dca \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1",
-  "loadingRecords": "\u0db4\u0dd6\u0dbb\u0dab\u0dba \u0dc0\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd3...",
-  "paginate": {
-    "first": "\u0db4\u0dc5\u0db8\u0dd4",
-    "last": "\u0d85\u0db1\u0dca\u0dad\u0dd2\u0db8",
-    "next": "\u0d8a\u0dc5\u0d9c",
-    "previous": "\u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba"
-  },
-  "processing": "\u0dc3\u0dd0\u0d9a\u0dc3\u0dd9\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dad\u0dd3...",
-  "search": "\u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1 :",
-  "zeroRecords": "\u0d9c\u0dd0\u0dbd\u0db4\u0dd9\u0db1 \u0dc0\u0dcf\u0dbb\u0dca\u0dad\u0dcf \u0db1\u0ddc\u0db8\u0dd0\u0dad."
+    "emptyTable": "වගුවේ දත්ත කිසිවක් නොමැත",
+    "info": "_TOTAL_ න් _START_ සිට _END_ දක්වා",
+    "infoEmpty": "0 න් 0 සිට 0 දක්වා",
+    "infoFiltered": "(_MAX_ න් තෝරාගත් )",
+    "infoThousands": ",",
+    "lengthMenu": "_MENU_ ක් පෙන්වන්න",
+    "loadingRecords": "පූරණය වෙමින් පවතී...",
+    "processing": "සැකසෙමින් පවතී...",
+    "search": "සොයන්න :",
+    "zeroRecords": "ගැලපෙන වාර්තා නොමැත.",
+    "paginate": {
+        "first": "පළමු",
+        "last": "අන්තිම",
+        "next": "ඊළග",
+        "previous": "පසුගිය"
+    },
+    "aria": {
+        "sortAscending": ": තීරුව ආරෝහනව තෝරන්න",
+        "sortDescending": ": තීරුව අවරෝහනව තෝරන්න"
+    }
 }

@@ -1,186 +1,186 @@
 {
-  "aria": {
-    "sortAscending": ": \u5347\u51aa\u6392\u5217",
-    "sortDescending": ": \u964d\u51aa\u6392\u5217"
-  },
-  "autoFill": {
-    "cancel": "\u53d6\u6d88"
-  },
-  "buttons": {
-    "copy": "\u8907\u88fd",
-    "copySuccess": {
-      "1": "\u8907\u88fd\u4e86 1 \u7b46\u8cc7\u6599",
-      "_": "\u8907\u88fd\u4e86 %d \u7b46\u8cc7\u6599"
+    "processing": "處理中...",
+    "loadingRecords": "載入中...",
+    "lengthMenu": "顯示 _MENU_ 項結果",
+    "info": "顯示第 _START_ 至 _END_ 項結果，共 _TOTAL_ 項",
+    "infoEmpty": "顯示第 0 至 0 項結果，共 0 項",
+    "infoFiltered": "(從 _MAX_ 項結果中過濾)",
+    "search": "搜尋:",
+    "paginate": {
+        "first": "第一頁",
+        "previous": "上一頁",
+        "next": "下一頁",
+        "last": "最後一頁"
     },
-    "copyTitle": "\u5df2\u7d93\u8907\u88fd\u5230\u526a\u8cbc\u7c3f",
-    "excel": "Excel",
-    "pdf": "PDF",
-    "print": "\u5217\u5370"
-  },
-  "datetime": {
-    "amPm": [
-      "\u4e0a\u5348",
-      "\u4e0b\u5348"
-    ],
-    "hours": "\u6642",
-    "minutes": "\u5206",
-    "months": [
-      "\u4e00\u6708",
-      "\u4e8c\u6708",
-      "\u4e09\u6708",
-      "\u56db\u6708",
-      "\u4e94\u6708",
-      "\u516d\u6708",
-      "\u4e03\u6708",
-      "\u516b\u6708",
-      "\u4e5d\u6708",
-      "\u5341\u6708",
-      "\u5341\u4e00\u6708",
-      "\u5341\u4e8c\u6708"
-    ],
-    "next": "\u4e0b\u4e00\u9801",
-    "previous": "\u4e0a\u4e00\u9801",
-    "seconds": "\u79d2",
-    "unknown": "\u672a\u77e5",
-    "weekdays": [
-      "\u9031\u65e5",
-      "\u9031\u4e00",
-      "\u9031\u4e8c",
-      "\u9031\u4e09",
-      "\u9031\u56db",
-      "\u9031\u4e94",
-      "\u9031\u516d"
-    ]
-  },
-  "editor": {
-    "close": "\u95dc\u9589",
-    "create": {
-      "button": "\u65b0\u589e",
-      "submit": "\u9001\u51fa\u65b0\u589e",
-      "title": "\u65b0\u589e\u8cc7\u6599"
+    "aria": {
+        "sortAscending": ": 升冪排列",
+        "sortDescending": ": 降冪排列"
     },
-    "edit": {
-      "button": "\u4fee\u6539",
-      "submit": "\u9001\u51fa\u4fee\u6539",
-      "title": "\u4fee\u6539\u8cc7\u6599"
+    "emptyTable": "目前沒有資料",
+    "datetime": {
+        "previous": "上一頁",
+        "next": "下一頁",
+        "hours": "時",
+        "minutes": "分",
+        "seconds": "秒",
+        "amPm": [
+            "上午",
+            "下午"
+        ],
+        "unknown": "未知",
+        "weekdays": [
+            "週日",
+            "週一",
+            "週二",
+            "週三",
+            "週四",
+            "週五",
+            "週六"
+        ],
+        "months": [
+            "一月",
+            "二月",
+            "三月",
+            "四月",
+            "五月",
+            "六月",
+            "七月",
+            "八月",
+            "九月",
+            "十月",
+            "十一月",
+            "十二月"
+        ]
     },
-    "error": {
-      "system": "\u7cfb\u7d71\u767c\u751f\u932f\u8aa4(\u66f4\u591a\u8cc7\u8a0a)"
+    "searchBuilder": {
+        "add": "新增條件",
+        "condition": "條件",
+        "deleteTitle": "刪除過濾條件",
+        "button": {
+            "_": "複合查詢 (%d)",
+            "0": "複合查詢"
+        },
+        "clearAll": "清空",
+        "conditions": {
+            "array": {
+                "contains": "含有",
+                "equals": "等於",
+                "empty": "空值",
+                "not": "不等於",
+                "notEmpty": "非空值",
+                "without": "不含"
+            },
+            "date": {
+                "after": "大於",
+                "before": "小於",
+                "between": "在其中",
+                "empty": "為空",
+                "equals": "等於",
+                "not": "不為",
+                "notBetween": "不在其中",
+                "notEmpty": "不為空"
+            },
+            "number": {
+                "between": "在其中",
+                "empty": "為空",
+                "equals": "等於",
+                "gt": "大於",
+                "gte": "大於等於",
+                "lt": "小於",
+                "lte": "小於等於",
+                "not": "不為",
+                "notBetween": "不在其中",
+                "notEmpty": "不為空"
+            },
+            "string": {
+                "contains": "含有",
+                "empty": "為空",
+                "endsWith": "字尾為",
+                "equals": "等於",
+                "not": "不為",
+                "notEmpty": "不為空",
+                "startsWith": "字首為",
+                "notContains": "不含",
+                "notStarts": "開頭不是",
+                "notEnds": "結尾不是"
+            }
+        },
+        "data": "欄位",
+        "leftTitle": "群組條件",
+        "logicAnd": "且",
+        "logicOr": "或",
+        "rightTitle": "取消群組",
+        "title": {
+            "_": "複合查詢 (%d)",
+            "0": "複合查詢"
+        },
+        "value": "內容"
     },
-    "multi": {
-      "info": "\u60a8\u6240\u9078\u64c7\u7684\u591a\u7b46\u8cc7\u6599\u4e2d\uff0c\u6b64\u6b04\u4f4d\u5305\u542b\u4e86\u4e0d\u540c\u7684\u503c\u3002\u82e5\u60a8\u60f3\u8981\u5c07\u5b83\u5011\u90fd\u6539\u70ba\u540c\u4e00\u500b\u503c\uff0c\u53ef\u4ee5\u5728\u6b64\u8f38\u5165\uff0c\u8981\u4e0d\u7136\u5b83\u5011\u6703\u4fdd\u7559\u5404\u81ea\u539f\u672c\u7684\u503c\u3002",
-      "noMulti": "\u6b64\u8f38\u5165\u6b04\u9700\u55ae\u7368\u8f38\u5165\uff0c\u4e0d\u5bb9\u8a31\u591a\u7b46\u8cc7\u6599\u4e00\u8d77\u4fee\u6539",
-      "restore": "\u5fa9\u539f",
-      "title": "\u591a\u91cd\u503c"
+    "editor": {
+        "close": "關閉",
+        "create": {
+            "button": "新增",
+            "title": "新增資料",
+            "submit": "送出新增"
+        },
+        "remove": {
+            "button": "刪除",
+            "title": "刪除資料",
+            "submit": "送出刪除",
+            "confirm": {
+                "_": "您確定要刪除您所選取的 %d 筆資料嗎？",
+                "1": "您確定要刪除您所選取的 1 筆資料嗎？"
+            }
+        },
+        "error": {
+            "system": "系統發生錯誤(更多資訊)"
+        },
+        "edit": {
+            "button": "修改",
+            "title": "修改資料",
+            "submit": "送出修改"
+        },
+        "multi": {
+            "title": "多重值",
+            "info": "您所選擇的多筆資料中，此欄位包含了不同的值。若您想要將它們都改為同一個值，可以在此輸入，要不然它們會保留各自原本的值。",
+            "restore": "復原",
+            "noMulti": "此輸入欄需單獨輸入，不容許多筆資料一起修改"
+        }
     },
-    "remove": {
-      "button": "\u522a\u9664",
-      "confirm": {
-        "1": "\u60a8\u78ba\u5b9a\u8981\u522a\u9664\u60a8\u6240\u9078\u53d6\u7684 1 \u7b46\u8cc7\u6599\u55ce\uff1f",
-        "_": "\u60a8\u78ba\u5b9a\u8981\u522a\u9664\u60a8\u6240\u9078\u53d6\u7684 %d \u7b46\u8cc7\u6599\u55ce\uff1f"
-      },
-      "submit": "\u9001\u51fa\u522a\u9664",
-      "title": "\u522a\u9664\u8cc7\u6599"
-    }
-  },
-  "emptyTable": "\u76ee\u524d\u6c92\u6709\u8cc7\u6599",
-  "info": "\u986f\u793a\u7b2c _START_ \u81f3 _END_ \u9805\u7d50\u679c\uff0c\u5171 _TOTAL_ \u9805",
-  "infoEmpty": "\u986f\u793a\u7b2c 0 \u81f3 0 \u9805\u7d50\u679c\uff0c\u5171 0 \u9805",
-  "infoFiltered": "(\u5f9e _MAX_ \u9805\u7d50\u679c\u4e2d\u904e\u6ffe)",
-  "lengthMenu": "\u986f\u793a _MENU_ \u9805\u7d50\u679c",
-  "loadingRecords": "\u8f09\u5165\u4e2d...",
-  "paginate": {
-    "first": "\u7b2c\u4e00\u9801",
-    "last": "\u6700\u5f8c\u4e00\u9801",
-    "next": "\u4e0b\u4e00\u9801",
-    "previous": "\u4e0a\u4e00\u9801"
-  },
-  "processing": "\u8655\u7406\u4e2d...",
-  "search": "\u641c\u5c0b:",
-  "searchBuilder": {
-    "add": "\u65b0\u589e\u689d\u4ef6",
-    "button": {
-      "0": "\u8907\u5408\u67e5\u8a62",
-      "_": "\u8907\u5408\u67e5\u8a62 (%d)"
+    "autoFill": {
+        "cancel": "取消"
     },
-    "clearAll": "\u6e05\u7a7a",
-    "condition": "\u689d\u4ef6",
-    "conditions": {
-      "array": {
-        "contains": "\u542b\u6709",
-        "empty": "\u7a7a\u503c",
-        "equals": "\u7b49\u65bc",
-        "not": "\u4e0d\u7b49\u65bc",
-        "notEmpty": "\u975e\u7a7a\u503c",
-        "without": "\u4e0d\u542b"
-      },
-      "date": {
-        "after": "\u5927\u65bc",
-        "before": "\u5c0f\u65bc",
-        "between": "\u5728\u5176\u4e2d",
-        "empty": "\u70ba\u7a7a",
-        "equals": "\u7b49\u65bc",
-        "not": "\u4e0d\u70ba",
-        "notBetween": "\u4e0d\u5728\u5176\u4e2d",
-        "notEmpty": "\u4e0d\u70ba\u7a7a"
-      },
-      "number": {
-        "between": "\u5728\u5176\u4e2d",
-        "empty": "\u70ba\u7a7a",
-        "equals": "\u7b49\u65bc",
-        "gt": "\u5927\u65bc",
-        "gte": "\u5927\u65bc\u7b49\u65bc",
-        "lt": "\u5c0f\u65bc",
-        "lte": "\u5c0f\u65bc\u7b49\u65bc",
-        "not": "\u4e0d\u70ba",
-        "notBetween": "\u4e0d\u5728\u5176\u4e2d",
-        "notEmpty": "\u4e0d\u70ba\u7a7a"
-      },
-      "string": {
-        "contains": "\u542b\u6709",
-        "empty": "\u70ba\u7a7a",
-        "endsWith": "\u5b57\u5c3e\u70ba",
-        "equals": "\u7b49\u65bc",
-        "not": "\u4e0d\u70ba",
-        "notContains": "\u4e0d\u542b",
-        "notEmpty": "\u4e0d\u70ba\u7a7a",
-        "notEnds": "\u7d50\u5c3e\u4e0d\u662f",
-        "notStarts": "\u958b\u982d\u4e0d\u662f",
-        "startsWith": "\u5b57\u9996\u70ba"
-      }
+    "buttons": {
+        "copySuccess": {
+            "_": "複製了 %d 筆資料",
+            "1": "複製了 1 筆資料"
+        },
+        "copyTitle": "已經複製到剪貼簿",
+        "excel": "Excel",
+        "pdf": "PDF",
+        "print": "列印",
+        "copy": "複製"
     },
-    "data": "\u6b04\u4f4d",
-    "deleteTitle": "\u522a\u9664\u904e\u6ffe\u689d\u4ef6",
-    "leftTitle": "\u7fa4\u7d44\u689d\u4ef6",
-    "logicAnd": "\u4e14",
-    "logicOr": "\u6216",
-    "rightTitle": "\u53d6\u6d88\u7fa4\u7d44",
-    "title": {
-      "0": "\u8907\u5408\u67e5\u8a62",
-      "_": "\u8907\u5408\u67e5\u8a62 (%d)"
+    "searchPanes": {
+        "collapse": {
+            "_": "搜尋面版 (%d)",
+            "0": "搜尋面版"
+        },
+        "emptyPanes": "沒搜尋面版",
+        "loadMessage": "載入搜尋面版中...",
+        "clearMessage": "清空"
     },
-    "value": "\u5167\u5bb9"
-  },
-  "searchPanes": {
-    "clearMessage": "\u6e05\u7a7a",
-    "collapse": {
-      "0": "\u641c\u5c0b\u9762\u7248",
-      "_": "\u641c\u5c0b\u9762\u7248 (%d)"
+    "stateRestore": {
+        "emptyError": "名稱不能空白。"
     },
-    "emptyPanes": "\u6c92\u641c\u5c0b\u9762\u7248",
-    "loadMessage": "\u8f09\u5165\u641c\u5c0b\u9762\u7248\u4e2d..."
-  },
-  "select": {
-    "columns": {
-      "_": "\u9078\u64c7\u4e86 %d \u6b04\u8cc7\u6599"
+    "select": {
+        "columns": {
+            "_": "選擇了 %d 欄資料"
+        },
+        "rows": {
+            "1": "選擇了 1 筆資料",
+            "_": "選擇了 %d 筆資料"
+        }
     },
-    "rows": {
-      "1": "\u9078\u64c7\u4e86 1 \u7b46\u8cc7\u6599",
-      "_": "\u9078\u64c7\u4e86 %d \u7b46\u8cc7\u6599"
-    }
-  },
-  "stateRestore": {
-    "emptyError": "\u540d\u7a31\u4e0d\u80fd\u7a7a\u767d\u3002"
-  },
-  "zeroRecords": "\u6c92\u6709\u7b26\u5408\u7684\u8cc7\u6599"
+    "zeroRecords": "沒有符合的資料"
 }

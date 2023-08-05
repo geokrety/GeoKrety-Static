@@ -1,196 +1,196 @@
 {
-  "aria": {
-    "sortAscending": ": aktywuj, by posortowa\u0107 kolumn\u0119 rosn\u0105co",
-    "sortDescending": ": aktywuj, by posortowa\u0107 kolumn\u0119 malej\u0105co"
-  },
-  "autoFill": {
-    "cancel": "Anuluj",
-    "fill": "Wype\u0142nij wszystkie kom\u00f3rki <i>%d</i>",
-    "fillHorizontal": "Wype\u0142nij kom\u00f3rki w poziomie",
-    "fillVertical": "Wype\u0142nij kom\u00f3rki w pionie"
-  },
-  "buttons": {
-    "collection": "Zbi\u00f3r <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"></span>",
-    "colvis": "Widoczno\u015b\u0107 kolumny",
-    "colvisRestore": "Przywr\u00f3\u0107 widoczno\u015b\u0107",
-    "copy": "Kopiuj",
-    "copyKeys": "Naci\u015bnij Ctrl lub u2318 + C, aby skopiowa\u0107 dane tabeli do schowka systemowego. <br /> <br /> Aby anulowa\u0107, kliknij t\u0119 wiadomo\u015b\u0107 lub naci\u015bnij Esc.",
-    "copySuccess": {
-      "1": "Skopiowano 1 wiersz do schowka",
-      "_": "Skopiowano %d wierszy do schowka"
+    "processing": "Przetwarzanie...",
+    "search": "Szukaj:",
+    "lengthMenu": "Pokaż _MENU_ pozycji",
+    "info": "Pozycje od _START_ do _END_ z _TOTAL_ łącznie",
+    "infoEmpty": "Pozycji 0 z 0 dostępnych",
+    "infoFiltered": "(filtrowanie spośród _MAX_ dostępnych pozycji)",
+    "loadingRecords": "Wczytywanie...",
+    "zeroRecords": "Nie znaleziono pasujących pozycji",
+    "paginate": {
+        "first": "Pierwsza",
+        "previous": "Poprzednia",
+        "next": "Następna",
+        "last": "Ostatnia"
     },
-    "copyTitle": "Skopiuj do schowka",
-    "csv": "CSV",
-    "excel": "Excel",
-    "pageLength": {
-      "-1": "Poka\u017c wszystkie wiersze",
-      "_": "Poka\u017c %d wierszy"
+    "aria": {
+        "sortAscending": ": aktywuj, by posortować kolumnę rosnąco",
+        "sortDescending": ": aktywuj, by posortować kolumnę malejąco"
     },
-    "pdf": "PDF",
-    "print": "Drukuj"
-  },
-  "datetime": {
-    "amPm": [
-      "am",
-      "pm"
-    ],
-    "hours": "Godzina",
-    "minutes": "Minuta",
-    "months": {
-      "0": "Stycze\u0144",
-      "1": "Luty",
-      "10": "Listopad",
-      "11": "Grudzie\u0144",
-      "2": "Marzec",
-      "3": "Kwiecie\u0144",
-      "4": "Maj",
-      "5": "Czerwiec",
-      "6": "Lipiec",
-      "7": "Sierpie\u0144",
-      "8": "Wrzesie\u0144",
-      "9": "Pa\u017adziernik"
+    "autoFill": {
+        "cancel": "Anuluj",
+        "fill": "Wypełnij wszystkie komórki <i>%d<\/i>",
+        "fillHorizontal": "Wypełnij komórki w poziomie",
+        "fillVertical": "Wypełnij komórki w pionie"
     },
-    "next": "Nast\u0119pne",
-    "previous": "Poprzednie",
-    "seconds": "Sekunda",
-    "unknown": "nieznana",
-    "weekdays": [
-      "Nd",
-      "Pn",
-      "Wt",
-      "\u015ar",
-      "Czw",
-      "Pt",
-      "So"
-    ]
-  },
-  "editor": {
-    "close": "Zamknij",
-    "create": {
-      "button": "Dodaj",
-      "submit": "Dodaj",
-      "title": "Dodawanie nowego wpisu"
+    "buttons": {
+        "collection": "Zbiór <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\"><\/span>",
+        "colvis": "Widoczność kolumny",
+        "colvisRestore": "Przywróć widoczność",
+        "copy": "Kopiuj",
+        "copyKeys": "Naciśnij Ctrl lub u2318 + C, aby skopiować dane tabeli do schowka systemowego. <br \/> <br \/> Aby anulować, kliknij tę wiadomość lub naciśnij Esc.",
+        "copySuccess": {
+            "1": "Skopiowano 1 wiersz do schowka",
+            "_": "Skopiowano %d wierszy do schowka"
+        },
+        "copyTitle": "Skopiuj do schowka",
+        "csv": "CSV",
+        "excel": "Excel",
+        "pageLength": {
+            "-1": "Pokaż wszystkie wiersze",
+            "_": "Pokaż %d wierszy"
+        },
+        "pdf": "PDF",
+        "print": "Drukuj"
     },
-    "edit": {
-      "button": "Edytuj",
-      "submit": "Aktualizuj",
-      "title": "Aktualizacja wpisu"
+    "emptyTable": "Brak danych w tabeli",
+    "searchBuilder": {
+        "add": "Dodaj warunek",
+        "clearAll": "Wyczyść wszystko",
+        "condition": "Warunek",
+        "data": "Dane",
+        "button": {
+            "_": "Aktywne zapytania",
+            "0": "Budowanie zapytania"
+        },
+        "conditions": {
+            "array": {
+                "contains": "Zawiera",
+                "empty": "Pusta",
+                "equals": "Równa się",
+                "not": "Nie",
+                "notEmpty": "Nie pusta",
+                "without": "Bez"
+            },
+            "date": {
+                "after": "Po",
+                "before": "Przed",
+                "between": "Pomiędzy",
+                "empty": "Pusto",
+                "equals": "Równa",
+                "not": "Nie",
+                "notBetween": "Nie pomiędzy",
+                "notEmpty": "Nie pusta"
+            },
+            "number": {
+                "between": "Pomiędzy",
+                "empty": "Pusty",
+                "equals": "Równy",
+                "gt": "Większy niż",
+                "gte": "Równy lub większy niż",
+                "lt": "Mniejszy niż",
+                "lte": "Równy lub mniejszy niż",
+                "not": "Nie",
+                "notBetween": "Nie pomiędzy",
+                "notEmpty": "Nie pusty"
+            },
+            "string": {
+                "contains": "Zawiera",
+                "empty": "Pusty",
+                "endsWith": "Kończy się na",
+                "equals": "Równa się",
+                "not": "Nie",
+                "notEmpty": "Nie pusty",
+                "startsWith": "Zaczyna się od"
+            }
+        },
+        "deleteTitle": "Czyszczenie",
+        "leftTitle": "Lewy",
+        "logicAnd": "I",
+        "logicOr": "Lub",
+        "rightTitle": "Prawy",
+        "title": {
+            "_": "Aktywne zapytania",
+            "0": "Budowanie zapytania"
+        },
+        "value": "Wartość"
     },
-    "error": {
-      "system": "Nast\u0105pi\u0142 b\u0142\u0105d systemu (<a target=\"\\\" rel=\"\\ nofollow\" href=\"\\\">Wi\u0119cej informacji&lt;\\/a&gt;).</a>"
+    "datetime": {
+        "amPm": [
+            "am",
+            "pm"
+        ],
+        "hours": "Godzina",
+        "minutes": "Minuta",
+        "next": "Następne",
+        "previous": "Poprzednie",
+        "seconds": "Sekunda",
+        "unknown": "nieznana",
+        "months": {
+            "0": "Styczeń",
+            "1": "Luty",
+            "10": "Listopad",
+            "11": "Grudzień",
+            "2": "Marzec",
+            "3": "Kwiecień",
+            "4": "Maj",
+            "5": "Czerwiec",
+            "6": "Lipiec",
+            "7": "Sierpień",
+            "8": "Wrzesień",
+            "9": "Październik"
+        },
+        "weekdays": [
+            "Nd",
+            "Pn",
+            "Wt",
+            "Śr",
+            "Czw",
+            "Pt",
+            "So"
+        ]
     },
-    "multi": {
-      "info": "Wybrane pole zawiera wiele element\u00f3w z r\u00f3\u017cnymi warto\u015bciami. Aby zmieni\u0107 ich warto\u015b\u0107 kliknij w nie, inaczej zachowane zostan\u0105 ich warto\u015bci domy\u015blne.",
-      "noMulti": "Ta warto\u015b\u0107 mo\u017ce by\u0107 edytowana oddzielnie - niezale\u017cnie od grupy.",
-      "restore": "Cofnij zmiany",
-      "title": "Pole z wieloma warto\u015bciami"
+    "editor": {
+        "close": "Zamknij",
+        "create": {
+            "button": "Dodaj",
+            "submit": "Dodaj",
+            "title": "Dodawanie nowego wpisu"
+        },
+        "edit": {
+            "button": "Edytuj",
+            "submit": "Aktualizuj",
+            "title": "Aktualizacja wpisu"
+        },
+        "error": {
+            "system": "Nastąpił błąd systemu (<a target=\"\\\" rel=\"\\ nofollow\" href=\"\\\">Więcej informacji&lt;\\\/a&gt;).<\/a>"
+        },
+        "multi": {
+            "info": "Wybrane pole zawiera wiele elementów z różnymi wartościami. Aby zmienić ich wartość kliknij w nie, inaczej zachowane zostaną ich wartości domyślne.",
+            "noMulti": "Ta wartość może być edytowana oddzielnie - niezależnie od grupy.",
+            "restore": "Cofnij zmiany",
+            "title": "Pole z wieloma wartościami"
+        },
+        "remove": {
+            "button": "Usuń",
+            "confirm": {
+                "_": "Czy na pewno chcesz usunąć %d rzędów?",
+                "1": "Czy na pewno chcesz usunąć 1 rząd?"
+            },
+            "submit": "Usuń",
+            "title": "Usuwanie"
+        }
     },
-    "remove": {
-      "button": "Usu\u0144",
-      "confirm": {
-        "1": "Czy na pewno chcesz usun\u0105\u0107 1 rz\u0105d?",
-        "_": "Czy na pewno chcesz usun\u0105\u0107 %d rz\u0119d\u00f3w?"
-      },
-      "submit": "Usu\u0144",
-      "title": "Usuwanie"
+    "searchPanes": {
+        "clearMessage": "Wyczyść wszystkie",
+        "collapse": {
+            "_": "Aktywne grupowania (%d)",
+            "0": "Grupowanie"
+        },
+        "count": "{total}",
+        "countFiltered": "{shown} ({total})",
+        "emptyPanes": "Brak paneli wyszukań",
+        "loadMessage": "Ładuję panele wyszukań",
+        "title": "Aktywne filtry"
+    },
+    "select": {
+        "cells": {
+            "_": "zaznaczono %d komórek",
+            "1": "zaznaczono %d komórkę"
+        },
+        "columns": {
+            "_": "zaznaczono %d kolumn",
+            "1": "zaznaczono %d kolumnę"
+        }
     }
-  },
-  "emptyTable": "Brak danych w tabeli",
-  "info": "Pozycje od _START_ do _END_ z _TOTAL_ \u0142\u0105cznie",
-  "infoEmpty": "Pozycji 0 z 0 dost\u0119pnych",
-  "infoFiltered": "(filtrowanie spo\u015br\u00f3d _MAX_ dost\u0119pnych pozycji)",
-  "lengthMenu": "Poka\u017c _MENU_ pozycji",
-  "loadingRecords": "Wczytywanie...",
-  "paginate": {
-    "first": "Pierwsza",
-    "last": "Ostatnia",
-    "next": "Nast\u0119pna",
-    "previous": "Poprzednia"
-  },
-  "processing": "Przetwarzanie...",
-  "search": "Szukaj:",
-  "searchBuilder": {
-    "add": "Dodaj warunek",
-    "button": {
-      "0": "Budowanie zapytania",
-      "_": "Aktywne zapytania"
-    },
-    "clearAll": "Wyczy\u015b\u0107 wszystko",
-    "condition": "Warunek",
-    "conditions": {
-      "array": {
-        "contains": "Zawiera",
-        "empty": "Pusta",
-        "equals": "R\u00f3wna si\u0119",
-        "not": "Nie",
-        "notEmpty": "Nie pusta",
-        "without": "Bez"
-      },
-      "date": {
-        "after": "Po",
-        "before": "Przed",
-        "between": "Pomi\u0119dzy",
-        "empty": "Pusto",
-        "equals": "R\u00f3wna",
-        "not": "Nie",
-        "notBetween": "Nie pomi\u0119dzy",
-        "notEmpty": "Nie pusta"
-      },
-      "number": {
-        "between": "Pomi\u0119dzy",
-        "empty": "Pusty",
-        "equals": "R\u00f3wny",
-        "gt": "Wi\u0119kszy ni\u017c",
-        "gte": "R\u00f3wny lub wi\u0119kszy ni\u017c",
-        "lt": "Mniejszy ni\u017c",
-        "lte": "R\u00f3wny lub mniejszy ni\u017c",
-        "not": "Nie",
-        "notBetween": "Nie pomi\u0119dzy",
-        "notEmpty": "Nie pusty"
-      },
-      "string": {
-        "contains": "Zawiera",
-        "empty": "Pusty",
-        "endsWith": "Ko\u0144czy si\u0119 na",
-        "equals": "R\u00f3wna si\u0119",
-        "not": "Nie",
-        "notEmpty": "Nie pusty",
-        "startsWith": "Zaczyna si\u0119 od"
-      }
-    },
-    "data": "Dane",
-    "deleteTitle": "Czyszczenie",
-    "leftTitle": "Lewy",
-    "logicAnd": "I",
-    "logicOr": "Lub",
-    "rightTitle": "Prawy",
-    "title": {
-      "0": "Budowanie zapytania",
-      "_": "Aktywne zapytania"
-    },
-    "value": "Warto\u015b\u0107"
-  },
-  "searchPanes": {
-    "clearMessage": "Wyczy\u015b\u0107 wszystkie",
-    "collapse": {
-      "0": "Grupowanie",
-      "_": "Aktywne grupowania (%d)"
-    },
-    "count": "{total}",
-    "countFiltered": "{shown} ({total})",
-    "emptyPanes": "Brak paneli wyszuka\u0144",
-    "loadMessage": "\u0141aduj\u0119 panele wyszuka\u0144",
-    "title": "Aktywne filtry"
-  },
-  "select": {
-    "cells": {
-      "1": "zaznaczono %d kom\u00f3rk\u0119",
-      "_": "zaznaczono %d kom\u00f3rek"
-    },
-    "columns": {
-      "1": "zaznaczono %d kolumn\u0119",
-      "_": "zaznaczono %d kolumn"
-    }
-  },
-  "zeroRecords": "Nie znaleziono pasuj\u0105cych pozycji"
 }

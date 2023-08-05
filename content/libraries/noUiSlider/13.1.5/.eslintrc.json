@@ -1,16 +1,13 @@
 {
-  "env": {
-    "amd": true,
-    "browser": true,
-    "commonjs": true
-  },
-  "extends": "eslint:recommended",
-  "rules": {
-    "no-undef": "off",
-    "no-unused-vars": "off",
-    "one-var": [
-      "error",
-      "never"
-    ]
-  }
+    "extends": "eslint:recommended",
+    "rules": {
+        "no-unused-vars": "off",
+        "no-undef": "off",
+        "one-var": ["error", "never"]
+    },
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "amd": true
+    }
 }

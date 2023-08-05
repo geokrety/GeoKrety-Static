@@ -10,7 +10,7 @@ L.Control.GeoKretyFilter = L.Control.extend({
 
   onAdd: function (map) {
     this._map = map;
-    this._initLayout();
+    this._initLayout();    
     this._addSlider();
     //this._addItem({ marker: 'geokrety_move_recent', name: 'Has moved since 3 months', checked: true});
     this._addItem({ marker: 'geokrety_move_old', name: 'GeoKrety moved more than 90 days ago'});

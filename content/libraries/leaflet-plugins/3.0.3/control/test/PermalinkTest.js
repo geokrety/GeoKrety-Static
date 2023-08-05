@@ -31,3 +31,4 @@ test('L.UrlUtil.queryParse', function (t) {
   t.plan(data.length, 'Check all parsing tests were done');
   t.done();
 })
+

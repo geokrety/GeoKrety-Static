@@ -1,63 +1,63 @@
 {
-  "aria": {
-    "sortAscending": ": \u0ba8\u0bbf\u0bb0\u0bb2\u0bc8 \u0b8f\u0bb1\u0bc1\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4",
-    "sortDescending": ": \u0ba8\u0bbf\u0bb0\u0bb2\u0bc8 \u0b87\u0bb1\u0b99\u0bcd\u0b95\u0bc1 \u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4"
-  },
-  "autoFill": {
-    "cancel": "\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0baf\u0bcd",
-    "fill": "\u0b9a\u0bbf\u0bb8\u0bcd\u0b9f\u0bae\u0bcd \u0b86\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc6\u0b95\u0bcd\u0b9f\u0bcd \u0bae\u0bc2\u0bb2\u0bae\u0bcd \u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bb3\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bb5\u0bc1\u0bae\u0bcd",
-    "fillHorizontal": "\u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b95\u0bbf\u0b9f\u0bc8\u0bae\u0b9f\u0bcd\u0b9f\u0bae\u0bbe\u0b95 \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bb5\u0bc1\u0bae\u0bcd",
-    "fillVertical": "\u0b9a\u0bc6\u0bb2\u0bcd\u0b95\u0bb3\u0bc8 \u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe\u0b95 \u0ba8\u0bbf\u0bb0\u0baa\u0bcd\u0baa\u0bb5\u0bc1\u0bae\u0bcd",
-    "info": "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd"
-  },
-  "buttons": {
-    "collection": "\u0b9a\u0bc7\u0b95\u0bb0\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
-    "colvis": "\u0ba8\u0bc6\u0b9f\u0bc1\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8\u0ba4\u0bcd \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bc1\u0ba8\u0bbf\u0bb2\u0bc8",
-    "colvisRestore": "\u0ba8\u0bc6\u0b9f\u0bc1\u0bb5\u0bb0\u0bbf\u0b9a\u0bc8 \u0bae\u0bc0\u0b9f\u0bcd\u0b9f\u0bae\u0bc8",
-    "copy": "\u0ba8\u0b95\u0bb2\u0bcd",
-    "copyKeys": "\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8\u0ba4\u0bcd \u0ba4\u0bb0\u0bb5\u0bc8 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0ba3\u0bbf\u0ba9\u0bbf \u0b95\u0bbf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0b95\u0bb2\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95 &lt;i&gt; ctrl \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 &lt;i&gt;u2318&lt;/i&gt; + &lt;i&gt;C&lt;/i&gt; ctrl+C \u0b90 \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd. &lt;br&gt;&lt;br&gt;  \u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0b9a\u0bc6\u0baf\u0bcd\u0baf, \u0b87\u0ba8\u0bcd\u0ba4\u0b9a\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bbf\u0bb3\u0bbf\u0b95\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0b8e\u0bb8\u0bcd\u0b95\u0bc7\u0baa\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc8 \u0b85\u0bb4\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0bc1\u0bae\u0bcd.",
-    "copyTitle": "\u0b95\u0bbf\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0b95\u0bb2\u0bc6\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd",
-    "csv": "csv",
-    "excel": "Excel",
-    "pdf": "PDF",
-    "print": "print"
-  },
-  "datetime": {
-    "amPm": [
-      "am",
-      "pm"
-    ],
-    "hours": "\u0bae\u0ba3\u0bbf",
-    "minutes": "\u0ba8\u0bbf\u0bae\u0bbf\u0b9f\u0bae\u0bcd",
-    "next": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0ba4\u0bc1",
-    "previous": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf",
-    "seconds": "\u0bb5\u0bbf\u0ba9\u0bbe\u0b9f\u0bbf\u0b95\u0bb3\u0bcd",
-    "unknown": "-",
-    "weekdays": [
-      "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1",
-      "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd",
-      "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd",
-      "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd",
-      "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd",
-      "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf",
-      "\u0b9a\u0ba9\u0bbf"
-    ]
-  },
-  "decimal": "\u0ba4\u0b9a\u0bae",
-  "emptyTable": "\u0b85\u0b9f\u0bcd\u0b9f\u0bb5\u0ba3\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0ba4\u0bb0\u0bb5\u0bc1 \u0b95\u0bbf\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
-  "info": "\u0b89\u0bb3\u0bcd\u0bb3\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8\u0bcd _START_ \u0bae\u0bc1\u0ba4\u0bb2 _END_ \u0b89\u0bb3\u0bcd\u0bb3 _TOTAL_ \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
-  "infoEmpty": "0 \u0b89\u0bb3\u0bcd\u0bb3\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 0 0 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
-  "infoFiltered": "(_MAX_ \u0bae\u0bca\u0ba4\u0bcd\u0ba4 \u0b89\u0bb3\u0bcd\u0bb3\u0bc0\u0b9f\u0bc1\u0b95\u0bb3\u0bc8 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0b9f\u0bbf\u0b95\u0b9f\u0bcd\u0b9f\u0bbf)",
-  "infoThousands": ",",
-  "lengthMenu": "_MENU_ \u0b95\u0bbe\u0ba3\u0bcd\u0baa\u0bbf",
-  "loadingRecords": "\u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1 ...",
-  "paginate": {
-    "first": "\u0bae\u0bc1\u0ba4\u0bb2\u0bcd",
-    "last": "\u0b87\u0bb1\u0bc1\u0ba4\u0bbf",
-    "next": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1",
-    "previous": "\u0bae\u0bc1\u0ba8\u0bcd\u0ba4\u0bc8\u0baf"
-  },
-  "processing": "\u0b9a\u0bc6\u0baf\u0bb2\u0bbe\u0b95\u0bcd\u0b95 ...",
-  "search": "\u0ba4\u0bc7\u0b9f\u0bc1",
-  "zeroRecords": "\u0baa\u0bca\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0ba9 \u0baa\u0ba4\u0bbf\u0bb5\u0bc1\u0b95\u0bb3\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+    "emptyTable": "அட்டவணையில் தரவு கிடைக்கவில்லை",
+    "info": "உள்ளீடுகளை் _START_ முதல _END_ உள்ள _TOTAL_ காட்டும்",
+    "infoEmpty": "0 உள்ளீடுகளை 0 0 காட்டும்",
+    "infoFiltered": "(_MAX_ மொத்த உள்ளீடுகளை இருந்து வடிகட்டி)",
+    "infoThousands": ",",
+    "lengthMenu": "_MENU_ காண்பி",
+    "loadingRecords": "ஏற்றுகிறது ...",
+    "processing": "செயலாக்க ...",
+    "zeroRecords": "பொருத்தமான பதிவுகள் இல்லை",
+    "paginate": {
+        "first": "முதல்",
+        "last": "இறுதி",
+        "next": "அடுத்து",
+        "previous": "முந்தைய"
+    },
+    "aria": {
+        "sortAscending": ": நிரலை ஏறுவரிசையில் வரிசைப்படுத்த செயல்படுத்த",
+        "sortDescending": ": நிரலை இறங்கு வரிசைப்படுத்த செயல்படுத்த"
+    },
+    "search": "தேடு",
+    "autoFill": {
+        "cancel": "ரத்து செய்",
+        "fill": "சிஸ்டம் ஆர்க்கிடெக்ட் மூலம் அனைத்து செல்களையும் நிரப்பவும்",
+        "fillHorizontal": "செல்களை கிடைமட்டமாக நிரப்பவும்",
+        "fillVertical": "செல்களை செங்குத்தாக நிரப்பவும்",
+        "info": "தகவல்"
+    },
+    "buttons": {
+        "collection": "சேகரிப்பு",
+        "colvis": "நெடுவரிசைத் தெரிவுநிலை",
+        "colvisRestore": "நெடுவரிசை மீட்டமை",
+        "copy": "நகல்",
+        "copyKeys": "அட்டவணைத் தரவை உங்கள் கணினி கிளிப்போர்டுக்கு நகலெடுக்க &lt;i&gt; ctrl அல்லது &lt;i&gt;u2318&lt;\/i&gt; + &lt;i&gt;C&lt;\/i&gt; ctrl+C ஐ அழுத்தவும். &lt;br&gt;&lt;br&gt;  ரத்துசெய்ய, இந்தச் செய்தியைக் கிளிக் செய்யவும் அல்லது எஸ்கேப் என்பதை அழுத்தவும்.",
+        "copyTitle": "கிளிப்போர்டுக்கு நகலெடுக்கவும்",
+        "csv": "csv",
+        "excel": "Excel",
+        "pdf": "PDF",
+        "print": "print"
+    },
+    "decimal": "தசம",
+    "datetime": {
+        "previous": "முந்தைய",
+        "next": "அடுத்தது",
+        "hours": "மணி",
+        "minutes": "நிமிடம்",
+        "seconds": "வினாடிகள்",
+        "unknown": "-",
+        "amPm": [
+            "am",
+            "pm"
+        ],
+        "weekdays": [
+            "ஞாயிறு",
+            "திங்கள்",
+            "செவ்வாய்",
+            "புதன்",
+            "வியாழன்",
+            "வெள்ளி",
+            "சனி"
+        ]
+    }
 }

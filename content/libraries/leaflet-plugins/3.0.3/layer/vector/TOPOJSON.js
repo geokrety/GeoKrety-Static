@@ -574,7 +574,7 @@ L.TOPOJSON = L.FeatureGroup.extend({
 		if (options === undefined) options = this.options;
 
 		var req = new window.XMLHttpRequest();
-
+		
 		// Check for IE8 and IE9 Fix Cors for those browsers
 		if (req.withCredentials === undefined && typeof window.XDomainRequest !== 'undefined') {
 			var xdr = new window.XDomainRequest();
@@ -634,7 +634,7 @@ L.TOPOJSON = L.FeatureGroup.extend({
 			else _this._addData(layer, ft);
 			layers.push(layer);
 		}
-
+		
 		return layers;
 	}
 });

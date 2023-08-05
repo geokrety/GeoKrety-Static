@@ -1,189 +1,189 @@
 {
-  "aria": {
-    "sortAscending": ": aktivizo p\u00ebr t\u00eb renditur kolon\u00ebn me vlera n\u00eb ngritje",
-    "sortDescending": ": aktivizo p\u00ebr t\u00eb renditur kolon\u00ebn me vlera n\u00eb zbritje"
-  },
-  "autoFill": {
-    "cancel": "Anullo",
-    "fill": "Plot\u00ebso",
-    "fillHorizontal": "Plot\u00ebso rreshtat",
-    "fillVertical": "Plot\u00ebso kolonat"
-  },
-  "buttons": {
-    "collection": "T\u00eb dh\u00ebnat",
-    "colvis": "Shfaq kolonat",
-    "colvisRestore": "Rikthe shfaqjen",
-    "copy": "Kopjo",
-    "copyKeys": "Shtyp _ctr ose _\u2318 + _C p\u00ebr t\u00eb kopjuar t\u00eb dh\u00ebnat n\u00eb Clipboard. P\u00ebr t\u00eb anulluar, kliko mesazhin ose shtyp butonin 'Escape'.",
-    "copySuccess": {
-      "1": "U kojua 1 rresht n\u00eb clipboard",
-      "_": "U kopjuan %d rreshta n\u00eb clipboard"
+    "infoThousands": ",",
+    "search": "Kërkoni:",
+    "paginate": {
+        "first": "E para",
+        "last": "E Fundit",
+        "next": "Tjetra",
+        "previous": "E Kaluara"
     },
-    "copyTitle": "Kopjo n\u00eb Clipboard",
-    "csv": "CSV",
-    "excel": "EXCEL",
-    "pageLength": {
-      "-1": "Shfaq t\u00eb gjith\u00eb rreshtat",
-      "_": "Shfaq %d rreshta"
+    "buttons": {
+        "copy": "Kopjo",
+        "csv": "CSV",
+        "excel": "EXCEL",
+        "pdf": "PDF",
+        "print": "Printo",
+        "collection": "Të dhënat",
+        "colvis": "Shfaq kolonat",
+        "colvisRestore": "Rikthe shfaqjen",
+        "copyKeys": "Shtyp _ctr ose _⌘ + _C për të kopjuar të dhënat në Clipboard. Për të anulluar, kliko mesazhin ose shtyp butonin 'Escape'.",
+        "copySuccess": {
+            "_": "U kopjuan %d rreshta në clipboard",
+            "1": "U kojua 1 rresht në clipboard"
+        },
+        "copyTitle": "Kopjo në Clipboard",
+        "pageLength": {
+            "_": "Shfaq %d rreshta",
+            "-1": "Shfaq të gjithë rreshtat"
+        }
     },
-    "pdf": "PDF",
-    "print": "Printo"
-  },
-  "datetime": {
-    "amPm": [
-      "am",
-      "pm"
-    ],
-    "hours": "Ora",
-    "minutes": "Minuta",
-    "months": {
-      "0": "Janar",
-      "1": "Shkurt",
-      "10": "N\u00ebntor",
-      "11": "Dhjetor",
-      "2": "Mars",
-      "3": "Prill",
-      "4": "Maj",
-      "5": "Qershor",
-      "6": "Korrik",
-      "7": "Gusht",
-      "8": "Shtator",
-      "9": "Tetor"
+    "datetime": {
+        "amPm": [
+            "am",
+            "pm"
+        ],
+        "hours": "Ora",
+        "minutes": "Minuta",
+        "seconds": "Sekonda",
+        "months": {
+            "0": "Janar",
+            "1": "Shkurt",
+            "10": "Nëntor",
+            "11": "Dhjetor",
+            "2": "Mars",
+            "3": "Prill",
+            "4": "Maj",
+            "5": "Qershor",
+            "6": "Korrik",
+            "7": "Gusht",
+            "8": "Shtator",
+            "9": "Tetor"
+        },
+        "next": "Përpara",
+        "previous": "Prapa",
+        "unknown": "-",
+        "weekdays": [
+            "E hëne",
+            "E martë",
+            "E mërkurë",
+            "E enjte",
+            "E premte",
+            "E shtunë",
+            "E diel"
+        ]
     },
-    "next": "P\u00ebrpara",
-    "previous": "Prapa",
-    "seconds": "Sekonda",
-    "unknown": "-",
-    "weekdays": [
-      "E h\u00ebne",
-      "E mart\u00eb",
-      "E m\u00ebrkur\u00eb",
-      "E enjte",
-      "E premte",
-      "E shtun\u00eb",
-      "E diel"
-    ]
-  },
-  "decimal": ",",
-  "editor": {
-    "close": "Mbyll",
-    "create": {
-      "button": "Krijo",
-      "submit": "Krijojeni",
-      "title": "Krijo rekord t\u00eb ri"
+    "processing": "Po procesohen...",
+    "thousands": ",",
+    "aria": {
+        "sortAscending": ": aktivizo për të renditur kolonën me vlera në ngritje",
+        "sortDescending": ": aktivizo për të renditur kolonën me vlera në zbritje"
     },
-    "edit": {
-      "button": "Modifiko",
-      "submit": "Modifikojeni",
-      "title": "Modifiko nj\u00eb t\u00eb dh\u00ebn\u00eb ekzistuese"
+    "autoFill": {
+        "cancel": "Anullo",
+        "fill": "Plotëso",
+        "fillHorizontal": "Plotëso rreshtat",
+        "fillVertical": "Plotëso kolonat"
     },
-    "error": {
-      "system": "Ka ndodhur nj\u00eb gabim n\u00eb sistem. (<a target=\"\\\" rel=\"\\ nofollow\" href=\"\\\">M\u00eb shum\u00eb informacion&lt;\\/a&gt;).</a>"
+    "decimal": ",",
+    "editor": {
+        "close": "Mbyll",
+        "create": {
+            "button": "Krijo",
+            "submit": "Krijojeni",
+            "title": "Krijo rekord të ri"
+        },
+        "edit": {
+            "button": "Modifiko",
+            "submit": "Modifikojeni",
+            "title": "Modifiko një të dhënë ekzistuese"
+        },
+        "error": {
+            "system": "Ka ndodhur një gabim në sistem. (<a target=\"\\\" rel=\"\\ nofollow\" href=\"\\\">Më shumë informacion&lt;\\\/a&gt;).<\/a>"
+        },
+        "multi": {
+            "restore": "Zhbëj ndryshimet",
+            "title": "Vlera të shumëfishta"
+        },
+        "remove": {
+            "button": "Fshi",
+            "confirm": {
+                "_": "Jeni i sigurë që doni të fshini %d rreshta?",
+                "1": "Jeni i sigurë që doni të fshini 1 rresht?"
+            },
+            "submit": "Fshijeni",
+            "title": "Fshi"
+        }
     },
-    "multi": {
-      "restore": "Zhb\u00ebj ndryshimet",
-      "title": "Vlera t\u00eb shum\u00ebfishta"
+    "emptyTable": "Nuk ka asnjë të dhënë në tabelë",
+    "info": "Duke treguar _START_ deri _END_ prej _TOTAL_ rreshtave",
+    "infoEmpty": "Duke treguar 0 deri 0 prej 0 rreshtave",
+    "infoFiltered": "(të filtruara prej gjithsej _MAX_  reshtave)",
+    "lengthMenu": "Shfaq _MENU_ rreshta",
+    "loadingRecords": "Po merren te dhënat...",
+    "searchBuilder": {
+        "add": "Shto kusht",
+        "button": {
+            "_": "Nderto logjikë kërkimi (%d)",
+            "0": "Nderto logjikë kërkimi"
+        },
+        "clearAll": "Pastro të gjitha",
+        "condition": "Kusht",
+        "conditions": {
+            "array": {
+                "contains": "përmban",
+                "empty": "bosh",
+                "equals": "i\/e barabartë",
+                "not": "jo",
+                "notEmpty": "jo bosh",
+                "without": "pa"
+            },
+            "date": {
+                "after": "pas",
+                "before": "para",
+                "between": "ndërmjet",
+                "empty": "bosh",
+                "equals": "i\/e barabartë",
+                "not": "jo",
+                "notBetween": "jo ndërmjet",
+                "notEmpty": "jo bosh"
+            },
+            "number": {
+                "between": "ndërmjet",
+                "empty": "bosh",
+                "equals": "i\/e barabartë\"",
+                "gt": "më i\/e madh\/e se",
+                "gte": "më i\/e madh\/e ose i\/e barabartë me",
+                "lt": "më i\/e vogël se",
+                "lte": "më i\/e madh\/e ose i\/e barabartë me",
+                "not": "jo",
+                "notBetween": "jo ndërmjet",
+                "notEmpty": "jo bosh"
+            },
+            "string": {
+                "contains": "përmban",
+                "empty": "bosh",
+                "endsWith": "mbaron me",
+                "equals": "i\/e barabartë",
+                "not": "jo",
+                "notEmpty": "jo bosh",
+                "startsWith": "fillon me"
+            }
+        },
+        "data": "Të dhëna",
+        "deleteTitle": "Fshi rregullin e filtrimit",
+        "logicAnd": "Edhe",
+        "logicOr": "Ose",
+        "title": {
+            "_": "Logjikë kërkimi (%d)",
+            "0": "Logjikë kërkimi"
+        },
+        "value": "Vlera"
     },
-    "remove": {
-      "button": "Fshi",
-      "confirm": {
-        "1": "Jeni i sigur\u00eb q\u00eb doni t\u00eb fshini 1 rresht?",
-        "_": "Jeni i sigur\u00eb q\u00eb doni t\u00eb fshini %d rreshta?"
-      },
-      "submit": "Fshijeni",
-      "title": "Fshi"
-    }
-  },
-  "emptyTable": "Nuk ka asnj\u00eb t\u00eb dh\u00ebn\u00eb n\u00eb tabel\u00eb",
-  "info": "Duke treguar _START_ deri _END_ prej _TOTAL_ rreshtave",
-  "infoEmpty": "Duke treguar 0 deri 0 prej 0 rreshtave",
-  "infoFiltered": "(t\u00eb filtruara prej gjithsej _MAX_  reshtave)",
-  "infoThousands": ",",
-  "lengthMenu": "Shfaq _MENU_ rreshta",
-  "loadingRecords": "Po merren te dh\u00ebnat...",
-  "paginate": {
-    "first": "E para",
-    "last": "E Fundit",
-    "next": "Tjetra",
-    "previous": "E Kaluara"
-  },
-  "processing": "Po procesohen...",
-  "search": "K\u00ebrkoni:",
-  "searchBuilder": {
-    "add": "Shto kusht",
-    "button": {
-      "0": "Nderto logjik\u00eb k\u00ebrkimi",
-      "_": "Nderto logjik\u00eb k\u00ebrkimi (%d)"
+    "searchPanes": {
+        "clearMessage": "Pastro të gjitha",
+        "count": "{total}",
+        "countFiltered": "{shown} ({total})",
+        "title": "Filtra aktivë - %d"
     },
-    "clearAll": "Pastro t\u00eb gjitha",
-    "condition": "Kusht",
-    "conditions": {
-      "array": {
-        "contains": "p\u00ebrmban",
-        "empty": "bosh",
-        "equals": "i/e barabart\u00eb",
-        "not": "jo",
-        "notEmpty": "jo bosh",
-        "without": "pa"
-      },
-      "date": {
-        "after": "pas",
-        "before": "para",
-        "between": "nd\u00ebrmjet",
-        "empty": "bosh",
-        "equals": "i/e barabart\u00eb",
-        "not": "jo",
-        "notBetween": "jo nd\u00ebrmjet",
-        "notEmpty": "jo bosh"
-      },
-      "number": {
-        "between": "nd\u00ebrmjet",
-        "empty": "bosh",
-        "equals": "i/e barabart\u00eb\"",
-        "gt": "m\u00eb i/e madh/e se",
-        "gte": "m\u00eb i/e madh/e ose i/e barabart\u00eb me",
-        "lt": "m\u00eb i/e vog\u00ebl se",
-        "lte": "m\u00eb i/e madh/e ose i/e barabart\u00eb me",
-        "not": "jo",
-        "notBetween": "jo nd\u00ebrmjet",
-        "notEmpty": "jo bosh"
-      },
-      "string": {
-        "contains": "p\u00ebrmban",
-        "empty": "bosh",
-        "endsWith": "mbaron me",
-        "equals": "i/e barabart\u00eb",
-        "not": "jo",
-        "notEmpty": "jo bosh",
-        "startsWith": "fillon me"
-      }
+    "select": {
+        "cells": {
+            "_": "%d qeliza të zgjedhura",
+            "1": "1 qelizë e zgjedhur"
+        },
+        "columns": {
+            "_": "%d kolona të zgjedhura",
+            "1": "1 kolonë e zgjedhur"
+        }
     },
-    "data": "T\u00eb dh\u00ebna",
-    "deleteTitle": "Fshi rregullin e filtrimit",
-    "logicAnd": "Edhe",
-    "logicOr": "Ose",
-    "title": {
-      "0": "Logjik\u00eb k\u00ebrkimi",
-      "_": "Logjik\u00eb k\u00ebrkimi (%d)"
-    },
-    "value": "Vlera"
-  },
-  "searchPanes": {
-    "clearMessage": "Pastro t\u00eb gjitha",
-    "count": "{total}",
-    "countFiltered": "{shown} ({total})",
-    "title": "Filtra aktiv\u00eb - %d"
-  },
-  "select": {
-    "cells": {
-      "1": "1 qeliz\u00eb e zgjedhur",
-      "_": "%d qeliza t\u00eb zgjedhura"
-    },
-    "columns": {
-      "1": "1 kolon\u00eb e zgjedhur",
-      "_": "%d kolona t\u00eb zgjedhura"
-    }
-  },
-  "thousands": ",",
-  "zeroRecords": "Nuk u gjet asnj\u00eb e dh\u00ebn\u00eb"
+    "zeroRecords": "Nuk u gjet asnjë e dhënë"
 }

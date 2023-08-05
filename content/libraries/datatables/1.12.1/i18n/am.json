@@ -1,22 +1,22 @@
 {
-  "aria": {
-    "sortAscending": ": \u12a8\u1218\u1300\u1218\u122a\u12eb \u12c8\u12f0 \u1218\u1328\u1228\u123b(\u12c8\u132a) \u12a0\u12f0\u122b\u12f0\u122d",
-    "sortDescending": ": \u12a8\u1218\u1328\u1228\u123b \u12c8\u12f0 \u1218\u1300\u1218\u122a\u12eb(\u12c8\u122b\u1305) \u12a0\u12f0\u122b\u12f0\u122d"
-  },
-  "emptyTable": "\u1263\u12f6 \u1230\u1295\u1320\u1228\u12e5",
-  "info": "\u12a8\u1320\u1245\u120b\u120b\u12cd _TOTAL_ \u12dd\u122d\u12dd\u122e\u127d \u12cd\u1235\u1325 \u12a8 _START_ \u12a5\u1235\u12a8 _END_ \u12eb\u1209\u1275 \u12dd\u122d\u12dd\u122d",
-  "infoEmpty": "\u12a8\u1320\u1245\u120b\u120b\u12cd 0 \u12dd\u122d\u12dd\u122e\u127d \u12cd\u1235\u1325 \u12a8 0 \u12a5\u1235\u12a8 0 \u12eb\u1209\u1275 \u12dd\u122d\u12dd\u122d",
-  "infoFiltered": "(\u12a8\u1320\u1245\u120b\u120b\u12cd _MAX_ \u12e8\u1270\u1218\u1228\u1321 \u12dd\u122d\u12dd\u122e\u127d)",
-  "infoThousands": ",",
-  "lengthMenu": "\u12e8\u12dd\u122d\u12dd\u122e\u127d \u1265\u12db\u1275 _MENU_",
-  "loadingRecords": "\u1260\u121b\u1245\u1228\u1265 \u120b\u12ed...",
-  "paginate": {
-    "first": "\u1218\u1300\u1218\u122a\u12eb",
-    "last": "\u1218\u1328\u1228\u123b",
-    "next": "\u1240\u1323\u12e9",
-    "previous": "\u12e8\u1260\u134a\u1271"
-  },
-  "processing": "\u1260\u121b\u1240\u1293\u1260\u122d \u120b\u12ed...",
-  "search": "\u1348\u120d\u130d:",
-  "zeroRecords": "\u12a8\u121a\u1348\u1208\u1308\u12cd \u130b\u122d \u12e8\u121a\u121a\u1233\u1230\u120d \u12dd\u122d\u12dd\u122d \u12a0\u120d\u1270\u1308\u1298\u121d"
+    "emptyTable": "ባዶ ሰንጠረዥ",
+    "info": "ከጠቅላላው _TOTAL_ ዝርዝሮች ውስጥ ከ _START_ እስከ _END_ ያሉት ዝርዝር",
+    "infoEmpty": "ከጠቅላላው 0 ዝርዝሮች ውስጥ ከ 0 እስከ 0 ያሉት ዝርዝር",
+    "infoFiltered": "(ከጠቅላላው _MAX_ የተመረጡ ዝርዝሮች)",
+    "infoThousands": ",",
+    "lengthMenu": "የዝርዝሮች ብዛት _MENU_",
+    "loadingRecords": "በማቅረብ ላይ...",
+    "processing": "በማቀናበር ላይ...",
+    "search": "ፈልግ:",
+    "zeroRecords": "ከሚፈለገው ጋር የሚሚሳሰል ዝርዝር አልተገኘም",
+    "paginate": {
+        "first": "መጀመሪያ",
+        "last": "መጨረሻ",
+        "next": "ቀጣዩ",
+        "previous": "የበፊቱ"
+    },
+    "aria": {
+        "sortAscending": ": ከመጀመሪያ ወደ መጨረሻ(ወጪ) አደራደር",
+        "sortDescending": ": ከመጨረሻ ወደ መጀመሪያ(ወራጅ) አደራደር"
+    }
 }

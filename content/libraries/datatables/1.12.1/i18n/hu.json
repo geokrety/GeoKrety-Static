@@ -1,190 +1,190 @@
 {
-  "aria": {
-    "sortAscending": ": aktiv\u00e1lja a n\u00f6vekv\u0151 rendez\u00e9shez",
-    "sortDescending": ": aktiv\u00e1lja a cs\u00f6kken\u0151 rendez\u00e9shez"
-  },
-  "autoFill": {
-    "cancel": "Megszak\u00edt\u00e1s",
-    "fill": "\u00d6sszes cella kit\u00f6lt\u00e9se a k\u00f6vetkez\u0151vel: <i>%d</i>",
-    "fillHorizontal": "Cell\u00e1k v\u00edzszintes kit\u00f6lt\u00e9se",
-    "fillVertical": "Cell\u00e1k f\u00fcgg\u0151leges kit\u00f6lt\u00e9se"
-  },
-  "buttons": {
-    "collection": "Gy\u0171jtem\u00e9ny",
-    "colvis": "Oszlopok",
-    "colvisRestore": "Oszlopok vissza\u00e1ll\u00edt\u00e1sa",
-    "copy": "M\u00e1sol\u00e1s",
-    "copyKeys": "A t\u00e1bl\u00e1zat adatainak v\u00e1g\u00f3lapra m\u00e1sol\u00e1s\u00e1hoz nyomja meg a CTRL vagy u2318 + C billenty\u0171t!<br /><br />A megszak\u00edt\u00e1shoz kattintson az \u00fczenetre, vagy nyomja meg az ESC billenty\u0171t!",
-    "copySuccess": {
-      "1": "1 sor m\u00e1solva",
-      "_": "%d sor m\u00e1solva"
+    "emptyTable": "Nincs rendelkezésre álló adat",
+    "info": "Találatok: _START_ - _END_ Összesen: _TOTAL_",
+    "infoFiltered": "(_MAX_ összes rekord közül szűrve)",
+    "infoThousands": " ",
+    "lengthMenu": "_MENU_ találat oldalanként",
+    "loadingRecords": "Betöltés...",
+    "processing": "Feldolgozás...",
+    "search": "Keresés:",
+    "zeroRecords": "Nincs a keresésnek megfelelő találat",
+    "paginate": {
+        "first": "Első",
+        "previous": "Előző",
+        "next": "Következő",
+        "last": "Utolsó"
     },
-    "copyTitle": "V\u00e1g\u00f3lapra m\u00e1sol\u00e1s",
-    "csv": "CSV",
-    "excel": "Excel",
-    "pageLength": {
-      "-1": "\u00d6sszes sor megjelen\u00edt\u00e9se",
-      "_": "%d sor megjelen\u00edt\u00e9se"
+    "aria": {
+        "sortAscending": ": aktiválja a növekvő rendezéshez",
+        "sortDescending": ": aktiválja a csökkenő rendezéshez"
     },
-    "pdf": "PDF",
-    "print": "Nyomtat"
-  },
-  "datetime": {
-    "amPm": [
-      "de.",
-      "du."
-    ],
-    "hours": "\u00d3ra",
-    "minutes": "Perc",
-    "months": [
-      "Janu\u00e1r",
-      "Febru\u00e1r",
-      "M\u00e1rcius",
-      "\u00c1prilis",
-      "M\u00e1jus",
-      "J\u00fanius",
-      "J\u00falius",
-      "Augusztus",
-      "Szeptember",
-      "Okt\u00f3ber",
-      "November",
-      "December"
-    ],
-    "next": "K\u00f6vetkez\u0151",
-    "previous": "El\u0151z\u0151",
-    "seconds": "M\u00e1sodperc",
-    "weekdays": [
-      "H",
-      "K",
-      "Sze",
-      "Cs",
-      "P",
-      "Szo",
-      "V"
-    ]
-  },
-  "editor": {
-    "close": "Bez\u00e1r\u00e1s",
-    "create": {
-      "button": "\u00daj",
-      "submit": "L\u00e9trehoz\u00e1s",
-      "title": "\u00daj"
+    "select": {
+        "rows": {
+            "_": "%d sor kiválasztva",
+            "1": "1 sor kiválasztva"
+        },
+        "cells": {
+            "1": "1 cella kiválasztva",
+            "_": "%d cella kiválasztva"
+        },
+        "columns": {
+            "1": "1 oszlop kiválasztva",
+            "_": "%d oszlop kiválasztva"
+        }
     },
-    "edit": {
-      "button": "M\u00f3dos\u00edt\u00e1s",
-      "submit": "M\u00f3dos\u00edt\u00e1s",
-      "title": "M\u00f3dos\u00edt\u00e1s"
+    "buttons": {
+        "colvis": "Oszlopok",
+        "copy": "Másolás",
+        "copyTitle": "Vágólapra másolás",
+        "copySuccess": {
+            "_": "%d sor másolva",
+            "1": "1 sor másolva"
+        },
+        "collection": "Gyűjtemény",
+        "colvisRestore": "Oszlopok visszaállítása",
+        "csv": "CSV",
+        "excel": "Excel",
+        "pageLength": {
+            "-1": "Összes sor megjelenítése",
+            "_": "%d sor megjelenítése"
+        },
+        "pdf": "PDF",
+        "print": "Nyomtat",
+        "copyKeys": "A táblázat adatainak vágólapra másolásához nyomja meg a CTRL vagy u2318 + C billentyűt!<br \/><br \/>A megszakításhoz kattintson az üzenetre, vagy nyomja meg az ESC billentyűt!"
     },
-    "error": {
-      "system": "Technikai hiba t\u00f6rt\u00e9nt."
+    "autoFill": {
+        "cancel": "Megszakítás",
+        "fill": "Összes cella kitöltése a következővel: <i>%d<\/i>",
+        "fillHorizontal": "Cellák vízszintes kitöltése",
+        "fillVertical": "Cellák függőleges kitöltése"
     },
-    "remove": {
-      "button": "T\u00f6rl\u00e9s",
-      "submit": "T\u00f6rl\u00e9s",
-      "title": "T\u00f6rl\u00e9s"
-    }
-  },
-  "emptyTable": "Nincs rendelkez\u00e9sre \u00e1ll\u00f3 adat",
-  "info": "Tal\u00e1latok: _START_ - _END_ \u00d6sszesen: _TOTAL_",
-  "infoEmpty": "Nincs tal\u00e1lat",
-  "infoFiltered": "(_MAX_ \u00f6sszes rekord k\u00f6z\u00fcl sz\u0171rve)",
-  "infoThousands": " ",
-  "lengthMenu": "_MENU_ tal\u00e1lat oldalank\u00e9nt",
-  "loadingRecords": "Bet\u00f6lt\u00e9s...",
-  "paginate": {
-    "first": "Els\u0151",
-    "last": "Utols\u00f3",
-    "next": "K\u00f6vetkez\u0151",
-    "previous": "El\u0151z\u0151"
-  },
-  "processing": "Feldolgoz\u00e1s...",
-  "search": "Keres\u00e9s:",
-  "searchBuilder": {
-    "add": "Felt\u00e9tel hozz\u00e1ad\u00e1sa",
-    "button": {
-      "0": "Keres\u00e9s konfigur\u00e1tor",
-      "_": "Keres\u00e9s konfigur\u00e1tor (%d)"
+    "searchBuilder": {
+        "add": "Feltétel hozzáadása",
+        "button": {
+            "0": "Keresés konfigurátor",
+            "_": "Keresés konfigurátor (%d)"
+        },
+        "clearAll": "Összes feltétel törlése",
+        "condition": "Feltétel",
+        "conditions": {
+            "date": {
+                "after": "Után",
+                "before": "Előtt",
+                "between": "Között",
+                "empty": "Üres",
+                "equals": "Egyenlő",
+                "not": "Nem",
+                "notBetween": "Kívül eső",
+                "notEmpty": "Nem üres"
+            },
+            "number": {
+                "between": "Között",
+                "empty": "Üres",
+                "equals": "Egyenlő",
+                "gt": "Nagyobb mint",
+                "gte": "Nagyobb vagy egyenlő mint",
+                "lt": "Kissebb mint",
+                "lte": "Kissebb vagy egyenlő mint",
+                "not": "Nem",
+                "notBetween": "Kívül eső",
+                "notEmpty": "Nem üres"
+            },
+            "string": {
+                "contains": "Tartalmazza",
+                "empty": "Üres",
+                "endsWith": "Végződik",
+                "equals": "Egyenlő",
+                "not": "Nem",
+                "notEmpty": "Nem üres",
+                "startsWith": "Kezdődik"
+            },
+            "array": {
+                "equals": "Egyenlő",
+                "empty": "Üres",
+                "contains": "Tartalmazza",
+                "not": "Nem",
+                "notEmpty": "Nem üres",
+                "without": "Nélkül"
+            }
+        },
+        "data": "Adat",
+        "deleteTitle": "Feltétel törlése",
+        "logicAnd": "És",
+        "logicOr": "Vagy",
+        "title": {
+            "0": "Keresés konfigurátor",
+            "_": "Keresés konfigurátor (%d)"
+        },
+        "value": "Érték"
     },
-    "clearAll": "\u00d6sszes felt\u00e9tel t\u00f6rl\u00e9se",
-    "condition": "Felt\u00e9tel",
-    "conditions": {
-      "array": {
-        "contains": "Tartalmazza",
-        "empty": "\u00dcres",
-        "equals": "Egyenl\u0151",
-        "not": "Nem",
-        "notEmpty": "Nem \u00fcres",
-        "without": "N\u00e9lk\u00fcl"
-      },
-      "date": {
-        "after": "Ut\u00e1n",
-        "before": "El\u0151tt",
-        "between": "K\u00f6z\u00f6tt",
-        "empty": "\u00dcres",
-        "equals": "Egyenl\u0151",
-        "not": "Nem",
-        "notBetween": "K\u00edv\u00fcl es\u0151",
-        "notEmpty": "Nem \u00fcres"
-      },
-      "number": {
-        "between": "K\u00f6z\u00f6tt",
-        "empty": "\u00dcres",
-        "equals": "Egyenl\u0151",
-        "gt": "Nagyobb mint",
-        "gte": "Nagyobb vagy egyenl\u0151 mint",
-        "lt": "Kissebb mint",
-        "lte": "Kissebb vagy egyenl\u0151 mint",
-        "not": "Nem",
-        "notBetween": "K\u00edv\u00fcl es\u0151",
-        "notEmpty": "Nem \u00fcres"
-      },
-      "string": {
-        "contains": "Tartalmazza",
-        "empty": "\u00dcres",
-        "endsWith": "V\u00e9gz\u0151dik",
-        "equals": "Egyenl\u0151",
-        "not": "Nem",
-        "notEmpty": "Nem \u00fcres",
-        "startsWith": "Kezd\u0151dik"
-      }
+    "searchPanes": {
+        "clearMessage": "Szűrők törlése",
+        "collapse": {
+            "0": "Szűrőpanelek",
+            "_": "Szűrőpanelek (%d)"
+        },
+        "count": "{total}",
+        "countFiltered": "{shown} ({total})",
+        "emptyPanes": "Nincsenek szűrőpanelek",
+        "loadMessage": "Szűrőpanelek betöltése",
+        "title": "Aktív szűrőpanelek: %d",
+        "showMessage": "Mindet megmutat"
     },
-    "data": "Adat",
-    "deleteTitle": "Felt\u00e9tel t\u00f6rl\u00e9se",
-    "logicAnd": "\u00c9s",
-    "logicOr": "Vagy",
-    "title": {
-      "0": "Keres\u00e9s konfigur\u00e1tor",
-      "_": "Keres\u00e9s konfigur\u00e1tor (%d)"
+    "datetime": {
+        "previous": "Előző",
+        "next": "Következő",
+        "hours": "Óra",
+        "minutes": "Perc",
+        "seconds": "Másodperc",
+        "amPm": [
+            "de.",
+            "du."
+        ],
+        "weekdays": [
+            "H",
+            "K",
+            "Sze",
+            "Cs",
+            "P",
+            "Szo",
+            "V"
+        ],
+        "months": [
+            "Január",
+            "Február",
+            "Március",
+            "Április",
+            "Május",
+            "Június",
+            "Július",
+            "Augusztus",
+            "Szeptember",
+            "Október",
+            "November",
+            "December"
+        ]
     },
-    "value": "\u00c9rt\u00e9k"
-  },
-  "searchPanes": {
-    "clearMessage": "Sz\u0171r\u0151k t\u00f6rl\u00e9se",
-    "collapse": {
-      "0": "Sz\u0171r\u0151panelek",
-      "_": "Sz\u0171r\u0151panelek (%d)"
+    "editor": {
+        "close": "Bezárás",
+        "create": {
+            "button": "Új",
+            "title": "Új",
+            "submit": "Létrehozás"
+        },
+        "edit": {
+            "button": "Módosítás",
+            "title": "Módosítás",
+            "submit": "Módosítás"
+        },
+        "remove": {
+            "button": "Törlés",
+            "title": "Törlés",
+            "submit": "Törlés"
+        },
+        "error": {
+            "system": "Technikai hiba történt."
+        }
     },
-    "count": "{total}",
-    "countFiltered": "{shown} ({total})",
-    "emptyPanes": "Nincsenek sz\u0171r\u0151panelek",
-    "loadMessage": "Sz\u0171r\u0151panelek bet\u00f6lt\u00e9se",
-    "showMessage": "Mindet megmutat",
-    "title": "Akt\u00edv sz\u0171r\u0151panelek: %d"
-  },
-  "select": {
-    "cells": {
-      "1": "1 cella kiv\u00e1lasztva",
-      "_": "%d cella kiv\u00e1lasztva"
-    },
-    "columns": {
-      "1": "1 oszlop kiv\u00e1lasztva",
-      "_": "%d oszlop kiv\u00e1lasztva"
-    },
-    "rows": {
-      "1": "1 sor kiv\u00e1lasztva",
-      "_": "%d sor kiv\u00e1lasztva"
-    }
-  },
-  "thousands": "&nbsp;",
-  "zeroRecords": "Nincs a keres\u00e9snek megfelel\u0151 tal\u00e1lat"
+    "infoEmpty": "Nincs találat",
+    "thousands": "&nbsp;"
 }

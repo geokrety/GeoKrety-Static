@@ -1,15 +1,15 @@
 {
-  "info": "Ipinapakita ang  _START_  sa _END_ ng _TOTAL_ entries",
-  "infoEmpty": "Ipinapakita ang 0-0 ng 0 entries",
-  "infoFiltered": "(na-filter mula _MAX_ kabuuang entries)",
-  "lengthMenu": "Ipakita _MENU_ entries",
-  "paginate": {
-    "first": "Unang",
-    "last": "Huli",
-    "next": "Susunod",
-    "previous": "Nakaraan"
-  },
-  "processing": "Pagproseso...",
-  "search": "Paghahanap:",
-  "zeroRecords": "Walang katugmang  mga talaan  na natagpuan"
+    "processing": "Pagproseso...",
+    "lengthMenu": "Ipakita _MENU_ entries",
+    "zeroRecords": "Walang katugmang  mga talaan  na natagpuan",
+    "info": "Ipinapakita ang  _START_  sa _END_ ng _TOTAL_ entries",
+    "infoEmpty": "Ipinapakita ang 0-0 ng 0 entries",
+    "infoFiltered": "(na-filter mula _MAX_ kabuuang entries)",
+    "search": "Paghahanap:",
+    "paginate": {
+        "first": "Unang",
+        "previous": "Nakaraan",
+        "next": "Susunod",
+        "last": "Huli"
+    }
 }

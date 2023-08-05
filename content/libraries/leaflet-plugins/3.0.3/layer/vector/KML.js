@@ -18,7 +18,7 @@ L.KML = L.FeatureGroup.extend({
 		if (options === undefined) options = this.options;
 
 		var req = new window.XMLHttpRequest();
-
+		
 		// Check for IE8 and IE9 Fix Cors for those browsers
 		if (req.withCredentials === undefined && typeof window.XDomainRequest !== 'undefined') {
 			var xdr = new window.XDomainRequest();
@@ -170,33 +170,33 @@ L.Util.extend(L.KML, {
 				anchorType:	{x: ioptions.xunits, y: ioptions.yunits}
 			});
 		}
-
+		
 		id = xml.getAttribute('id');
 		if (id && style) {
 			style.id = id;
 		}
-
+		
 		return style;
 	},
-
+	
 	parseStyleMap: function (xml, existingStyles) {
 		var sl = xml.getElementsByTagName('StyleMap');
-
+		
 		for (var i = 0; i < sl.length; i++) {
 			var e = sl[i], el;
 			var smKey, smStyleUrl;
-
+			
 			el = e.getElementsByTagName('key');
 			if (el && el[0]) { smKey = el[0].textContent; }
 			el = e.getElementsByTagName('styleUrl');
 			if (el && el[0]) { smStyleUrl = el[0].textContent; }
-
+			
 			if (smKey === 'normal')
 			{
 				existingStyles['#' + e.getAttribute('id')] = existingStyles[smStyleUrl];
 			}
 		}
-
+		
 		return;
 	},
 
@@ -235,7 +235,7 @@ L.Util.extend(L.KML, {
 				opts[a] = style[url][a];
 			}
 		}
-
+		
 		il = place.getElementsByTagName('Style')[0];
 		if (il) {
 			var inlineStyle = this.parseStyle(place);
@@ -253,7 +253,7 @@ L.Util.extend(L.KML, {
 				return this.parsePlacemark(el[i], xml, style, opts);
 			}
 		}
-
+		
 		var layers = [];
 
 		var parse = ['LineString', 'Polygon', 'Point', 'Track', 'gx:Track'];
@@ -475,11 +475,12 @@ L.RotatedImageOverlay = L.ImageOverlay.extend({
             var rad = this.options.angle * (Math.PI / 180),
                 costheta = Math.cos(rad),
                 sintheta = Math.sin(rad);
-            this._image.style.filter += ' progid:DXImageTransform.Microsoft.Matrix(sizingMethod=\'auto expand\', M11=' +
-                costheta + ', M12=' + (-sintheta) + ', M21=' + sintheta + ', M22=' + costheta + ')';
+            this._image.style.filter += ' progid:DXImageTransform.Microsoft.Matrix(sizingMethod=\'auto expand\', M11=' + 
+                costheta + ', M12=' + (-sintheta) + ', M21=' + sintheta + ', M22=' + costheta + ')';                
         }
 	},
 	getBounds: function () {
 		return this._bounds;
 	}
 });
+

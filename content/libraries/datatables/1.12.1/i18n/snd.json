@@ -1,30 +1,30 @@
 {
-  "autoFill": {
-    "cancel": "\u0645\u0646\u0633\u0648\u062e"
-  },
-  "buttons": {
-    "collection": "\u0633\u06be\u064a\u0699",
-    "colvis": "\u06aa\u0627\u0644\u0645 \u062c\u0648 \u068f\u064a\u06a9",
-    "colvisRestore": "\u068f\u064a\u06a9 \u06a6\u064a\u0631\u0627\u064a\u0648",
-    "copy": "\u06aa\u0627\u067e\u064a \u06aa\u0631\u064a\u0648",
-    "copyTitle": "\u06aa\u0644\u067e \u0628\u0648\u0631\u068a \u06fe \u06aa\u0627\u067e\u064a \u06aa\u0631\u064a\u0648",
-    "csv": "\u0633\u064a.\u0627\u064a\u0633.\u0648\u0650\u064a",
-    "excel": "\u0627\u064a\u06aa\u0633\u0644",
-    "pdf": "\u067e\u064a.\u068a\u064a.\u0627\u064a\u0641",
-    "print": "\u067e\u0631\u0646\u067d"
-  },
-  "emptyTable": "\u067d\u064a\u0628\u0644 \u06fe \u06aa\u0648\u0628\u06c1 \u0645\u0648\u0627\u062f \u0646\u0627\u06be\u064a",
-  "paginate": {
-    "first": "\u067e\u06be\u0631\u064a\u0648\u0646",
-    "last": "\u0622\u062e\u0631\u064a",
-    "next": "\u0627\u06b3\u064a\u0648\u0646",
-    "previous": "\u067e\u0648\u064a\u0648\u0646"
-  },
-  "processing": "\u067e\u0631\u0627\u0633\u064a\u0633 \u06aa\u0631\u064a \u0631\u06be\u064a\u0648 \u0622\u06be\u064a",
-  "search": "\u06b3\u0648\u0644\u0627",
-  "searchBuilder": {
-    "add": "\u0633\u06be\u064a\u0699 \u0634\u0627\u0645\u0644 \u06aa\u0631\u064a\u0648",
-    "clearAll": "\u0633\u0680 \u0635\u0627\u0641 \u06aa\u0631\u064a\u0648",
-    "data": "\u068a\u064a\u067d\u0627"
-  }
+    "autoFill": {
+        "cancel": "منسوخ"
+    },
+    "buttons": {
+        "collection": "سھيڙ",
+        "colvis": "ڪالم جو ڏيک",
+        "colvisRestore": "ڏيک ڦيرايو",
+        "copy": "ڪاپي ڪريو",
+        "copyTitle": "ڪلپ بورڊ ۾ ڪاپي ڪريو",
+        "csv": "سي.ايس.وِي",
+        "excel": "ايڪسل",
+        "pdf": "پي.ڊي.ايف",
+        "print": "پرنٽ"
+    },
+    "emptyTable": "ٽيبل ۾ ڪوبہ مواد ناھي",
+    "paginate": {
+        "first": "پھريون",
+        "last": "آخري",
+        "next": "اڳيون",
+        "previous": "پويون"
+    },
+    "processing": "پراسيس ڪري رھيو آھي",
+    "search": "ڳولا",
+    "searchBuilder": {
+        "add": "سھيڙ شامل ڪريو",
+        "clearAll": "سڀ صاف ڪريو",
+        "data": "ڊيٽا"
+    }
 }
