@@ -1,4 +1,4 @@
-FROM nginx:1.29.1-alpine3.22-perl
+FROM nginx:1.29.2-alpine3.22-perl
 
 RUN  apk add --no-cache rsvg-convert
 
